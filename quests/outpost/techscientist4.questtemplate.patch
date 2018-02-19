@@ -2,4 +2,9 @@
 "op" : "add",
 "path" : "/scriptConfig/showTech/-",
 "value" : "kazfly"
+},
+{
+"op" : "add",
+"path" : "/scriptConfig/showTech/-",
+"value" : "kazfly2"
 }]
