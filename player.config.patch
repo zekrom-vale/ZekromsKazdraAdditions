@@ -49,6 +49,21 @@
 { 
 	"op" : "add",
 	"path" : "/defaultCodexes/kazdra/-",
+	"value" : "kazconstructs"
+},
+{ 
+	"op" : "add",
+	"path" : "/defaultCodexes/kazdra/-",
 	"value" : "kazdraobservations"
+},
+{ 
+	"op" : "add",
+	"path" : "/defaultCodexes/kazdra/-",
+	"value" : "kazmetalwork"
+},
+{ 
+	"op" : "add",
+	"path" : "/defaultCodexes/kazdra/-",
+	"value" : "staloa"
 }
 ]
