@@ -1,0 +1,13 @@
+{
+  "itemName" : "liquidresonite",
+  "rarity" : "Uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "liquidresoniteicon.png",
+  "shortdescription" : "Liquid Resonite",
+  "description" : "This liquid amplifies the sound of any noise in the area.",
+
+  "liquid" : "liquidresonite",
+  
+  "fuelAmount" : 10,
+  "price" : 7
+}

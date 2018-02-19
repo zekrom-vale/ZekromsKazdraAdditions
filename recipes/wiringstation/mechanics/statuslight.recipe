@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "siliconboard", "count" : 1 },
+    { "item" : "wire", "count" : 1 },
+	{ "item" : "glass", "count" : 6 }
+  ],
+  "output" : { "item" : "statuslight", "count" : 1 },
+  "groups" : [ "craftingwiring", "mechanics" ]
+}

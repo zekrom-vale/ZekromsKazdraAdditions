@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "liquidresonite", "count" : 10 },
+    { "item" : "ironbar", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "kazship1",
+    "count" : 10
+  },
+  "groups" : [ "craftingfurniture", "materials", "all" ]
+}

@@ -1,0 +1,20 @@
+{
+  "id" : "kazdraorigins",
+  "species" : "kazdra",
+  "title" : "Excerpt from Undekalt",
+  "description" : "An excerpt from a kazdran jounalist's article.",
+  "icon" : "kazdracodexfront.png",
+  "contentPages" : [
+	"It's been centuries since the clan war, but nothing has truely changed. Metal, still scarce and the cause of most conflict on the planet. The council that was erected after the clan war, strugling to maintain peace, has made the decision to begin research into space travel. All of the best and brightest gemcrafters, smiths, and scientists have been called upon to develop what could be our salvation, though not all have joined the cause...",
+
+	"Some of those who have the knowledge to help instead gather together under a banner of greed to develope and monopolize this new industry that is about to be born. Even clanless are making attempts to shatter the gates of the heavens, but it's a wonder we kazdra have made any progress with all the theft and sabotage. None-the-less, a few recently completed prototypes have been been successful, and colonisation projects have been planned.",
+
+	"Soon maybe we'll be able to break free from our ancient, petty rivalries, our poverty, and from what has become our nature... maybe...",
+
+	"-Alduik Solsier 04:25:1503"
+  ],
+	"itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

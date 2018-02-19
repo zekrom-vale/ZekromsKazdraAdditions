@@ -1,0 +1,32 @@
+[
+{
+"op" : "add",
+"path" : "/volcanicTreasure/0/1/pool/-",
+"value" : {"weight" : 0.1, "item" : ["spyrodrill"]}
+},
+{
+"op" : "add",
+"path" : "/desertTreasure/0/1/pool/-",
+"value" : {"weight" : 0.3, "item" : ["spyrodrill"]}
+},
+{
+"op" : "add",
+"path" : "/volcanicTreasure/0/1/pool/-",
+"value" : {"weight" : 0.5, "pool" : "kazdragem"}
+},
+{
+"op" : "add",
+"path" : "/desertTreasure/0/1/pool/-",
+"value" : {"weight" : 1.0, "pool" : "kazdragem"}
+},
+{
+"op" : "add",
+"path" : "/volcanicTreasure/0/1/pool/-",
+"value" : {"weight" : 0.5, "item" : "ancientkazdatacrystal"}
+},
+{
+"op" : "add",
+"path" : "/desertTreasure/0/1/pool/-",
+"value" : {"weight" : 0.7, "item" : "ancientkazdatacrystal"}
+}
+]

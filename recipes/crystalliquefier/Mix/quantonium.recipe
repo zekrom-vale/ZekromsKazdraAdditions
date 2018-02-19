@@ -1,0 +1,18 @@
+{
+  "input" : [
+	{ "item" : "liquidresonite", "count" : 100 },
+	{ "item" : "liquidzoastone", "count" : 40 },
+	{ "item" : "liquidfuel", "count" : 50 },
+	{ "item" : "solariumstar", "count" : 10 },
+	{ "item" : "scorchedcore", "count" : 3 },
+	{ "item" : "moltencore", "count" : 1 },
+	{ "item" : "volatilepowder", "count" : 100 },
+	{ "item" : "rottenfood", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "liquidquantonium",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "crystalliquefier", "mix" ]
+}

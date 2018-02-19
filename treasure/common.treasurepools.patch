@@ -1,0 +1,90 @@
+[
+//Tool
+{
+"op" : "add",
+"path" : "/diggingTool/3/1/pool/-",
+"value" : {"weight" : 0.2, "item" : "spyrodrill" }
+},
+{
+"op" : "add",
+"path" : "/diggingTool/4/1/pool/-",
+"value" : {"weight" : 0.4, "item" : "spyrodrill" }
+},
+{
+"op" : "add",
+"path" : "/diggingTool/5/1/pool/-",
+"value" : {"weight" : 0.6, "item" : "spyrodrill" }
+},
+{
+"op" : "add",
+"path" : "/diggingTool/5/1/pool/-",
+"value" : {"weight" : 0.8, "item" : "spyrodrill" }
+},
+//Juice
+{
+"op" : "add",
+"path" : "/healingItem/0/1/pool/-",
+"value" : {"weight" : 0.2, "item" : "kahla" }
+},
+{
+"op" : "add",
+"path" : "/healingItem/1/1/pool/-",
+"value" : {"weight" : 0.2, "item" : "etherianjolt" }
+},
+{
+"op" : "add",
+"path" : "/healingItem/0/1/pool/-",
+"value" : {"weight" : 0.1, "item" : "jurassiccocktail" }
+},
+//Seeds
+{
+"op" : "add",
+"path" : "/seed/2/1/pool/-",
+"value" : {"weight" : 2.0, "item" : "hironseed" }
+},
+{
+"op" : "add",
+"path" : "/seed/2/1/pool/-",
+"value" : {"weight" : 3.5, "item" : "resoniteseed" }
+},
+{
+"op" : "add",
+"path" : "/seed/2/1/pool/-",
+"value" : {"weight" : 2.0, "item" : "zoastoneseed" }
+},
+{
+"op" : "add",
+"path" : "/seed/2/1/pool/-",
+"value" : {"weight" : 3.0, "item" : "rootpopseed" }
+},
+//costume
+{
+"op" : "add",
+"path" : "/costume/0/1/pool/-",
+"value" : {"weight" : 0.0006, "item" : "kazbluemask" }
+},
+{
+"op" : "add",
+"path" : "/costume/0/1/pool/-",
+"value" : {"weight" : 0.0005, "item" : "kazghastly" }
+},
+{
+"op" : "add",
+"path" : "/kazdragem",
+"value" : [[0,
+	{
+      "pool" : [
+        {"weight" : 0.8, "item" : ["resonite", 9 ]},
+        {"weight" : 0.3, "item" : ["resoniteseed", 4 ]},
+        {"weight" : 0.1, "item" : ["koorium", 3 ]},
+		{"weight" : 0.6, "item" : ["hiron", 5 ]},
+        {"weight" : 0.3, "item" : ["hironseed", 3 ]},
+        {"weight" : 0.1, "item" : ["kazein", 2 ]},
+		{"weight" : 0.4, "item" : ["zoastone", 5 ]},
+        {"weight" : 0.2, "item" : ["zoastoneseed", 3 ]}
+      ]
+    }
+  ]]
+}
+
+]

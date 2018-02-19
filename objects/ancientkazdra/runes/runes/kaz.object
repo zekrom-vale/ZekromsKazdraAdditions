@@ -1,0 +1,22 @@
+{
+  "objectName" : "runekaz",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "A kazdra rune denoting kazdra.",
+  "shortdescription" : "Kaz Rune",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 10,
+  
+  "defaultDescription" : "A kazdra rune denoting kazdra.",
+
+  "inventoryIcon" : "kaz.png",
+  "orientations" : [
+    {
+      "dualImage" : "kaz.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

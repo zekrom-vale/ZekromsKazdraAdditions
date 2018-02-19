@@ -1,0 +1,11 @@
+{
+  "itemName" : "liquidkazein",
+  "rarity" : "Uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "liquidkazeinicon.png",
+  "shortdescription" : "Liquid Kazein",
+  "description" : "This odd liquid can control gravity when provided with an electrical current.",
+
+  "liquid" : "liquidkazein",
+  "price" : 10
+}

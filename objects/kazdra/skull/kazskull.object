@@ -1,0 +1,28 @@
+{
+  "objectName" : "kazskull",
+  "tags" : ["kazdra"],
+  "rarity" : "Uncommon",
+  "description" : "The skull of a kazdra.",
+  "shortdescription" : "Kazdra Skull",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 500,
+
+  "apexDescription" : "A kazdra skull.",
+  "avianDescription" : "Nooo! Brother!",
+  "floranDescription" : "Sshiny skulll, what did you come ffrom?",
+  "glitchDescription" : "Intrigued. Does this mean they are an ally?",
+  "humanDescription" : "Aww, it is dead... Poor dragon.",
+  "hylotlDescription" : "There must be a reason for it's death.",
+  "kazdraDescription" : "... I don't feel safe here...",
+
+  "inventoryIcon" : "kazskullicon.png",
+  "orientations" : [
+    {
+      "image" : "kazskull.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

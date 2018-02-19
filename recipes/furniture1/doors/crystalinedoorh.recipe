@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "resonite", "count" : 4 },
+	{ "item" : "cobblestonematerial", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "crystalinedoorh",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "doors", "all" ]
+}

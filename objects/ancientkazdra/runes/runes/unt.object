@@ -1,0 +1,22 @@
+{
+  "objectName" : "runeunt",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "A kazdra rune denoting one.",
+  "shortdescription" : "Unt Rune",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 10,
+  
+  "defaultDescription" : "A kazdra rune denoting one.",
+
+  "inventoryIcon" : "unt.png",
+  "orientations" : [
+    {
+      "dualImage" : "unt.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

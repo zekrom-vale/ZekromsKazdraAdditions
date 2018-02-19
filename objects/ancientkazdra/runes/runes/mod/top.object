@@ -1,0 +1,22 @@
+{
+  "objectName" : "runemodtop",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "A kazdra modification rune.",
+  "shortdescription" : "Top Mod Rune",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 10,
+  
+  "defaultDescription" : "A kazdra modification rune.",
+
+  "inventoryIcon" : "top.png",
+  "orientations" : [
+    {
+      "dualImage" : "top.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

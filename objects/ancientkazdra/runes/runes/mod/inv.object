@@ -1,0 +1,22 @@
+{
+  "objectName" : "runemodinv",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "A kazdra modification rune this inverts the meaning of the base rune.",
+  "shortdescription" : "Inv Mod Rune",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 10,
+  
+  "defaultDescription" : "A kazdra modification rune this inverts the meaning of the base rune.",
+
+  "inventoryIcon" : "inv.png",
+  "orientations" : [
+    {
+      "dualImage" : "inv.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

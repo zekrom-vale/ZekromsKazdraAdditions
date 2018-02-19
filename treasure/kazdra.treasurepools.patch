@@ -1,0 +1,23 @@
+[
+{
+"op" : "add",
+"path" : "/kazdraStarterTreasure/0/1/fill/-",
+"value" : { "item" : [ "rootpopseed", 3] }
+},
+{
+"op" : "add",
+"path" : "/kazdraStarterTreasure/0/1/fill/-",
+"value" : { "pool" : "breathweapon" }
+},
+//"maxstack": 1 can't do `"value" : { "item" : [ "kazclaw", 2] }`
+{
+"op" : "add",
+"path" : "/kazdraStarterTreasure/0/1/fill/-",
+"value" : { "item" : [ "kazclaw", 1] }
+},
+{
+"op" : "add",
+"path" : "/kazdraStarterTreasure/0/1/fill/-",
+"value" : { "item" : [ "kazclaw", 1] }
+}
+]

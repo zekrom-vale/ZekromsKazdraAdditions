@@ -1,0 +1,22 @@
+{
+  "objectName" : "runezoa",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "A kazdra rune denoting void.",
+  "shortdescription" : "Zoa Rune",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 10,
+  
+  "defaultDescription" : "A kazdra rune denoting void.",
+
+  "inventoryIcon" : "zoa.png",
+  "orientations" : [
+    {
+      "dualImage" : "zoa.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

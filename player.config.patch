@@ -1,0 +1,54 @@
+[
+//===================================================================================
+//										Crafting
+//===================================================================================
+//Spawner
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawnerkazdra" }
+},{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawnerkazdramerchant" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawnerkazdraguard" }
+},
+//Disposable
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawneggkazdra" }
+},{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawneggkazdramerchant" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawneggkazdraguard" }
+},
+//Crafting
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "ancientdataextractor" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kazextracteddata" }
+},
+//===================================================================================
+//										Codex
+//===================================================================================
+{ 
+	"op" : "add",
+	"path" : "/defaultCodexes/kazdra/-",
+	"value" : "kazdraobservations"
+}
+]

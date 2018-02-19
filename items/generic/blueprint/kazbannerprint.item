@@ -1,0 +1,15 @@
+{
+  "itemName" : "kazbannerprint",
+  "rarity" : "Uncommon",
+  "category" : "Blueprint",
+  "image" : "/items/generated/blueprint.png",
+  "description" : "Unlocks the Kazdra banners on pickup.",
+  "shortdescription" : "Kazdra Banner Blueprint",
+  "learnBlueprintsOnPickup" : [
+	"kazbanner",
+	"kazbannerfull",
+	"kazbannerP",
+	"kazbannerW"
+  ],
+  "inHandImage" : "/items/generated/blueprintinhand.png"
+}

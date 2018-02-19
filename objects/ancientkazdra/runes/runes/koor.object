@@ -1,0 +1,22 @@
+{
+  "objectName" : "runekoor",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "A kazdra rune denoting cold.",
+  "shortdescription" : "Koor Rune",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 10,
+  
+  "defaultDescription" : "A kazdra rune denoting cold.",
+
+  "inventoryIcon" : "koor.png",
+  "orientations" : [
+    {
+      "dualImage" : "koor.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+	{ "item" : "resonite", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "frostbreath",
+    "count" : 1
+  },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}

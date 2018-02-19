@@ -1,0 +1,10 @@
+[{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : "dragonbikecontroller" }
+},
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : "dragonbikecontroller2" }
+}]

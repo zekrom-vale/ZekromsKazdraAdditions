@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "resonite", "count" : 20 },
+    { "item" : "teleportercore", "count" : 1 },
+	{ "item" : "goldbar", "count" : 6 },
+	{ "item" : "silverbar", "count" : 6 }
+  ],
+  "output" : {
+    "item" : "spawnerkazdramerchant",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

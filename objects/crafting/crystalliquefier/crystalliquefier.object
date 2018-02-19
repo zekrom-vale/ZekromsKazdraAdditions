@@ -1,0 +1,82 @@
+{
+  "objectName" : "crystalliquefier",
+  "colonyTags" : ["crafting"],
+  "category" : "crafting",
+  "rarity" : "Uncommon",
+  "description" : "Used to liquefy crystals.",
+  "shortdescription" : "^orange;Crystal Liquefier^white;",
+  "race" : "kazdra",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/crystalliquefier.config",
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : " Crystal Liquefier",
+          "subtitle" : " ^#b9b5b2;Crystals",
+          "icon" : {
+          "file" : "/interface/crafting/craftingfurnace.png"
+        }
+      }
+    },
+	"filter" : [ "crystalliquefier" ]
+  },
+  "price" : 1000,
+  "printable" : false,
+  
+  "apexDescription" : "A primitive furnace. I can liquefy things here.",
+  "avianDescription" : "A furnace perfect for liquefying crystals.",
+  "floranDescription" : "Furnace flamess hisss, burn. Floran brave it.",
+  "glitchDescription" : "Impressed. This furnace is the perfect temperature for liquefying crystals.",
+  "humanDescription" : "A liquefying furnace. Looks hot.",
+  "hylotlDescription" : "A hot, imposing furnace.",
+  "novakidDescription" : "Basic lookin' furnace, for liquefyin' crystals.",
+
+  "inventoryIcon" : "crystalliquefiericon.png",
+  "placementImage" : "crystalliquefier.png:default.default",
+  "placementImagePosition" : [-8, 0],
+  "scripts" : [ "/scripts/npcToyObject.lua"],
+  "animation" : "crystalliquefier.animation",
+  "animationPosition" : [4, 12],
+  
+  "learnBlueprintsOnPickup" : [],
+
+  "orientations" : [
+    {
+      "image" : "crystalliquefier.png:default.<frame>",
+      "imagePosition" : [-8, 0],    
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "crystalliquefier.png:default.<frame>",
+      "imagePosition" : [-8, 0],    
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "npcToy" : {
+    "influence" : [
+      "furnace",
+      "furnace",
+      "furnaceComplete"
+    ],
+    "defaultReactions" : {
+      "furnace" : [
+        [1.0, "warmhands"],
+        [1.0, "crouchwarm"]
+      ],
+      "furnaceComplete" : [
+        [1.0, "warmhands"],
+        [1.0, "crouchwarm"],
+        [1.0, "pokefire"]
+      ]
+    },
+    "preciseStandPositionLeft" : [-1.5, 0.0],
+    "preciseStandPositionRight" : [2.5, 0.0],
+    "maxNpcs" : 1
+  }
+}

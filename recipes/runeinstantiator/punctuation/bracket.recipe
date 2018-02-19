@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "kazblackchalk", "count" : 42 }, { "item" : "kazwhitechalk", "count" : 18 }
+  ],
+  "output" : { "item" : "runepunctuationbracket", "count" : 1 },
+  "duration" : 0,
+  "groups" : [ "runeinstantiator", "punctuation" ]
+}

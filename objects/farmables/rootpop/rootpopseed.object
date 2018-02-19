@@ -1,0 +1,55 @@
+{
+  "objectName" : "rootpopseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "This gem smells like root-beer!?",
+  "shortdescription" : "Rootpop Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 300,
+
+  "apexDescription" : "A humming crystal... Nifty!",
+  "avianDescription" : "This crystal is similar to the ones we use in our resonance tech.",
+  "floranDescription" : "Floran distrust noissy rock...",
+  "glitchDescription" : "interested. It would seem that this crystal could be refined into fuel. If only I knew how.",
+  "humanDescription" : "These crystals hum an eerie, yet beautiful melody.",
+  "hylotlDescription" : "I've heard that different purities make different pitched tones. I wonder if I can harness them artistically!",
+  "kazdraDescription" : "these singing crystals have provided my race with energy for generations. The refinement process is a closely guarded secret.",
+  
+  "lightColor" : [56, 22, 103],
+
+  "inventoryIcon" : "icon.png",
+  
+  "tooltipKind" : "seed",
+  "largeImage" : "rootpopseed.png:default.2.4",
+  "orientations" : [
+    {
+      "dualImage" : "rootpopseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "stages" : [
+    {
+      "duration" : [220, 220]
+    },
+    {
+      "duration" : [220, 220]
+    },
+    {
+      "alts" : 5,
+      "harvestPool" : "rootpopHarvest"
+    }
+  ],
+  
+  "consumeSoilMoisture" : false
+  
+}

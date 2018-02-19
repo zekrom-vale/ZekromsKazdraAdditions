@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "liquidresonite", "count" : 10 },
+    { "item" : "cobblestonematerial", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "springrock1",
+    "count" : 1
+  },
+  "groups" : [ "plain" ]
+}

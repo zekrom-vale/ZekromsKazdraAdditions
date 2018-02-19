@@ -1,0 +1,97 @@
+[{
+"op" : "replace",
+"path" : "/items/kazdra",
+"value" : [0, [
+        {
+		  "chest" : [
+		    { "name" : "colourfulchest", "parameters" : { "colorIndex" : 11 } },
+			{ "name" : "gemcraftchest", "parameters" : { "colorIndex" : 1 } },
+			{ "name" : "gemcraftchest", "parameters" : { "colorIndex" : 3 } },
+			{ "name" : "gemcraftchest", "parameters" : { "colorIndex" : 4 } },
+			{ "name" : "gemcraftchest", "parameters" : { "colorIndex" : 5 } },
+			{ "name" : "gemcraftchest", "parameters" : { "colorIndex" : 6 } },
+			{ "name" : "gemcraftchest", "parameters" : { "colorIndex" : 7 } },
+			{ "name" : "gemcraftchest", "parameters" : { "colorIndex" : 8 } },
+			{ "name" : "gemcraftchest", "parameters" : { "colorIndex" : 9 } },
+			{ "name" : "inviskazchest" }
+		  ],
+          "legs" : [ 
+		    { "name" : "thiefskals", "parameters" : { "colorIndex" : 2 } },
+			{ "name" : "gemcraftskals", "parameters" : { "colorIndex" : 1 } },
+			{ "name" : "gemcraftskals", "parameters" : { "colorIndex" : 3 } },
+			{ "name" : "gemcraftskals", "parameters" : { "colorIndex" : 4 } },
+			{ "name" : "gemcraftskals", "parameters" : { "colorIndex" : 5 } },
+			{ "name" : "gemcraftskals", "parameters" : { "colorIndex" : 6 } },
+			{ "name" : "gemcraftskals", "parameters" : { "colorIndex" : 7 } },
+			{ "name" : "gemcraftskals", "parameters" : { "colorIndex" : 8 } },
+			{ "name" : "gemcraftskals", "parameters" : { "colorIndex" : 9 } },
+			{ "name" : "inviskazpants" }
+		  ]
+        },
+		{
+		  "head" : [ { "name" : "kazdratier1head" } ],
+          "chest" : [ { "name" : "kazdratier1chest" } ],
+          "legs" : [ { "name" : "kazdratier1pants" } ]
+        },
+		{
+		  "head" : [ { "name" : "kazdratier2head" } ],
+          "chest" : [ { "name" : "kazdratier2chest" } ],
+          "legs" : [ { "name" : "kazdratier2pants" } ]
+        },
+		{
+		  "head" : [ { "name" : "kazdratier3head" } ],
+          "chest" : [ { "name" : "kazdratier3chest" } ],
+          "legs" : [ { "name" : "kazdratier3pants" } ]
+        },
+		{
+		  "head" : [ { "name" : "kazdratier4head" } ],
+          "chest" : [ { "name" : "kazdratier4chest" } ],
+          "legs" : [ { "name" : "kazdratier4pants" } ]
+        },
+		{
+          "chest" : [
+		    { "name" : "thiefshirt", "data" : { "colorIndex" : 1 } }, 
+			{ "name" : "thiefshirt", "data" : { "colorIndex" : 3 } }, 
+			{ "name" : "thiefshirt", "data" : { "colorIndex" : 4 } }, 
+			{ "name" : "thiefshirt", "data" : { "colorIndex" : 5 } }, 
+			{ "name" : "thiefshirt", "data" : { "colorIndex" : 6 } }, 
+			{ "name" : "thiefshirt", "data" : { "colorIndex" : 7 } }, 
+			{ "name" : "thiefshirt", "data" : { "colorIndex" : 8 } }, 
+			{ "name" : "thiefshirt", "data" : { "colorIndex" : 9 } }
+		  ],
+          "legs" : [ 
+		    { "name" : "thiefskals", "data" : { "colorIndex" : 1 } }, 
+			{ "name" : "thiefskals", "data" : { "colorIndex" : 3 } }, 
+			{ "name" : "thiefskals", "data" : { "colorIndex" : 4 } }, 
+			{ "name" : "thiefskals", "data" : { "colorIndex" : 5 } }, 
+			{ "name" : "thiefskals", "data" : { "colorIndex" : 6 } }, 
+			{ "name" : "thiefskals", "data" : { "colorIndex" : 7 } }, 
+			{ "name" : "thiefskals", "data" : { "colorIndex" : 8 } }, 
+			{ "name" : "thiefskals", "data" : { "colorIndex" : 9 } }
+		  ]
+        },
+		{
+          "chest" : [
+		    { "name" : "bellshirt", "data" : { "colorIndex" : 1 } }, 
+			{ "name" : "bellshirt", "data" : { "colorIndex" : 3 } }, 
+			{ "name" : "bellshirt", "data" : { "colorIndex" : 4 } }, 
+			{ "name" : "bellshirt", "data" : { "colorIndex" : 5 } }, 
+			{ "name" : "bellshirt", "data" : { "colorIndex" : 6 } }, 
+			{ "name" : "bellshirt", "data" : { "colorIndex" : 7 } }, 
+			{ "name" : "bellshirt", "data" : { "colorIndex" : 8 } }, 
+			{ "name" : "bellshirt", "data" : { "colorIndex" : 9 } }	
+		  ],
+          "legs" : [ 
+		    { "name" : "bellskals", "data" : { "colorIndex" : 1 } }, 
+			{ "name" : "bellskals", "data" : { "colorIndex" : 3 } }, 
+			{ "name" : "bellskals", "data" : { "colorIndex" : 4 } }, 
+			{ "name" : "bellskals", "data" : { "colorIndex" : 5 } }, 
+			{ "name" : "bellskals", "data" : { "colorIndex" : 6 } }, 
+			{ "name" : "bellskals", "data" : { "colorIndex" : 7 } }, 
+			{ "name" : "bellskals", "data" : { "colorIndex" : 8 } }, 
+			{ "name" : "bellskals", "data" : { "colorIndex" : 9 } }
+		  ]
+        }
+      ]]
+}
+]

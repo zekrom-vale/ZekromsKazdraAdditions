@@ -1,0 +1,10 @@
+[{
+"op" : "add",
+"path" : "/scriptConfig/showTech/-",
+"value" : "quantumdash"
+},
+{
+"op" : "add",
+"path" : "/scriptConfig/showTech/-",
+"value" : "quantumdashDev"
+}]

@@ -1,0 +1,22 @@
+{
+  "objectName" : "runepunctuationcolon",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "A kazdra punctuation rune.",
+  "shortdescription" : "Colon Punctuation Rune",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 10,
+  
+  "defaultDescription" : "A kazdra punctuation rune.",
+
+  "inventoryIcon" : "colon.png",
+  "orientations" : [
+    {
+      "dualImage" : "colon.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

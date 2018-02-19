@@ -1,0 +1,378 @@
+{
+  // ==============================================================================================
+  //                                   KAZ-COMMON TREASURE POOLS
+  // ==============================================================================================
+
+  // ================================
+  //       Basic Treasure Pool
+  // ================================
+
+  "kazbasicTreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.16, "pool" : "kazhealingItem"},
+        {"weight" : 0.16, "pool" : "kazore"},
+        {"weight" : 0.12, "pool" : "thrownWeapon"},
+        {"weight" : 0.05, "pool" : "kazweapon"},
+        {"weight" : 0.05, "pool" : "kazgem"},
+        {"weight" : 0.08, "item" : "manipulatormodule"},
+        {"weight" : 0.03, "item" : "techcard"},
+        {"weight" : 0.01, "item" : "upgrademodule"},
+        {"weight" : 0.01, "pool" : "instrument"},
+        {"weight" : 0.01, "pool" : "kazcostume"},
+        {"weight" : 0.03, "pool" : "kazblueprint"}
+      ]
+    }]
+  ],
+
+  // ================================
+  //            Ore Pools
+  // ================================
+
+  "kazore" : [
+    [0, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 4]},
+        {"weight" : 0.1, "item" : [ "silverore", 4]},
+        {"weight" : 0.1, "item" : [ "goldore", 4]},
+        {"weight" : 0.7, "item" : [ "ironore", 4]}
+      ]
+    }],
+    [1.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 4]},
+        {"weight" : 0.1, "item" : [ "silverore", 4]},
+        {"weight" : 0.1, "item" : [ "goldore", 4]},
+        {"weight" : 0.7, "item" : [ "tungstenore", 4]}
+      ]
+    }],
+    [2.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 4]},
+        {"weight" : 0.1, "item" : [ "silverore", 4]},
+        {"weight" : 0.1, "item" : [ "goldore", 4]},
+        {"weight" : 0.65, "item" : [ "titaniumore", 4]},
+        {"weight" : 0.05, "item" : [ "diamond", 1]}
+      ]
+    }],
+    [3.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 4]},
+        {"weight" : 0.1, "item" : [ "silverore", 4]},
+        {"weight" : 0.1, "item" : [ "goldore", 4]},
+        {"weight" : 0.65, "item" : [ "durasteelore", 4]},
+        {"weight" : 0.05, "item" : [ "diamond", 1]}
+      ]
+    }],
+    [4.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 4]},
+        {"weight" : 0.1, "item" : [ "silverore", 4]},
+        {"weight" : 0.1, "item" : [ "goldore", 4]},
+        {"weight" : 0.2, "item" : [ "violiumore", 4]},
+        {"weight" : 0.2, "item" : [ "aegisaltore", 4]},
+        {"weight" : 0.2, "item" : [ "feroziumore", 4]},
+        {"weight" : 0.1, "item" : [ "diamond", 1]}
+      ]
+    }],
+    [5.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 4]},
+        {"weight" : 0.1, "item" : [ "silverore", 4]},
+        {"weight" : 0.1, "item" : [ "goldore", 4]},
+        {"weight" : 0.6, "item" : [ "solariumore", 4]},
+        {"weight" : 0.1, "item" : [ "diamond", 1]}
+      ]
+    }]
+  ],
+
+  "kazrichOre" : [
+    [0, {
+      "poolRounds" : 1,
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 15]},
+        {"weight" : 0.1, "item" : [ "silverore", 15]},
+        {"weight" : 0.1, "item" : [ "goldore", 15]},
+        {"weight" : 0.7, "item" : [ "ironore", 15]}
+      ]
+    }],
+    [1.9, {
+      "poolRounds" : 1,
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 15]},
+        {"weight" : 0.1, "item" : [ "silverore", 15]},
+        {"weight" : 0.1, "item" : [ "goldore", 15]},
+        {"weight" : 0.7, "item" : [ "tungstenore", 15]}
+      ]
+    }],
+    [2.9, {
+      "poolRounds" : 1,
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 15]},
+        {"weight" : 0.1, "item" : [ "silverore", 15]},
+        {"weight" : 0.1, "item" : [ "goldore", 15]},
+        {"weight" : 0.65, "item" : [ "titaniumore", 15]},
+        {"weight" : 0.05, "item" : [ "diamond", 1]}
+      ]
+    }],
+    [3.9, {
+      "poolRounds" : 1,
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 15]},
+        {"weight" : 0.1, "item" : [ "silverore", 15]},
+        {"weight" : 0.1, "item" : [ "goldore", 15]},
+        {"weight" : 0.65, "item" : [ "durasteelore", 15]},
+        {"weight" : 0.05, "item" : [ "diamond", 1]}
+      ]
+    }],
+    [4.9, {
+      "poolRounds" : 1,
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 15]},
+        {"weight" : 0.1, "item" : [ "silverore", 15]},
+        {"weight" : 0.1, "item" : [ "goldore", 15]},
+        {"weight" : 0.2, "item" : [ "violiumore", 15]},
+        {"weight" : 0.2, "item" : [ "aegisaltore", 15]},
+        {"weight" : 0.2, "item" : [ "feroziumore", 15]},
+        {"weight" : 0.1, "item" : [ "diamond", 2]}
+      ]
+    }],
+    [5.9, {
+      "poolRounds" : 1,
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "copperore", 15]},
+        {"weight" : 0.1, "item" : [ "silverore", 15]},
+        {"weight" : 0.1, "item" : [ "goldore", 15]},
+        {"weight" : 0.6, "item" : [ "solariumore", 15]},
+        {"weight" : 0.1, "item" : [ "diamond", 3]}
+      ]
+    }]
+  ],
+
+  // ================================
+  //              Tools
+  // ================================
+
+  "kaztool" : [
+    //TODO: add tiers
+    [0, {
+      "pool" : [
+        {"weight" : 0.3, "pool" : "kazdiggingTool"},
+
+        {"weight" : 0.3, "item" : [ "flare", 15]},
+        {"weight" : 0.3, "item" : [ "torch", 15]},
+
+        {"weight" : 0.03, "item" : [ "throwingblock", 20]},
+
+        {"weight" : 0.04, "item" : [ "bomb", 3]},
+
+        {"weight" : 0.01, "item" : [ "redflashlight", 1]},
+        {"weight" : 0.01, "item" : [ "greenflashlight", 1]},
+        {"weight" : 0.01, "item" : [ "yellowflashlight", 1]}
+      ]
+    }]
+  ],
+
+  "kazdiggingTool" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.7, "item" : "copperpickaxe"},
+        {"weight" : 0.3, "item" : "silverpickaxe"}
+      ]
+    }],
+    [1.9, {
+      "pool" : [
+        {"weight" : 0.7, "item" : "silverpickaxe"},
+        {"weight" : 0.5, "item" : "kazdrill"},
+        {"weight" : 0.3, "item" : "platinumpickaxe"}
+      ]
+    }],
+    [2.9, {
+      "pool" : [
+        {"weight" : 0.7, "item" : "platinumpickaxe"},
+        {"weight" : 0.7, "item" : "kazdrill"},
+        {"weight" : 0.3, "item" : "diamondpickaxe"}
+      ]
+    }],
+    [3.9, {
+      "pool" : [
+        {"weight" : 0.7, "item" : "diamondpickaxe"},
+        {"weight" : 0.3, "item" : "golddrill"},
+        {"weight" : 0.2, "item" : "spyrodrill"}
+      ]
+    }],
+    [4.9, {
+      "pool" : [
+        {"weight" : 0.7, "item" : "golddrill"},
+        {"weight" : 0.5, "item" : "spyrodrill"},
+        {"weight" : 0.3, "item" : "platinumdrill"}
+      ]
+    }],
+    [5.9, {
+      "pool" : [
+        {"weight" : 0.7, "item" : "platinumdrill"},
+        {"weight" : 0.3, "item" : "diamonddrill"}
+      ]
+    }],
+    [6.9, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "diamonddrill"}
+      ]
+    }]
+  ],
+
+  // ================================
+  //          Healing Items
+  // ================================
+
+  "kazhealingItem" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.34, "item" : [ "kahla", 2]},
+        {"weight" : 0.06, "item" : [ "kahla", 17]},
+        {"weight" : 0.35, "item" : [ "salve", 3]},
+        {"weight" : 0.25, "item" : [ "bandage", 2]}
+      ]
+    }],
+    [3.9, {
+      "pool" : [
+        {"weight" : 0.40, "item" : [ "medkit", 1]},
+        {"weight" : 0.38, "item" : [ "kahla", 2]},
+		{"weight" : 0.7, "item" : [ "kahla", 20]},
+        {"weight" : 0.15, "item" : [ "nanowrap", 1]}
+      ]
+    }]
+  ],
+  
+  // ================================
+  //          Weapon Pools
+  // ================================
+
+  "breathweapon" : [
+	[0, {
+		"pool" : [
+			{"weight" : 1, "item" : [ "electricbreath", 1]},
+			{"weight" : 1, "item" : [ "firebreath", 1]},
+			{"weight" : 1, "item" : [ "frostbreath", 1]}
+		]
+	}]
+  ],
+  
+  // ================================
+  //            Costumes
+  // ================================
+
+  "kazcostume" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.4, "pool" : "costume"},
+        {"weight" : 0.0003, "item" : [ "comickazchest", 1]},
+        {"weight" : 0.0003, "item" : [ "comickazhead", 1]},
+        {"weight" : 0.0003, "item" : [ "comickazlegs", 1]},
+        {"weight" : 0.0003, "item" : [ "kazbluemask", 1]},
+        {"weight" : 0.0003, "item" : [ "kazghastlyhead", 1]},
+		{"weight" : 0.00004, "item" : "zekromhead"},
+		{"weight" : 0.00003, "item" : "zekromchest"},
+		{"weight" : 0.00003, "item" : "zekrompants"}
+      ]
+    }]
+  ],
+
+  // ================================
+  //      Challenge Room Chests
+  // ================================
+
+  "kazcrystal" : [
+    [0, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.1, "item" : [ "koorium", 2]},
+        {"weight" : 0.3, "item" : [ "zoastone", 3]},
+        {"weight" : 0.2, "item" : [ "hiron", 2]},
+		{"weight" : 0.1, "item" : [ "kazein", 1]},
+        {"weight" : 1.0, "item" : [ "resonite", 6]}
+      ]
+    }]
+  ],
+  "kazblueprint" : [
+    [0, {
+      "pool" : [
+			//Materials
+		{"weight" : 1, "item" : "kazdraobservations-codex"},
+		{"weight" : 1, "item" : "kazdraorigins-codex"},
+		{"weight" : 0.6, "item" : "agatetile-recipe"},
+		{"weight" : 0.5, "item" : "coralrelief-recipe"},
+		{"weight" : 0.7, "item" : "crystalpanel-recipe"},
+		{"weight" : 0.9, "item" : "resonitethread-recipe"},
+		{"weight" : 0.7, "item" : "kazcloth-recipe"},
+		{"weight" : 0.5, "item" : "kazship1-recipe"},
+		{"weight" : 0.4, "item" : "kazship2-recipe"},
+		{"weight" : 0.6, "item" : "kazwoodflooring-recipe"},
+		{"weight" : 0.4, "item" : "swirlrelief-recipe"},
+		{"weight" : 0.5, "item" : "woodgemplatform-recipe"},
+			//Drinks
+		{"weight" : 2.5, "item" : "kahla-recipe"}
+      ]
+    }],
+	[1.9, {
+	  "pool" : [
+			//Furniture
+			//	Doors
+        {"weight" : 0.5, "item" : "crystalinedoor-recipe"},
+        {"weight" : 0.5, "item" : "crystalinedoorh-recipe"},
+        {"weight" : 0.4, "item" : "drassilgate-recipe"},
+        {"weight" : 0.4, "item" : "drassilgateh-recipe"},
+			//	Lights
+        {"weight" : 0.5, "item" : "crystallight1-recipe"},
+        {"weight" : 0.6, "item" : "glowgem-recipe"},
+        {"weight" : 0.5, "item" : "tinyglowgem-recipe"},
+			//	Storage
+		{"weight" : 0.5, "item" : "kazchest1-recipe"},
+			//	Decorative
+		{"weight" : 1.5, "item" : "kazflagprint"},
+		{"weight" : 1.8, "item" : "kazbannerprint"},
+			//Ship		
+        {"weight" : 0.2, "item" : "kazdratechstation-recipe"},
+        {"weight" : 0.2, "item" : "kazdrafuelhatch-recipe"}
+	  ]
+	}],
+	[2.9, {
+	  "pool" : [
+		//Tools
+		{"weight" : 0.7, "item" : "kazdrill-recipe"},
+		{"weight" : 0.5, "item" : "spyrodrill-recipe"},
+			//Armor
+		{"weight" : 0.6, "item" : "zekromhead-recipe"},
+		{"weight" : 0.4, "item" : "zekromchest-recipe"},
+		{"weight" : 0.6, "item" : "zekrompants-recipe"}
+	  ]
+	}],
+	[3.9, {
+	  "pool" : [
+			//Liquids
+        {"weight" : 1.0, "item" : "crystalliquefier-recipe"},
+        {"weight" : 0.2, "item" : "liquidagirezon-recipe"},
+        {"weight" : 0.2, "item" : "agirezon-recipe"},
+        {"weight" : 0.5, "item" : "liquidhiron-recipe"},
+        {"weight" : 0.5, "item" : "hiron-recipe"},
+        {"weight" : 0.4, "item" : "liquidkazein-recipe"},
+        {"weight" : 0.4, "item" : "kazein-recipe"},
+        {"weight" : 0.3, "item" : "liquidkoorium-recipe"},
+        {"weight" : 0.3, "item" : "koorium-recipe"},
+        {"weight" : 0.7, "item" : "liquidresonite-recipe"},
+        {"weight" : 0.7, "item" : "resonite-recipe"},
+        {"weight" : 0.6, "item" : "liquidzoastone-recipe"},
+        {"weight" : 0.6, "item" : "zoastone-recipe"},
+        {"weight" : 0.1, "item" : "liquidquantonium-recipe"},
+        {"weight" : 0.1, "item" : "quantonium-recipe"}
+	  ]
+	}]
+  ]
+}

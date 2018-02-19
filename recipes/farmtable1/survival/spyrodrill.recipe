@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "diamond", "count" : 1 },
+	{ "item" : "resonite", "count" : 4 },
+	{ "item" : "liquidresonite", "count" : 25 },
+    { "item" : "liquidhiron", "count" : 50 },
+	{ "item" : "liquidkazein", "count" : 45 },
+	{ "item" : "crystalpanel", "count" : 10 },
+	{ "item" : "kazship2", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "spyrodrill",
+    "count" : 1
+  },
+  "groups" : [ "craftingfarm", "survival" ]
+}

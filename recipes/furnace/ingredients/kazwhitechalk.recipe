@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "clay", "count" : 25 },
+    { "item" : "whitedye", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "kazwhitechalk",
+    "count" : 9999
+  },
+  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+}

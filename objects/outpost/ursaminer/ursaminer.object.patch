@@ -1,0 +1,28 @@
+[
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : { "name" : "hiron" } }
+},
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : { "name" : "resonite" } }
+},
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : { "name" : "zoastone" } }
+},
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : { "name" : "kazein" } }
+},
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : { "name" : "koorium" } }
+}
+//,{ "op" : "add", "path" : "/interactData/items/-", "value" : { "item" : { "name" : "agirezon" } } }
+]

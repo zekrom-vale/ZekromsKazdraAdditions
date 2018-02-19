@@ -1,0 +1,23 @@
+[
+{
+"op" : "add",
+"path" : "/undergroundPlaceables/items/-",
+"value" : {
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:undergroundCrops",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "select" : 2,
+			"pool" : [ [0.1, "hironseed" ], [0.2, "resoniteseed" ], [0.11, "zoastoneseed" ], [0.17, "rootpopseed" ], [0.35, "capsulesmall" ], [0.35, "capsulemed" ] ],
+			"parameters" : {
+       			"startingStage" : 3
+			}
+          }
+        ]
+      }
+}
+]

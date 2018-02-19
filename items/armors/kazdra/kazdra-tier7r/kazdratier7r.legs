@@ -1,0 +1,78 @@
+{
+  "itemName" : "kazdratier7rpants",
+  "price" : 1400,
+  "inventoryIcon" : "icons.png:pants",
+  "category" : "legarmour",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "A power armor base. 'Should' keep you safe while exploring in areas with no atmosphere. It's a bit cumbersome.",
+  "shortdescription" : "Proto Suit v2",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pantsm.png",
+  "femaleFrames" : "pantsf.png",
+
+  "level" : 7,
+  "leveledStatusEffects" : [
+    {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.1
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.2
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 2
+    }
+  ],
+  
+  "itemTags" : [ "tier7armour" ],
+
+  "colorOptions" : [
+    /* GREY */
+    { "ffca8a" : "b5b5b5", "e0975c" : "abcfaa", "a85636" : "8aa089", "6f2919" : "425041" },
+    /* BLACK */
+    { "ffca8a" : "838383", "e0975c" : "1e1023", "a85636" : "1e1023", "6f2919" : "050405" },
+    /* GREY */
+    { "ffca8a" : "b5b5b5", "e0975c" : "abcfaa", "a85636" : "8aa089", "6f2919" : "425041" },
+    /* WHITE */
+    { "ffca8a" : "e6e6e6", "e0975c" : "d0e5d7", "a85636" : "a4bdac", "6f2919" : "849b8c" },
+    /* RED */
+    { "ffca8a" : "f4988c", "e0975c" : "e01818", "a85636" : "b00d0d", "6f2919" : "800404" },
+    /* ORANGE */
+    { "ffca8a" : "ffd495", "e0975c" : "f6aa17", "a85636" : "bf760d", "6f2919" : "914903" },
+    /* YELLOW */
+    { "ffca8a" : "ffffa7", "e0975c" : "efde1f", "a85636" : "bcae0d", "6f2919" : "7b7103" },
+    /* GREEN */
+    { "ffca8a" : "b2e89d", "e0975c" : "1abd31", "a85636" : "0b8f1d", "6f2919" : "02610f" },
+    /* BLUE */
+    { "ffca8a" : "96cbe7", "e0975c" : "161fde", "a85636" : "080f98", "6f2919" : "02075e" },
+    /* PURPLE */
+    { "ffca8a" : "d29ce7", "e0975c" : "8612bc", "a85636" : "5a0682", "6f2919" : "390153" },
+    /* PINK */
+    { "ffca8a" : "eab3db", "e0975c" : "f1a0d7", "a85636" : "c983b3", "6f2919" : "966586" },
+    /* BROWN */
+    { "ffca8a" : "ccae7c", "e0975c" : "96673a", "a85636" : "724518", "6f2919" : "422306" }
+    /*
+    { "ffca8a" : "d4c398", "e0975c" : "bda67a", "a85636" : "9c7f54", "6f2919" : "755937" },
+    { "ffca8a" : "d5595f", "e0975c" : "a32c2c", "a85636" : "71291b", "6f2919" : "4c1e10" },
+    { "ffca8a" : "46b3e8", "e0975c" : "1a7bb5", "a85636" : "0e427e", "6f2919" : "072655" },
+    { "ffca8a" : "b0e944", "e0975c" : "78b618", "a85636" : "3f7f0d", "6f2919" : "255606" },
+    { "ffca8a" : "eef055", "e0975c" : "d3bb1c", "a85636" : "9c8011", "6f2919" : "644807" },
+    { "ffca8a" : "fd8d30", "e0975c" : "ca6705", "a85636" : "8c5d00", "6f2919" : "5c4400" },
+    { "ffca8a" : "c260ff", "e0975c" : "931ad0", "a85636" : "710587", "6f2919" : "52015b" },
+    { "ffca8a" : "717171", "e0975c" : "505050", "a85636" : "363636", "6f2919" : "181818" },
+    { "ffca8a" : "e6e9ea", "e0975c" : "c6d2d4", "a85636" : "97abac", "6f2919" : "627677" }
+*/
+  ]
+}

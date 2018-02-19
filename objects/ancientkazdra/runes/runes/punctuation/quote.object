@@ -1,0 +1,22 @@
+{
+  "objectName" : "runepunctuationquote",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "A kazdra punctuation rune used to quote others.",
+  "shortdescription" : "Quote Punctuation Rune",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 10,
+  
+  "defaultDescription" : "A kazdra punctuation rune used to quote others.",
+
+  "inventoryIcon" : "quote.png",
+  "orientations" : [
+    {
+      "dualImage" : "quote.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[[
+	"bottomquote",
+	"bracket",
+	"colon",
+	"comma",
+	"exclamation",
+	"fullstop",
+	"number",
+	"quote"
+],
+[
+	"runepunctuationbottomquote",
+	"runepunctuationbracket",
+	"runepunctuationcolon",
+	"runepunctuationcomma",
+	"runepunctuationexclamation",
+	"runepunctuationfullstop",
+	"runepunctuationnumber",
+	"runepunctuationquote"
+]]

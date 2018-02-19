@@ -1,0 +1,22 @@
+{
+  "objectName" : "kazpotsmall",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "It's a pot.",
+  "shortdescription" : "Small Kazdra Pot",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 30,
+  
+  "defaultDescription" : "Just a pot.",
+
+  "inventoryIcon" : "kazpotsmallicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "kazpotsmall.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

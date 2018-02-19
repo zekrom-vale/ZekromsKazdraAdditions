@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rock19", "count" : 80 }
+  ],
+  "output" : { "item" : "kazpillar!null", "count" : 1 },
+  "duration" : 0,
+  "groups" : [ "kazancienttable" ]
+}

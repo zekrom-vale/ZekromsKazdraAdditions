@@ -1,0 +1,72 @@
+[{
+"op" : "add",
+"path" : "/items/kazdra",
+"value" : [
+      [0, [
+        {
+		  "head" : [ { "name" : "kazdratier1head" } ],
+          "chest" : [ { "name" : "kazdratier1chest" } ],
+          "legs" : [ { "name" : "kazdratier1pants" } ],
+		  "primary" : [
+              "npcpistol",
+              "npcmachinepistol",
+              "npcassaultrifle"
+            ],
+           "sheathedprimary" : [
+              "kazdratier1shortsword",
+			  "kazdratier1spear",
+			  "kazdratier1hammer",
+			  "kazdratier1broadsword"
+            ]
+        },
+		{
+		  "head" : [ { "name" : "kazdratier2head" } ],
+          "chest" : [ { "name" : "kazdratier2chest" } ],
+          "legs" : [ { "name" : "kazdratier2pants" } ],
+		  "primary" : [
+              "npcpistol",
+              "npcmachinepistol",
+              "npcassaultrifle"
+            ],
+           "sheathedprimary" : [
+              "kazdratier2shortsword",
+			  "kazdratier2spear",
+			  "kazdratier2hammer",
+			  "kazdratier2broadsword"
+            ]
+        },
+		{
+		  "head" : [ { "name" : "kazdratier3head" } ],
+          "chest" : [ { "name" : "kazdratier3chest" } ],
+          "legs" : [ { "name" : "kazdratier3pants" } ],
+		  "primary" : [
+              "npcpistol",
+              "npcmachinepistol",
+              "npcassaultrifle"
+            ],
+           "sheathedprimary" : [
+              "kazdratier3shortsword",
+			  "kazdratier3spear",
+			  "kazdratier3hammer",
+			  "kazdratier3broadsword"
+            ]
+        },
+		{
+		  "head" : [ { "name" : "kazdratier4head" } ],
+          "chest" : [ { "name" : "kazdratier4chest" } ],
+          "legs" : [ { "name" : "kazdratier4pants" } ],
+		  "primary" : [
+              "npcpistol",
+              "npcmachinepistol",
+              "npcassaultrifle"
+            ],
+           "sheathedprimary" : [
+              "kazdratier4shortsword",
+			  "kazdratier4spear",
+			  "kazdratier4hammer",
+			  "kazdratier4broadsword"
+            ]
+        }
+      ]]
+	]
+}]

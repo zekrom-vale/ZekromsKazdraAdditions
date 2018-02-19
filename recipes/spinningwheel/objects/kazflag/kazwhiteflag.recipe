@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "resonite", "count" : 1 },
+    { "item" : "kazcloth", "count" : 10 }
+  ],
+  "output" : { "item" : "kazwhiteflag", "count" : 1 },
+  "groups" : [ "craftingwheel", "ingredients" ]
+}

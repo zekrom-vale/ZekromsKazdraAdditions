@@ -1,0 +1,24 @@
+{
+  "itemName" : "jurassiccocktail",
+  "rarity" : "Common",
+  "price" : 100,
+  "category" : "drink",
+  "inventoryIcon" : "jurassiccocktail.png",
+  "description" : "A kazdran drink made from meat. It will definitely wake you up!",
+  "shortdescription" : "Jurassic Cocktail",
+  "handPosition" : [-1, 3],
+  "armFrameOverride" : "run.3",
+  "effects" : [ [
+      {
+        "effect" : "regeneration2",
+        "duration" : 30
+      },
+	  {
+        "effect" : "overload",
+        "duration" : 5
+      }
+    ] ],
+  //"emote" : "",
+  //"emitters" : [ "drinkinghealing" ]
+  "emitters" : [ "drinking" ]
+}

@@ -1,0 +1,7 @@
+[{
+"op" : "add",
+"path" : "/0/1/-",
+"value" : ["ancientkazdatacrystal", [
+      { "name" : "ancientkazdatacrystal", "count" : 20 }
+    ]],
+}]

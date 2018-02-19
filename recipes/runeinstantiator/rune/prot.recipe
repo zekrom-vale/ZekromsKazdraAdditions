@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "kazblackchalk", "count" : 66 }
+  ],
+  "output" : { "item" : "runeprot", "count" : 1 },
+  "duration" : 0,
+  "groups" : [ "runeinstantiator", "rune" ]
+}

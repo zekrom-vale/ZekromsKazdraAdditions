@@ -1,0 +1,22 @@
+[
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : "hironseed" }
+},
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : "resoniteseed" }
+},
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : "zoastoneseed" }
+},
+{
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : "rootpopseed" }
+}
+]

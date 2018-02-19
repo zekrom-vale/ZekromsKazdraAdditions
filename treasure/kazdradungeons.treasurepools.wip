@@ -1,0 +1,61 @@
+{
+	 "kazdravillageTreasure" : [
+     [1, {
+      "pool" : [
+        {"weight" : 0.90, "pool" : "basicTreasure"},
+        {"weight" : 0.05, "pool" : "kazdravillageLore"},
+        {"weight" : 0.03, "item" : [ "redapple", 1]},
+        {"weight" : 0.02, "item" : [ "redapple", 2]}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.20, 1],
+        [0.40, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "kazdravillageChestTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.70, "pool" : "valuableTreasure"},
+        {"weight" : 0.26, "pool" : "goodWeapon"},
+        {"weight" : 0.02, "item" : [ "featherhead", 1]},
+        {"weight" : 0.02, "item" : "pyramidhead"}
+      ],
+      "poolRounds" : [
+        [0.55, 1],
+        [0.40, 2],
+        [0.05, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "kazdravillageRareTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1, "pool" : "LargeDungeonReward"}
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  ],
+
+  "kazdravillageLore" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.33, "item" : "avianhistory1-codex"},
+        {"weight" : 0.33, "item" : "avianhistory2-codex"},
+        {"weight" : 0.33, "item" : "avianhistory3-codex"},
+        {"weight" : 0.33, "item" : "avianhistory4-codex"},
+        {"weight" : 0.33, "item" : "avianhistory7-codex"},
+        {"weight" : 0.33, "item" : "avianhistory9-codex"}
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  ]
+}

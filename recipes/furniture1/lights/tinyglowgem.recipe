@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "kazein", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "tinyglowgem",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

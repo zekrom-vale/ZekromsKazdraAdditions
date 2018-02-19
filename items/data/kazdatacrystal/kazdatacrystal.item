@@ -1,0 +1,9 @@
+{
+  "itemName" : "kazdatacrystal",
+  "rarity" : "Common",
+  "price" : 400,
+  "category" : "misc",
+  "inventoryIcon" : "kazdatacrystal.png",
+  "description" : "This crystal stores data, I wonder what is on it.",
+  "shortdescription" : "Data Crystal"
+}

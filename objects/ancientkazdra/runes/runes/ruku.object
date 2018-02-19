@@ -1,0 +1,21 @@
+{
+  "objectName" : "runeruku",
+  "tags" : ["kazdra"],
+  "rarity" : "Common",
+  "description" : "A kazdra rune denoting work.",
+  "shortdescription" : "Ruku Rune",
+  "race" : "kazdra",
+  "category" : "furniture",
+  "price" : 10,
+  
+  "defaultDescription" : "A kazdra rune denoting work.",
+  "inventoryIcon" : "ruku.png",
+  "orientations" : [
+    {
+      "dualImage" : "ruku.png",
+	  "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

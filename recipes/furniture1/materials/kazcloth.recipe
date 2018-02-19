@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "resonitethread", "count" : 16 },
+    { "item" : "fabric", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "kazcloth",
+    "count" : 8
+  },
+  "groups" : [ "craftingwheel", "ingredients" ]
+}

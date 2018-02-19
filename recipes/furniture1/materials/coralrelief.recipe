@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "coralfragment", "count" : 3 },
+    { "item" : "sand2", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "coralrelief",
+    "count" : 10
+  },
+  "groups" : [ "craftingfurniture", "materials", "all" ]
+}

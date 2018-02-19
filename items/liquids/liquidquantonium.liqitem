@@ -1,0 +1,13 @@
+{
+  "itemName" : "liquidquantonium",
+  "rarity" : "Uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "liquidquantoniumicon.png",
+  "shortdescription" : "Liquid Quantonium",
+  "description" : "Whatever you've done to this resonite has created the solution to the universes fuel problem...",
+
+  "liquid" : "liquidquantonium",
+  
+  "fuelAmount" : 90,
+  "price" : 700
+}
