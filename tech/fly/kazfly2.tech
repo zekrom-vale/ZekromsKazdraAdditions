@@ -1,0 +1,22 @@
+{
+  "name" : "kazfly2",
+  "type" : "legs",
+
+  "scripts" : ["kazfly.lua"],
+  "animator" : "kazfly.animation",
+
+  "description" : "Use your wings to fly!  Better...",
+  "shortDescription" : "Flight",
+  "rarity" : "Legendary",
+  "icon" : "/tech/kazfly2.png",
+
+  "chipCost" : 50,
+  "energyCostPerSecond" : 12,
+  "chargeTime" : 0.5,
+  "boostTime" : 0.25,
+  "boostSpeed" : 50,
+  "boostForce" : 700,
+  "fallChance" : 28,  
+  "riseChance" : 32,
+  "magnitude" : 0.2
+}
