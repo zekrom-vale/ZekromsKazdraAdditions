@@ -21,7 +21,6 @@ function update(args)
   local jumpActivated = args.moves.jump and not self.lastJump
   self.lastJump = args.moves.jump
   self.stateTimer = math.max(0, self.stateTimer - args.dt)
-  --Detect ground Movement or liquid Movement
   if mcontroller.groundMovement() or mcontroller.liquidMovement() then
     if self.state ~= "idle" then
       idle()
@@ -67,19 +66,21 @@ function getVector(args, prime)
 		end
 	end
     if args.moves.up or args.moves.jump then
-		direction[2] = 1
+		boost({direction[1], 1}, prime)
     elseif args.moves.down then
-		direction[2] = -1
+		boost({direction[1], -1}, prime)
     elseif vec2.eq(direction, {0, 0}) then
 		if math.random(-1, self.fallChance) == 0 then
-			direction = {0, -self.mag}
+			boost({0, -self.mag}, prime)
 		elseif math.random(-1, self.riseChance) == 0 then
-			direction = {0, self.mag}
+			boost({0, self.mag}, prime)
 		else
-			direction = {0, 0}
+			boost({0, 0}, prime)
 		end
+		return
+	else
+		boost(direction, prime)
 	end
-	boost(direction, prime)
 end
 
 function canKazFly()
