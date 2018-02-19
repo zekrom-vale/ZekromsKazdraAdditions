@@ -7,7 +7,7 @@ function init()
   self.boostForce = config.getParameter("boostForce")
   self.energyCostPerSecond = config.getParameter("energyCostPerSecond")
   self.fallChance = config.getParameter("fallChance")
-  self.upChance = config.getParameter("upChance")
+  self.riseChance = config.getParameter("riseChance")
   self.mag = config.getParameter("magnitude")
   idle()
   self.available = true
@@ -53,16 +53,16 @@ function getVector(args, prime)
 	local direction = {0, 0}
     if args.moves.right then
 		direction[1] = 1
-		if math.random(0, self.fallChance) == 1 then
+		if math.random(-1, self.fallChance) == 0 then
 			direction[2] = self.mag
-		elseif math.random(0, self.upChance) == 1 then
+		elseif math.random(-1, self.riseChance) == 0 then
 			direction[2] = -self.mag
 		end
     elseif args.moves.left then
 		direction[1] = -1
-		if math.random(0, self.fallChance) == 1 then
+		if math.random(-1, self.fallChance) == 0 then
 			direction[2] = self.mag
-		elseif math.random(0, self.upChance) == 1 then
+		elseif math.random(-1, self.riseChance) == 0 then
 			direction[2] = -self.mag
 		end
 	end
@@ -71,9 +71,9 @@ function getVector(args, prime)
     elseif args.moves.down then
 		direction[2] = -1
     elseif vec2.eq(direction, {0, 0}) then
-		if math.random(0, self.fallChance) == 1 then
+		if math.random(-1, self.fallChance) == 0 then
 			direction = {0, -self.mag}
-		elseif math.random(0, self.upChance) == 1 then
+		elseif math.random(-1, self.riseChance) == 0 then
 			direction = {0, self.mag}
 		else
 			direction = {0, 0}

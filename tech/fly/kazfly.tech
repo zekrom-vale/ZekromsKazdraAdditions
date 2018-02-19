@@ -18,11 +18,11 @@
   "boostForce" : 500,
 /*
   fall/up Chance
-  0 is never 1 is always
+  -1 is never
   larger is more infrequent
   only works on idle (if defaultDirection[2] == 0) and right / left
 */
   "fallChance" : 14,  
-  "upChance" : 22,
+  "riseChance" : 22,
   "magnitude" : 0.4
 }
