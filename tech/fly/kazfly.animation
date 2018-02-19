@@ -3,15 +3,5 @@
     "charge" : [ "/sfx/tech/tech_rocketjump_charge2.ogg" ],
     "chargeLoop" : [ ],
 	"boost" : [ "/sfx/tech/tech_rocketjump_release.ogg" ]
-  },
-  "stances" : {
-      "idle" : {
-        "frontArmFrame" : "run.2",
-        "backArmFrame" : "jump.3"
-      },
-	  "boost" : {
-        "frontArmFrame" : "run.2",
-        "backArmFrame" : "jump.3"
-      }
-	}
+  }
 }

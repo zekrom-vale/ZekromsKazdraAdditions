@@ -110,8 +110,6 @@ function boost(direction, sound)
 	animator.stopAllSounds("chargeLoop")
 	animator.playSound("boost")
   end
-  --activeItem.setFrontArmFrame(self.stance.frontArmFrame)
-  --activeItem.setBackArmFrame(self.stance.backArmFrame)
 end
 
 function idle()
