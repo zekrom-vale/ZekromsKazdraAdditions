@@ -6,6 +6,7 @@
 	    {"weight" : 0.7, "item" : "kazconstructs-codex"},
 	    {"weight" : 1.0, "item" : "kazdraobservations-codex"},
         {"weight" : 0.9, "item" : "kazdraorigins-codex"},
+        {"weight" : 0.4, "item" : "kazflight-codex"},
         {"weight" : 0.5, "item" : "kazmetalwork-codex"},
         {"weight" : 0.5, "item" : "staloa-codex"},
 			//Materials

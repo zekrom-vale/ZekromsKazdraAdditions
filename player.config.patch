@@ -59,6 +59,11 @@
 { 
 	"op" : "add",
 	"path" : "/defaultCodexes/kazdra/-",
+	"value" : "kazflight"
+},
+{ 
+	"op" : "add",
+	"path" : "/defaultCodexes/kazdra/-",
 	"value" : "kazmetalwork"
 },
 { 
