@@ -9,6 +9,7 @@ function init()
   self.fallChance = config.getParameter("fallChance")
   self.riseChance = config.getParameter("riseChance")
   self.mag = config.getParameter("magnitude")
+  self.mode = {"idle", "idle"}
   idle()
   self.available = true
 end
@@ -32,7 +33,31 @@ function update(args)
       getVector(args, true)
     end
   elseif self.state == "boost" then
-	if status.overConsumeResource("energy", self.energyCostPerSecond * args.dt) then
+	local factor
+	if self.mode[2] == 0 then
+		if self.mode[1] == 0 then
+			factor = 0.5
+		else
+			factor = 0.7
+		end
+	elseif self.mode[2] == 1 then
+		if self.mode[1] == 0 then
+			factor = 1
+		else
+			factor = 1.2
+		end
+	elseif self.mode[2] == -1 then
+		if self.mode[1] == 0 then
+			factor = 0.35
+		else
+			factor = 0.5
+		end
+	elseif vec2.eq(self.mode, {"idle", "idle"}) then
+		factor = 0
+	else
+		factor = 1
+	end
+	if status.overConsumeResource("energy", self.energyCostPerSecond * factor * args.dt) then
 	  mcontroller.controlApproachVelocity(self.boostVelocity, self.boostForce)
 	  if canKazFly() then
 		getVector(args, false)
@@ -66,21 +91,20 @@ function getVector(args, prime)
 		end
 	end
     if args.moves.up or args.moves.jump then
-		boost({direction[1], 1}, prime)
+		direction[2] = 1
     elseif args.moves.down then
-		boost({direction[1], -1}, prime)
+		direction[2] = -1
     elseif vec2.eq(direction, {0, 0}) then
 		if math.random(-1, self.fallChance) == 0 then
-			boost({0, -self.mag}, prime)
+			direction = {0, -self.mag}
 		elseif math.random(-1, self.riseChance) == 0 then
-			boost({0, self.mag}, prime)
+			direction = {0, self.mag}
 		else
-			boost({0, 0}, prime)
+			direction = {0, 0}
 		end
-		return
-	else
-		boost(direction, prime)
 	end
+	self.mode = vec2.norm(direction)
+	boost(direction, prime)
 end
 
 function canKazFly()
@@ -115,6 +139,7 @@ end
 
 function idle()
   self.state = "idle"
+  self.mode = {"idle", "idle"}
   self.stateTimer = 0
   status.clearPersistentEffects("movementAbility")
   tech.setParentState()
