@@ -35,7 +35,7 @@
 
   "primaryAbilityType" : "flamethrower",
   "primaryAbility" : {
-    "baseDps" : 4,
+    "baseDps" : 1.5,
     "energyUsage" : 8,
 	"stances" : {
       "idle" : {
