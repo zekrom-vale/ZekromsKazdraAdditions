@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/generic/9",
+    "value": "I was on one of the original colony ships, zweh. It's so cool meeting new races!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/generic/16",
+    "value": "*whistles*"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/apex/4",
+    "value": "Oi! Stay out of the cave on the left."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/glitch/8",
+    "value": "'Ello, mate."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/glitch/9",
+    "value": "Oops, sorry for staring. It's just you appear to be made of metal, zuu."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/human/1",
+    "value": "You look like you wouldn't taste too bad on a barbecue.... Heh heh heh, just kidding, zweh."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/human/10",
+    "value": "I know that look. You stay away from my stash... zuu."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/human/14",
+    "value": "Want to grab a drink at a glitch tavern with me? Maybe have an adventure or two on the way, zuu?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/kazdra/21",
+    "value": "OI! Stay out of me chest, zweh!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/kazdra/29",
+    "value": "You're a smith?! Who were you apprentice to, zuu?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/kazdra/43",
+    "value": "To be honest, I haven't really been hoarding that much. Heh."
+  }
+]

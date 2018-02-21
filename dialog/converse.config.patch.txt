@@ -1,0 +1,442 @@
+[
+	{ "op" : "add"
+	,"path" : "/greeting/apex/kazdra"
+	,"value" : [
+		"Welcome, my scaly friend!",
+		"Greetings.",
+		"You're quite the specimen... Welcome.",
+		"Yo.",
+		"Hey, careful around the beakers.",
+		"Hmm?",
+		"How unusual you are..."
+	]
+	},
+	{ "op" : "add"
+	,"path" : "/greeting/avian/kazdra"
+	,"value" : [
+		"Tidings of wind and sun friend.",
+		"Welcome as wind!",
+		"Huh, me?",
+		"Clear skies, wingmate!",
+		"Um... greetings?",
+		"Hey there!",
+		"Joyous day! Helloo there, spirit kin!",
+		"Hmm?",
+		"Greetings.",
+		"Yo.",
+		"Hia!",
+		"Hi",
+		"Fair sky, friend."
+	]
+	},
+	{ "op" : "add"
+	,"path" : "/greeting/floran/kazdra"
+	,"value" : [
+		"Hisss!",
+		"Sstab!",
+		"Wingy lizard...",
+		"What you want?",
+		"Grrrrrr.",
+		"Keep dissstance...",
+		"...Shiny...",
+		"Sssss?",
+		"Sseem nice...",
+		"Greetingsss."
+	]
+	},
+	{ "op" : "add"
+	,"path" : "/greeting/glitch/kazdra"
+	,"value" : [
+		"Shocked. Gasp! Dragon!",
+		"Pleading. Please, don't hurt me!",
+		"Terrified. No, Please!",
+		"Fearful. W-what do you want?",
+		"Curious. What brings you here, dragon?",
+		"Angry. Get out you scaly beast!"
+	]
+	},
+	{ "op" : "add"
+	,"path" : "/greeting/human/kazdra"
+	,"value" : [
+		"Oh, wow!",
+		"Hey there.",
+		"Hi there.",
+		"Hoi!",
+		"Need somethin'?",
+		"Oi?",
+		"How it be?",
+		"how goes?",
+		"No way! A dragon!",
+		"Hey!",
+		"Whoa! Don't sneak up on me like that!",
+		"Greetings, bro.",
+		"How goes it, mate?",
+		"Sup, bro.",
+		"Hi.",
+		"Hmm?",
+		"Hi there. Care to chat?",
+		"What's up?",
+		"Oh, dang! A dragon.",
+		"Hey, are you really a dragon?",
+		"Yeah?",
+		"Oh, man. You are too cool.",
+		"Whoa, back up.",
+		"Pleased to meet you.",
+		"Pleased tah meetcha!",
+		"Well, aren't you an interesting character?",
+		"Bagel?",
+		"Nya?",
+		"Nani?",
+		"You seem nice.",
+		"Hello, my scaly friend.",
+		"How do you do?",
+		"Your not bad... right?",
+		"How's life, scaly?"
+	]
+	},
+	{ "op" : "add"
+	,"path" : "/greeting/hylotl/kazdra"
+	,"value" : [
+		"Be at peace.",
+		"Be at peace, my friend.",
+		"Peace, friend.",
+		"Come, join me for moment.",
+		"Ssshhhhh... Don't break my concentration.",
+		"May I help you?",
+		"Experience tranquillity.",
+		"Greetings, uncultured one.",
+		"Allow me to share with you some wisdom.",
+		"Gentle tides, friend.",
+		"My humble welcome, friend.",
+		"Peace be with you."
+	]
+	},
+	{ "op" : "add"
+	,"path" : "/greeting/novakid/kazdra"
+	,"value" : [
+		"Howdy.",
+		"Hey there.",
+		"Ain't you a sight."
+	]
+	},
+	{ "op" : "add"
+	,"path" : "/converse/apex/kazdra"
+	,"value" : [
+		"Hey, I've heard rumours that you and your kin can breath fire. Is it true?",
+		"So, this Zalva character... he's wanted for stealing a spaceship? I'd do the same if I had the chance.",
+		"I'd hate to be at the receiving end of your fury.",
+		"You kazdra seem to share a close kinship with the avian, and any friend of the avian is a friend of mine.",
+		"What an amazing sheen your scales have!",
+		"What a strange accent. I've never heard one like it before.",
+		"I've seen one of those bone monks. Those guys are creepy.",
+		"Your people's burial rites are rather gruesome to behold so I hear.",
+		"Psst. The Minikong have a stockpile of metals in that base across the way, just sayin'.",
+		"Those are some impressive wings. They're too weak to provide flight? What a shame.",
+		"Care to grab a drink, friend?",
+		"I hope you're not in league with the Minikong.",
+		"Be careful around those Minikong...",
+		"You and the avians are in the same boat it seems. I feel for you.",
+		"Have you heard the new album by Apez, 'Styrofoam Beach'?",
+		"I've never met your kind before...",
+		"Wow! Nice set of fangs you've got there.",
+		"How's hunting?",
+		"If you're looking for a princess to snatch, I would check a glitch castle.",
+		"I'll let you know if I see any knights around.",
+		"Hey! Stop eyeing my watch!",
+		"A kazdra versus a knight, I'd definitely bet on the kazdra.",
+		"So are you cold-blooded or warm-blooded?",
+		"I bet I could beat you in a fight.",
+		"I wonder what the glitch have against you kazdra.",
+		"Calm your fire, the Minikong are watching.",
+		"Praise be to Big Ape!",
+		"None of the texts I've studied have ever mentioned your race...",
+		"I've heard stories of kazdra towns, they say it's quite a sight. I wish I could visit one.",
+		"Do your crystal weapons shatter easily?",
+		"I wish I had something to offer you, but every thing I had was taken by the Minikong...",
+		"Is it too cold for your liking here?",
+		"I'd love to try some of your cuisine some time.",
+		"You definitely have an imposing figure.",
+		"Want to arm wrestle?",
+		"If you destroy that base over there you can take all the metal you want from it. I won't stop you.",
+		"Your glowing eyes are rather unsettling.",
+		"Please don't cause any trouble."
+	]
+	},
+{ "op" : "add"
+	,"path" : "/converse/avian/kazdra"
+	,"value" : [
+					    "It seems we are in the same plight, my friend. We can only look to the sky and dream...",
+						"I'll trade you a feather for a scale.",
+						"How do you keep your scales so shiny?",
+						"Why do you keep saying 'zweh' all the time?",
+						"What is it like where you're from?",
+						"You smell like fresh rain.",
+						"Would you like to try one of our delicacies, dragon friend?",
+						"I bet that tail could do some real damage.",
+						"Do your kind get severely affected by the cold, spirit kin?",
+						"It's astounding how similar our technology is.",
+						"Maybe if we work together, one day we'll finally be able to fly, spirit kin.",
+						"Those scales must come in handy in a fight, huh.",
+						"I'm sorry. I don't have any metal to spare, friend.",
+						"You sound interesting.",
+						"You have a rather commanding presence, spirit kin.",
+						"You would like me to join you? I'm honoured, spirit kin, but I can't right now.",
+						"I'd love to share a pint with you some time, friend.",
+						"How're the skies, friend?",
+						"Your wings are magnificent!",
+						"What do you think of my feathers?",
+						"Welcome, friend! We're holding a festival soon. I hope I'll see you there!",
+						"Sorry, no metal here, friend.",
+						"Care for a hot meal, friend?",
+						"If I didn't have a family to think of, I'd love to go adventuring with you.",
+						"If you get the chance, could you take a picture of one of your 'singing caverns' for me? I've heard a lot about them.",
+						"Interested in some sparkling cider, spirit kin?",
+						"So your kind keeps a part of their departed to keep them alive in memory? interesting...",
+						"You look like you've been wandering for ages, friend! Please come and rest yourself.",
+						"Your outfit is very stylish.",
+						"I've got your back, bro.",
+						"I want to join the AzureWing guild someday!",
+						"Joyous day! Hulloo there, spirit kin!",
+						"I believe our people are of the same spirit.",
+						"Believe in the avian that believes in you!",
+						"Our wings are the wings that will pierce the heavens!",
+						"By my beak, a dragon!",
+						"No offence, but you're kinda scary.",
+						"Ugh. I slept on my feathers funny again. Now they won't settle right...",
+						"I think I'm gonna become an airship captain. Wanna join my crew?",
+						"Could you help me? I can't seem to find my sandwich.",
+						"I think you'd look great with a mane of feathers.",
+						"Hulloo, I baked you a pie! What flavor? ... PIE FLAVOR!",
+						"You don't look so well, spirit kin. have a seat over here, and tell me what ails ya.",
+						"I wish I could visit one of your towns...",
+						"Stay safe.",
+						"Birds are friends not food.",
+						"You wouldn't eat an avian, would you? Heheh...",
+						"Can chat later, I'm on break in an hour.",
+						"I hear your kin tend to amass huge collections of shiny things.",
+						"If I might ask, what do you keep in your hoard?",
+						"My beak! I've never seen your kind before!"
+						
+					]
+				},
+{ "op" : "add"
+	,"path" : "/converse/floran/kazdra"
+	,"value" : [
+						"Glitchy ssay wingy lizard breath fire... Floran not like fire.",
+						"You fire lizard? Floran ssscared of fire lizard...",
+						"Floran not sscared of fire lizard... Floran ssshaking with courage.",
+						"Floran to ssscared to sstab fire lizard...",
+						"Fire lizard is big! Don't hurt Floran!",
+						"Floran ssees wingss, flre lizard can fly? Florian hidesss!",
+						"Don't sstab the Floran, fire lizard."
+					]
+				},
+{ "op" : "add"
+	,"path" : "/converse/glitch/kazdra"
+	,"value" : [
+						"Alarmed. Gasp! So you monsters do exist!",
+						"Agitated. What do you want, dragon?",
+						"Frightened. Guards! There's a dragon within our establishment!",
+						"Concerned. What business have you here, dragon?",
+						"Concerned. Please just leave us in peace, dragon.",
+						"Belligerent. Come on then! I'll run you through, dragon!",
+						"Worried. Please do not destroy our establishment, dragon.",
+						"Condescending. Thieving dragon, keep your eyes, and claws, off of my gold!",
+						"Begrudging. I would skewer you, dragon, but I might damage my lance.",
+						"Cowering. Please spare me!",
+						"Cautious. Stay back, beast.",
+						"Fearful. Are you going to try to melt me down?",
+						"Frightened. Monster! Monster!",
+						"Distrustful. Are you sure you're not just here to steal our shiny objects?",
+						"Accusing. I know you stole something dragon. You'd better return it.",
+						"Awestruck. What manor of beast are you who can summon up hate without word or action?!",
+						"Statement. Your scales would make a fine trophy, dragon.",
+						"Misdirection. Would you stand a little more to the left? ... no that's not an archery target, it's a 'decoration'.",
+						"Spiteful. You want to trade for some metal? I'm sorry I don't make deals with demons.",
+						"Deceitful. Metal? Nope no metal here.",
+						"Irritated. What is it, dragon? Can't you see I'm busy?",
+						"Disdain. I have no metal for you, lizard.",
+						"Statement. Yes, I am made of metal. No, you may not disassemble me.",
+						"Warning. Keep your distance, dragon. I will not be mugged by the likes of you.",
+						"Challenging. You don't look too healthy. I bet I could best you.",
+						"Nonchalant. Tell me, dragon, where is your hoard?",
+						"Disdain. You lizard don't deserve metal."
+					]
+				},
+{ "op" : "add"
+	,"path" : "/converse/human/kazdra"
+	,"value" : [
+						"Your claws make pretty good weapons!",
+						"Hey, how hard are your scales?",
+						"Awesome, a real dragon!",
+						"Can you fly with those wings of yours?",
+						"Can I hug your tail? Please?",
+						"Can you breath fire?!",
+						"So, dragons DO exist! Cool!",
+						"Wanna have a drink, dragon friend?",
+						"Can I have one of your scales?",
+						"If your a dragon, you roar, right?",
+						"Hey friend, I would give ya metal, but I don't have any.",
+						"You use more crystals than metal? Intresting!",
+						"Just saying, I'm not edible...",
+						"Sorry, no princesses here dragon.",
+						"I bet you have a massive hoard of things!",
+						"Are you evil? Ya know... bad?",
+						"EEP! Oh, you scared me dragon!",
+						"You don't really look like fire and death... oh well!"
+					]
+				},
+{ "op" : "add"
+	,"path" : "/converse/hylotl/kazdra"
+	,"value" : [
+						"I heard you're good with a blade...",
+						"I heard you know a thing or two about cooking sea food.",
+						"Wanna race?",
+						"We should try having dinner together, maybe cook some supper and enjoy tea.",
+						"How far can you swim?",
+						"Sorry, I'd love to help you, but I'm fresh out of time.",
+						"I'm not quite sure what to make of you kazdra yet...",
+						"Hmm, what was that?",
+						"That tail of yours looks powerful. I bet it must be a great help moving underwater.",
+						"I bet our hot springs would do wonders for your scales.",
+						"You seem so full of life. Don't waste it in the company of the uncultured.",
+						"Settle kettle!",
+						"What a strange accent you have.",
+						"That accent is wonderful.",
+						"Have a, uh, interesting day...",
+						"Come to see some real culture, eh?",
+						"Were any of your ancestors water dwellers?",
+						"It is true! All races seem to have a similar depiction of a certain mythical creature, and you kazdra look quite like them.",
+						"I wish to see these 'singing caves'. Take me to one!",
+						"Can't say I've seen your kind around here.",
+						"How far can you leap with those wings of yours?",
+						"Do those wings help or hinder you underwater?",
+						"You should relax. Too much exertion is bad for your health",
+						"How about, no.",
+						"Heyo!",
+						"Peace.",
+						"Peace, dragon.",
+						"Peace be with you.",
+						"Have you mastered the waves?",
+						"You could never beat me in a race.",
+						"Your scales shine brilliantly underwater.",
+						"Ed Gruberman? Yes I know him. Few novices get to experience so much of Ti Kwan Leap so soon."
+					]
+				},
+				
+{ "op" : "add"
+	,"path" : "/converse/kazdra"
+	,"value" : {
+					"default" : [
+						"G'day, zweh.",
+						"How's it going, mate?",
+						"Never met your kind before.",
+						"Anything I can help with?",
+						"I haven't seen you around here before, zuu.",
+						"Whadda ya think? Should I buy us a round at the pub?"
+					],
+					"apex" : [
+					    "I'm not quite sure what to think about you, mate.",
+						"Say, do these bananas work well as boomerangs?",
+						"Have you ever considered the minin' life, zweh?",
+						"I'm curious, do you blokes have hands for feet?",
+						"Oi! stay out of the cave on the left.",
+						"Zweh, it's relaxing to just sit an' listen to the singing cavern's song.",
+						"Got metal?",
+						"Quit monkeyin' around!",
+						"The runes in our caves? That's Dran, an ancient kazdran language.",
+						"Not now, mate. I lost my brother the other day when one of the mine shafts flooded."
+					],
+					"avian" : [
+					    "What's it like to have those soft feathers?",
+						"We're not too different, you an' I.",
+						"We accidentally mined our way into one of your tombs yesterday. I could swear we were attacked by the dead!",
+						"Got any metals for tradin' my feathery friend?",
+						"See ya at the bottom of this pint, wingmate.",
+						"Whacha got there? Can I see it?",
+						"Your plumage is amazing!",
+						"We should meet up at the Galtro later, wingmate.",
+						"May our paths cross again some day, wing mate.",
+						"You should go listen to the the singing caverns, mate. Their song soothes the soul.",
+						"How tough is that beak of yours?"
+					],
+					"floran" : [
+						"*ahem* I'd appreciate it if you'd stop tryin' to bite my tail, mate.",
+						"Look ova' there! Right there! That's a Floran, one a' the most DANGEROUS creatures in the galaxy... I'ma go poke it with a stick!",
+						"Whoa! I musta had too much kahla, now the plants are talking to me!",
+						"You have an interesting scent, zweh.",
+						"Why do you keep starin' at my tail like that?",
+						"Try some kahla?",
+						"How goes it, Vegemite?",
+						"You need a fedora.",
+						"Hunt anything good lately?",
+						"I don't suppose you have any metal on ya, would you?",
+						"You should go hunting with me sometime, zuu."
+					],
+					"glitch" : [
+						"What do you want, tinman?",
+						"What do your people have against us?",
+						"I wouldn't advise sticking around too long, mate.",
+						"Say, you're made a' metal right? ... no reason just checking.",
+						"I'd offer you a pint, but I don't know if you could handle it",
+						"You're not looking for my stash, are ya?",
+						"'Ello, mate."
+					],
+					"human" : [
+					    "What is a man?! A miserable pile of secrets, but enough talk. Hahaha!",
+						"You look like you wouldn't taste too bad on a barbecue... Heh heh heh, just kiddin', mate.",
+						"You sure are a strange lot.",
+						"What happened to the rest of your fur, zweh? ... That's how you always look?",
+						"Don't go pokin' me with your pointy metal sticks, human.",
+						"You humans look funny, but I like ya!",
+						"Don't take us too seriously, mate. Most of us think good of your kin.",
+						"You should come an' visit during the next festival, zuu.",
+						"You lost, mate?",
+						"You know we're not actually dragons, right?",
+						"How do you defend yourselves with those puny claws?",
+						"Kahla? It's made from a fruit that tastes a lot like your 'root beer'... drinkin' too much 'll get ya tipsy."
+					],
+					"kazdra" : [
+						"G'day, mate!",
+						"Always great to see a new face!",
+						"Found any good ore veins? We could use some more metal.",
+						"All this time and you'd think someone would have made a boomerang by now.",
+						"You know, I used to be a fisherman.",
+						"Bloody 'ell! Never thought I'd see a new kazdra 'round!",
+						"Fancy a pint, zweh?",
+						"I wonder what it'd be like to live in an underwater city.",
+						"Garroo, mate!",
+						"The kahla here sure is good.",
+						"Could use a drink righ' about now.",
+						"You what, mate?",
+						"Sorry mate, didn't hear a thing you said.",
+						"Wanna go raid a glitch town?",
+						"I 'eard there are some nasty sandstorms on one of the nearby planets. You'd best take care out there, mate.",
+						"How's it goin', mate?",
+						"Do you even lift, mate?",
+						"I smell rain on the wind.",
+						"OI! stay out of me chest!",
+						"You 'ave a most pleasant sent about you.",
+						"We really need to do somethin' to keep the caves from flooding again before the next rain fall.",
+						"'Ey, why don't ya 'ave a seat an' tell us about your adventures, mate?",
+						"Care for some company, mate?",
+						"Those humans sure are a funny lot aren't they?",
+						"The avians seem like a good people, eh?",
+						"How's the hunt, mate?",
+						"I see you've managed to keep your scales clean despite all that adventurin'.",
+						"Let's go to the Galtro for a bite!",
+						"We could use some 'elp in the mines if ya feel like lendin' a hand, mate.",
+						"How're the skies treatin' ya, mate?",
+						"We hit gold today, mate! GOLD!",
+						"These planets are rich with metals of all kinds!",
+						"I may have to dig a new cave to fit all this metal into my hoard.",
+						"How long you been sailin' the stars?",
+						"I see the makin's of greatness in ya, Jimbo.",
+						"to be honest, I 'aven't really been hoardin' that much. heh.",
+						"Boot to the head!",
+						"Those acid planets are bad news. I lost some scales thanks to that stuff.",
+						"I hope the kahla at the next festival is as good as it was last time."
+					]
+				}
+			}
+]

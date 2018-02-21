@@ -1,0 +1,142 @@
+[
+  {
+    "op": "replace",
+    "path": "/greeting/human/kazdra/4",
+    "value": "Need somethin'?"
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/human/kazdra/9",
+    "value": "Hey!"
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/human/kazdra/11",
+    "value": "Greetings, bro."
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/human/kazdra/13",
+    "value": "Sup, bro."
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/human/kazdra/18",
+    "value": "Oh, dang! A dragon."
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/human/kazdra/21",
+    "value": "Oh, man. You are too cool."
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/floran/kazdra/8",
+    "value": "Sseem nice..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/kazdra/8",
+    "value": "Psst. The Minikong have a stockpile of metals in that base across the way, just sayin'."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/kazdra/16",
+    "value": "Wow! Nice set of fangs you've got there."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/kazdra/20",
+    "value": "Hey! Stop eyeing my watch!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/kazdra/37",
+    "value": "Please don't cause any trouble."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/kazdra/7",
+    "value": "Hmm, what was that?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/kazdra/17",
+    "value": "It is true! All races seem to have a similar depiction of a certain mythical creature, and you kazdra look quite like them."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/kazdra/21",
+    "value": "Do those wings help or hinder you underwater?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/kazdra/31",
+    "value": "Ed Gruberman? Yes I know him. Few novices get to experience so much of Ti Kwan Leap so soon."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/kazdra/21",
+    "value": "Sorry, no metal here, friend."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/kazdra/27",
+    "value": "You look like you've been wandering for ages, friend! Please come and rest yourself."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/kazdra/46",
+    "value": "You wouldn't eat an avian, would you? Heheh..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/kazdra/4",
+    "value": "Can I hug your tail? Please?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/kazdra/8",
+    "value": "Can I have one of your scales?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/kazdra/10",
+    "value": "Hey friend, I would give ya metal, but I don't have any."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/kazdra/12",
+    "value": "Just saying, I'm not edible..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/kazdra/17",
+    "value": "Misdirection. Would you stand a little more to the left? ... no that's not an archery target, it's a 'decoration'."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/apex/2",
+    "value": "Have you ever considered the minin' life, zweh?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/floran/5",
+    "value": "Try some kahla?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/floran/10",
+    "value": "You should go hunting with me sometime, zuu."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/glitch/6",
+    "value": "'Ello, mate."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/kazdra/kazdra/21",
+    "value": "'Ey, why don't ya 'ave a seat an' tell us about your adventures, mate?"
+  }
+]
