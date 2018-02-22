@@ -1,7 +1,6 @@
-Items / Suggestions to add to the mod
-[code] 
-Add kazdra weapon and armor collection
-Weapons
+#Items / Suggestions to add to the mod
+##Add kazdra weapon and armor collection
+##Weapons
 	Bite attack (Item)??
 	Dragon tail (Item)??
 	Dragon roar (Item) [Sonic Damage?]
@@ -9,17 +8,17 @@ Weapons
 	Shields
 	Hammer (Big stone/crystal on a stick)
 	
-Guns
+##Guns
 	Gun powered by gravity. (The floating crystals)
 	
-Armor
+##Armor
 	Add mask to Zekrom armor (Chest and legs)??
 	Add negative effect unless waring full set of Zekrom armor??
 	
-Other
+##Other
 	Dragon charm
 
-Food / Drinks
+##Food / Drinks
 	Dragon curry
 		(Flaming hot, inflicts burn, improves dragon breath??)
 	Dragon pet food
@@ -28,26 +27,26 @@ Food / Drinks
 		Taco
 	
 	
-Blocks
+##Blocks
 	Crystal glass
 	Crystal fluid structure
 		(Similar to a PCB design)
 	Crystal pillar
 	
-Runes
+##Runes
 	Ancient consoles
-~~~~Metallic horde
+	Metallic horde
 	Kazdra treasure hunter (Quest get me out of here! ?)
 	Add location to quests
-////Kazdra data crystal
-////Kazdra ancient data crystal (same design different method of reading and wighting)
+	Kazdra data crystal
+	Kazdra ancient data crystal (same design different method of reading and wighting)
 	Transparent display
 	3D Navigation display
 		(Instead of chair still use the same interact type)
 	Ancient power junctions 
 	
 
-Ancient ship (Connection to the ancients?!?!)  ~Some require fixing quests
+##Ancient ship (Connection to the ancients?!?!)  ~Some require fixing quests
 	May have to wipe the pre-ship?
 	Branch off  the upgrade path??
 	Quest to replace ship (Prevent unless in same system?)
@@ -70,7 +69,7 @@ Ancient ship (Connection to the ancients?!?!)  ~Some require fixing quests
 	Long range telaporter?  Can be orbiting the planetary system to beam down rather than just the object??
 	Kandra fossils and bones
 
-NPCs
+##NPCs
 	Spawn Kazdra in space ships / stations / worlds
 	Increase buy price for metals with kazdra??
 	Kazdra metal trade
@@ -81,7 +80,7 @@ NPCs
 		(Can buy metal at ~15x
 		)))))
 
-Add codexes
+##Add codexes
 	Refinement of crystals
 	Kazdra organs and biology
 	Kazdra gods or non religion
@@ -90,24 +89,24 @@ Add codexes
 	List of common kazdra names
 	Index of the runes
 
-Add crystal liquifyer recipes book to change how progression works?
-Gravity defying liquid
+##Add crystal liquifyer recipes book to change how progression works?
+##Gravity defying liquid
 	(Flows up not down like energized glowstone from Minecraft)
-Add different pets / monsters?
+##Add different pets / monsters?
 	Wyveren with scales
 	Shark dog
 	Farm animals
 	Big dragons with nests
 
-Add mech parts (Frackin' Universe is complicating this...)
-Add unique kazdra tech
+##Add mech parts (Frackin' Universe is complicating this...)
+##Add unique kazdra tech
 	Fall damage elimination / resistance
 	Fire breath and other elements
 	Increased swimming speed and agility
 	Lava immunity
 	Acid resistance
 
-Add more kazdra furniture
+##Add more kazdra furniture
 	Bed
 		How to deal with wings\?
 	Chair
@@ -130,7 +129,7 @@ Add more kazdra furniture
 	TV (I just want a TV without big ape)
 	Dragon idol
 	
-Kazdra technology
+##Kazdra technology
 	Laser power and information transfer system
 !!!!!!!!Could use a fake laser system through blocks like the pipes
 		Wait until I can use a partial effect and binding instead of a segment system?
@@ -142,38 +141,38 @@ Kazdra technology
 		Add output and input
 	Refraction and diffraction lenses
 
-Quest rewards ancient data crystal
+##Quest rewards ancient data crystal
 
-Add kazdra mineing equipment
+##Add kazdra mineing equipment
 	Mineing rig
 
-Kazdra ore depleted plants
+##Kazdra ore depleted plants
 
-Different sound when breaking crystals
+##Different sound when breaking crystals
 	Resonite high pitch ding
 	Zostone dull low tone
 
-Add paintings and statues of kazdra / kazdra art
+##Add paintings and statues of kazdra / kazdra art
 	Kazdra home world
 	Kazdra scientists
 	Kazdra village / city
 
-Create a kazdra ship design / idea
+##Create a kazdra ship design / idea
 	Shape: crystalline / Dragon <eastern / western? / wyveren / other?>
 
-Mech ideas 
+##Mech ideas 
 	Shape: western dragon
 
-Add custom kazdra spinning wheel named crystal weaver?
-Improve liquid crystal textures
+##Add custom kazdra spinning wheel named crystal weaver?
+##Improve liquid crystal textures
 	(Not just watertex)
-Add liquid effects
+##Add liquid effects
 	Resonite :: Amplify sound??
 	Zoastone :: Eliminate sound?? and some light (Blindness)
 	Liquid diamond?
 	Liquid glass
 
-Monster drops?
+##Monster drops?
 	Claws
 	Scales / hide
 	Fangs
@@ -181,17 +180,17 @@ Monster drops?
 	Wing segments
 	Eggs
 
-Ore?
+##Ore?
 	Ludicrite
 		(Extremely rare and expensive)
 	Void
 		(Extremely Black prevent any illumination??)
 		[Opposite of fullbright]
 
-Work on dungeons
+##Work on dungeons
 	(Different mod for stability reasons, just to be safe!)
-Add glow gem to Tiled
-Add kazdra glitch raiding camps
+##Add glow gem to Tiled
+##Add kazdra glitch raiding camps
 	(chance to spawn on same planet that spawns glitch cites)
 
 --Other--
@@ -199,7 +198,6 @@ Taking over NPCs?
 Automation crafting using a key (the original item) and the required materials to get 1+n items.
 Headless mask (blank image and ~full mask)
 Require orbiting for warp flags to show
-[/code]
 
 ? May or may not be added or chosen
 ?? May not be possible
