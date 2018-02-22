@@ -20,40 +20,52 @@ Other
 	Dragon charm
 
 Food / Drinks
-	Dragon curry (Flaming hot, inflicts burn)
+	Dragon curry
+		(Flaming hot, inflicts burn, improves dragon breath??)
 	Dragon pet food
+	Meat //Protein and fat
+		Pasta
+		Taco
+	
 	
 Blocks
 	Crystal glass
-	Crystal fluid structure (Similar to a PCB design)
+	Crystal fluid structure
+		(Similar to a PCB design)
 	Crystal pillar
 	
 Runes
 	Ancient consoles
-////Ancient data storage  -->  Contains random codex(es)
 ~~~~Metallic horde
 	Kazdra treasure hunter (Quest get me out of here! ?)
 	Add location to quests
 ////Kazdra data crystal
 ////Kazdra ancient data crystal (same design different method of reading and wighting)
 	Transparent display
-	3D Navigation display (instead of chair still use the same interact type)
-////Ancient data reader
-		Use random extraction like reward bags or geodes but in the mechanism
+	3D Navigation display
+		(Instead of chair still use the same interact type)
 	Ancient power junctions 
 	
 
 Ancient ship (Connection to the ancients?!?!)  ~Some require fixing quests
+	May have to wipe the pre-ship?
+	Branch off  the upgrade path??
 	Quest to replace ship (Prevent unless in same system?)
-	Warp drive that requires quantonium?  /  catalysts?
+	Warp drive that requires quantonium? ??  /  catalysts? ??
+		(Look at ship fuel lua to white-list the fuel?? ??
+		(C:\Program Files (x86)\Steam\steamapps\common\Starbound\unpackedAssets\objects\ship\humanfuelhatch
+		(Require to catalyze liquid erchius fuel to catalyzed quantonium fuel
+		)))
 	Warp drive requires stardust from stars??  (There is no physical star in the game...)
 		Quantonium in ancient data crystals
 	Gravitational drive for short range
 	Quantum computer
-	Replace AI from avean to kazdra??  (Is this based on what SAIL is in the ship and how to replace the old SAIL)
+	Replace AI from avean to kazdra??
+		(Is this based on what SAIL is in the ship and how to replace the old SAIL)
 	Missing some drive cores (crystalline based)
 	Sleeping ancient kazdra in cryostasis?
-		Needs some materials and instructions to waken (Use crafting system.  Sleeping kazdra can be a item.  Result can be a ancient kazdra spawner with "despawn" : 1 or 0? to prevent over spawning)
+		Needs some materials and instructions to waken.
+			(Use crafting system.  Sleeping kazdra can be a item.  Result can be a ancient kazdra spawner with "breakable" : true)
 	Communication relay
 	Long range telaporter?  Can be orbiting the planetary system to beam down rather than just the object??
 	Kandra fossils and bones
@@ -61,6 +73,13 @@ Ancient ship (Connection to the ancients?!?!)  ~Some require fixing quests
 NPCs
 	Spawn Kazdra in space ships / stations / worlds
 	Increase buy price for metals with kazdra??
+	Kazdra metal trade
+		(Trade metals for pixels ~5x
+		(Gems for ~.4x
+		(Use a crafting based system to prevent acceptation of all items
+		(To make it easy use a chest interface
+		(Can buy metal at ~15x
+		)))))
 
 Add codexes
 	Refinement of crystals
@@ -71,8 +90,9 @@ Add codexes
 	List of common kazdra names
 	Index of the runes
 
-Add crystal liquifyer recipes book to change how progression works
-Gravity defying liquid (flows up not down like energized glowstone from Minecraft)
+Add crystal liquifyer recipes book to change how progression works?
+Gravity defying liquid
+	(Flows up not down like energized glowstone from Minecraft)
 Add different pets / monsters?
 	Wyveren with scales
 	Shark dog
@@ -102,7 +122,8 @@ Add more kazdra furniture
 	Ship locker
 	Safe (for metal)
 	Crystal lenses
-	Crystal lenses and lazes (Modular would be hard to coordinate and limiting)
+	Crystal lenses and lazes
+		(Modular would be hard to coordinate and limiting)
 		Crystal grinder for lenses
 	Mirror (Uses crystal as a reflector)
 	Ground bed
@@ -144,12 +165,14 @@ Mech ideas
 	Shape: western dragon
 
 Add custom kazdra spinning wheel named crystal weaver?
-Improve liquid crystal textures (Not just water .tex)
+Improve liquid crystal textures
+	(Not just watertex)
 Add liquid effects
 	Resonite :: Amplify sound??
 	Zoastone :: Eliminate sound?? and some light (Blindness)
 	Liquid diamond?
 	Liquid glass
+
 Monster drops?
 	Claws
 	Scales / hide
@@ -159,12 +182,17 @@ Monster drops?
 	Eggs
 
 Ore?
-	Ludicrite (Extremely rare and expensive)
-	Void (Extremely Black prevent any illumination??) [opposite of fullbright]
+	Ludicrite
+		(Extremely rare and expensive)
+	Void
+		(Extremely Black prevent any illumination??)
+		[Opposite of fullbright]
 
-Work on dungeons (Different mod for stability reasons, just to be safe!)
+Work on dungeons
+	(Different mod for stability reasons, just to be safe!)
 Add glow gem to Tiled
-Add kazdra glitch raiding camps (chance to spawn on same planet that spawns glitch cites)
+Add kazdra glitch raiding camps
+	(chance to spawn on same planet that spawns glitch cites)
 
 --Other--
 Taking over NPCs?
