@@ -73,7 +73,7 @@
 * Increase buy price for metals with kazdra??
 * Kazdra metal trade
 	* Trade metals for pixels ~5x
-	* Gems for ~.4x
+	* Gems for ~0.4x
 	* Use a crafting based system to prevent acceptation of all items
 	* To make it easy use a chest interface
 	* Can buy metal at ~15x
@@ -99,7 +99,7 @@
 * Farm animals
 * Big dragons with nests
 
-## Add mech parts (Frackin' Universe is complicating this...)
+## Add mech parts (Frackin\' Universe is complicating this...)
 
 ## Add unique kazdra tech
 * Fall damage elimination / resistance
@@ -134,13 +134,13 @@
 
 ## Kazdra technology
 * Laser power and information transfer system
-!!!!!!!!Could use a fake laser system through blocks like the pipes
-	* Wait until I can use a partial effect and binding instead of a segment system?
-	* Use "fgAnchors" and "bgAnchors" ~[[-w/2,0],[w/2,0]]  where w is width
-		* Ex [[-2,0], [-1,0], [0,0], [1,0]]
+		* Could use a fake laser system through blocks like the pipes
+	* Wait until I can use a partial effects and binding instead of a segment system??
+	* Use `"fgAnchors" and "bgAnchors" ~[[-w/2,0],[w/2,0]]`  where w is width
+		* Ex `[[-2,0], [-1,0], [0,0], [1,0]]`
 		* Different placement parameters
-	* Use "spaceScan" : 0.9
-	* Use "renderLayer" : "foregroundentity+1"
+	* Use `"spaceScan" : 0.9`
+	* Use `"renderLayer" : "foregroundentity+1"`
 	* Add output and input
 * Refraction and diffraction lenses
 
@@ -161,7 +161,7 @@
 * Kazdra village / city
 
 ## Create a kazdra ship design / idea
-* Shape: crystalline / Dragon <eastern / western? / wyveren / other?>
+* Shape: crystalline / Dragon <eastern / western / wyveren / other?/>
 
 ## Mech ideas 
 * Shape: western dragon
@@ -208,3 +208,4 @@ Require orbiting for warp flags to show
 
 ? May or may not be added or chosen  
 ?? May not be possible
+
