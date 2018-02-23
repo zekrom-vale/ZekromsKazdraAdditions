@@ -1,0 +1,164 @@
+[ 
+//kazdra
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "crystalinedoor" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "crystalinedoorh" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "crystallight1" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "drassilgate" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "drassilgateh" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "glowgem" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kazchest1" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kazswitch" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kaztable1" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kaztable2" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "springrock1" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "tinyglowgem" }
+},
+//Tools
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spyrodrill" }
+},
+//materials
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "crystalpanel" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kazcloth" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kazship1" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kazship2" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kazwoodflooring" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "swirlrelief" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "woodgemplatform" }
+},
+//Crafting
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "agirezon" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "quantonium" }
+},
+//ship
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kazdrafuelhatch" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kazdratechstation" }
+},
+//Juice
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "etherianjolt" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "jurassiccocktail" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kahla" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "kahla2" }
+},
+//Spawner
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawnerkazdra" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawnerkazdra2" }
+},
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawnerkazdra3" }
+}
+]

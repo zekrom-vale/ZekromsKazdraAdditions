@@ -1,0 +1,10 @@
+[{
+"op" : "add",
+"path" : "/offeredQuests/-",
+"value" : "techscientistKazfly"
+},
+{
+"op" : "add",
+"path" : "/turnInQuests/-",
+"value" : "techscientistKazfly"
+}]

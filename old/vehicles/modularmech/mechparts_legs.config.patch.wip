@@ -1,0 +1,24 @@
+[{
+"op" : "add",
+"path" : "/dragon",
+"value": {
+    "stats" : {
+      "speed" : 3,
+      "jump" : 3
+    },
+    "partParameters" : {},
+    "partImages" : {
+      "backLeg" : "leg/dragon.png",
+      "backLegFullbright" : "leg/dragon_fullbright.png",
+      "backLegJoint" : "legjoint/dragon_back.png",
+      "frontLeg" : "leg/dragon.png",
+      "frontLegFullbright" : "leg/dragon_fullbright.png",
+      "frontLegJoint" : "legjoint/dragon_front.png",
+      "hips" : "hips/dragon.png"
+    },
+	// [lightest, light, darker, darkest]
+    "defaultPrimaryColors" : ["5c5477", "544c67", "4a4359", "3e3848"],
+    "defaultSecondaryColors" : ["b7ffff", "aef7ff", "9be6ff", ""],
+    "animationCustom" : {}
+  }
+}]
