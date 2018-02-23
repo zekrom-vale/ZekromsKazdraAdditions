@@ -2,12 +2,20 @@
 Adds Kazdra crafting recipes, fixes, items, as well as some of the items to the outpost for version 0.1.27.  This mod requires [The Kazdra Reloaded](http://steamcommunity.com/sharedfiles/filedetails/?id=949156982) by Andr3w246.
 This mod is a patch making it possible to craft more things from the The Kazdra Reloaded mod as well as adding more content from NPCs to runes and even fixing some issues, some images and content belong to Andr3w246!
 
-**Note**: Make sure to mention this mod when reporting errors on The Kazdra Reloaded page.
+**Note**: Make sure to _mention_ this mod when reporting errors on The Kazdra Reloaded page.
 
 ## ~Planed:
 * Resonite Glass
 * Zekrom Suit (So many frames!)
 * Some more hats?
+
+## v.9-live
+* Now uses github!
+* Fixes kazdra converce
+* Moved to a new assets folder to elimnate .git (a 26.5MB folder!) and junk files when uploading to steamcommunity
+* Added images to the .git
+* Removed tilesets and tiled from mod (still in .git)
+* Removed extranious hoverbikered.vehicle
 
 ## v.8
 * Added kazdra tab in codex with [Many Tabs: codex extender](http://steamcommunity.com/sharedfiles/filedetails/?id=1119086325&searchtext=codex+extender) requires both!
@@ -57,9 +65,9 @@ This mod is a patch making it possible to craft more things from the The Kazdra 
 
 ## v.5
 * Added fluid crystal crafting with the crystalliquefier (Made at the inventor\'s table)
-* Most crystal fluids have effect(s) 
+* Most crystal fluids have effect(s)
 * All crystal fluids have color and an icon
-* - Liquid IDs 161 to 167
+	* Liquid IDs 161 to 167
 * Modified crafting recipes to use the liquid
 * Added resonitethread to the sniping wheel (May move to furnace)
 * Planting crystal seeds added to quests
