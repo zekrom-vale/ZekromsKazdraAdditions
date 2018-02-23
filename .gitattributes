@@ -17,6 +17,32 @@
 *.RTF	 diff=astextplain
 
 $ cat .gitattributes
+*.biome linguist-detectable=true
+*.codex linguist-detectable=true
+*.config linguist-detectable=true
+*.activeitem linguist-detectable=true
+*.chest linguist-detectable=true
+*.head linguist-detectable=true
+*.legs linguist-detectable=true
+*.currency linguist-detectable=true
+*.item linguist-detectable=true
+*.animation linguist-detectable=true
+*.consumable linguist-detectable=true
+*.liqitem linguist-detectable=true
+*.frames linguist-detectable=true
+*.liquid linguist-detectable=true
+*.namesource linguist-detectable=true
+*.npctype linguist-detectable=true
+*.object linguist-detectable=true
+*.questtemplate linguist-detectable=true
+*.recipe linguist-detectable=true
+*.species linguist-detectable=true
+*.tech linguist-detectable=true
+*.tenant linguist-detectable=true
+*.material linguist-detectable=true
+*.treasurepools linguist-detectable=true
+*.vehicle linguist-detectable=true
+
 *.biome linguist-language=JSON
 *.codex linguist-language=JSON
 *.config linguist-language=JSON
