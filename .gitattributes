@@ -15,3 +15,30 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+$ cat .gitattributes
+*.biome linguist-language=JSON
+*.codex linguist-language=JSON
+*.config linguist-language=JSON
+*.activeitem linguist-language=JSON
+*.chest linguist-language=JSON
+*.head linguist-language=JSON
+*.legs linguist-language=JSON
+*.currency linguist-language=JSON
+*.item linguist-language=JSON
+*.animation linguist-language=JSON
+*.consumable linguist-language=JSON
+*.liqitem linguist-language=JSON
+*.frames linguist-language=JSON
+*.liquid linguist-language=JSON
+*.namesource linguist-language=JSON
+*.npctype linguist-language=JSON
+*.object linguist-language=JSON
+*.questtemplate linguist-language=JSON
+*.recipe linguist-language=JSON
+*.species linguist-language=JSON
+*.tech linguist-language=JSON
+*.tenant linguist-language=JSON
+*.material linguist-language=JSON
+*.treasurepools linguist-language=JSON
+*.vehicle linguist-language=JSON
