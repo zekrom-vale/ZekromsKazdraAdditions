@@ -9,6 +9,9 @@ This mod is a patch making it possible to craft more things from the The Kazdra 
 * Zekrom Suit (So many frames!)
 * Some more hats?
 
+# v.9 will now split into two mods fixes and additional content!
+* The additional content mod will require the fixes mod to prevent bugs.
+
 ## v.9-live
 * Now uses github!
 * Fixes kazdra converce
@@ -26,7 +29,7 @@ This mod is a patch making it possible to craft more things from the The Kazdra 
 * Nerfed Zekrom armor
 * Expanded tenants
 * Removed junk files
-* Added tilesets, tiled, tilesetscore, and tiledcore for dungeon prep.
+* Added tilesets, tiled, tilesetscore, and tiledcore for dungeon prep.  Made this code to find the [X-offset](https://jsfiddle.net/zekrom_vale/5jfxj1x8/5/)
 * Added kazdra flight tech (tier 1 and 2 and Dev)
 * If you are using an existing save that has completed the leg tech quest use the following commands (in /admin mode)...
 * `/maketechavailable kazfly`
