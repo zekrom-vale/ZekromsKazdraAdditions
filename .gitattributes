@@ -17,6 +17,9 @@
 *.RTF	 diff=astextplain
 
 $ cat .gitattributes
+# JSON
+JSON linguist-searchable=true
+
 *.biome linguist-detectable=true
 *.codex linguist-detectable=true
 *.config linguist-detectable=true
