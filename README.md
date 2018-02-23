@@ -1,5 +1,5 @@
 # ZekromsKazdraRecipes
-Adds Kazdra crafting recipes, fixes, items, as well as some of the items to the outpost for version 0.1.27.  This mod requires [http://steamcommunity.com/sharedfiles/filedetails/?id=949156982](The Kazdra Reloaded) by Andr3w246.
+Adds Kazdra crafting recipes, fixes, items, as well as some of the items to the outpost for version 0.1.27.  This mod requires [The Kazdra Reloaded](http://steamcommunity.com/sharedfiles/filedetails/?id=949156982) by Andr3w246.
 This mod is a patch making it possible to craft more things from the The Kazdra Reloaded mod as well as adding more content from NPCs to runes and even fixing some issues, some images and content belong to Andr3w246!
 
 **Note**: Make sure to mention this mod when reporting errors on The Kazdra Reloaded page.
@@ -10,8 +10,8 @@ This mod is a patch making it possible to craft more things from the The Kazdra 
 * Some more hats?
 
 ## v.8
-* Added kazdra tab in codex with [http://steamcommunity.com/sharedfiles/filedetails/?id=1119086325&searchtext=codex+extender](Many Tabs: codex extender) requires both!
-* Added more kazdra codexes from the [https://community.playstarbound.com/resources/the-kazdra.1991](Community Playstarbound)
+* Added kazdra tab in codex with [Many Tabs: codex extender](http://steamcommunity.com/sharedfiles/filedetails/?id=1119086325&searchtext=codex+extender) requires both!
+* Added more kazdra codexes from the [Community Playstarbound](https://community.playstarbound.com/resources/the-kazdra.1991)
 * Added a claw weapon (Start with 2 and can be hand crafted)
 * Added elemental berth attacks (Start with a random one and can craft at the anvil)
 * Added temporary armor tiers
