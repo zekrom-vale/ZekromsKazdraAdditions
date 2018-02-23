@@ -16,7 +16,6 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-$ cat .gitattributes
 *.biome linguist-language=JSON
 *.codex linguist-language=JSON
 *.config linguist-language=JSON
