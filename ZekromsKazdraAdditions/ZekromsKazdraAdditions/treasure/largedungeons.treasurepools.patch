@@ -1,15 +1,4 @@
-[
-/*{
-"op" : "add",
-"path" : "/aviannativevillageLore/0/1/pool/-",
-"value" : {"weight" : 0.3, "item" : "kazdraobservations"}
-},
-{
-"op" : "add",
-"path" : "/avianairshipLore/0/1/pool/-",
-"value" : {"weight" : 0.3, "item" : "kazdraobservations"}
-},*/
-{
+[{
 "op" : "add",
 "path" : "/dungeoncrawlerChestTreasure/0/1/pool/-",
 "value" : {"weight" : 0.012, "item" : "ancientkazdatacrystal"}
@@ -43,5 +32,4 @@
 "op" : "add",
 "path" : "/OutpostUndersideChest/0/1/fill/-",
 "value" : {"weight" : 0.005, "item" : [ "ancientkazdatacrystal", 1] }
-}
-]
+}]

@@ -1,10 +1,4 @@
-[
-{
-"op" : "add",
-"path" : "/kazdraStarterTreasure/0/1/fill/-",
-"value" : { "item" : [ "rootpopseed", 3] }
-},
-{
+[{
 "op" : "add",
 "path" : "/kazdraStarterTreasure/0/1/fill/-",
 "value" : { "pool" : "breathweapon" }
@@ -19,5 +13,4 @@
 "op" : "add",
 "path" : "/kazdraStarterTreasure/0/1/fill/-",
 "value" : { "item" : [ "kazclaw", 1] }
-}
-]
+}]
