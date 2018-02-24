@@ -1,12 +1,10 @@
 {
   "author" : "zekrom_vale",
-  "description" : "Adds Kazdra crafting recipes, fixes, items, as well as some of the items to the outpost for version 0.1.27.  This mod requires [url=http://steamcommunity.com/sharedfiles/filedetails/?id=949156982]The Kazdra Reloaded[/url] by Andr3w246.\nThis mod is a patch making it possible to craft more things from the The Kazdra Reloaded mod as well as adding more content from NPCs to runes and even fixing some issues, some images and content belong to Andr3w246!\n\nPlaned:\nResonite Glass\nZekrom Suit (So many frames!)\nSome more hats?\n\nv.8\nAdded kazdra tab in codex with [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1119086325&searchtext=codex+extender]Many Tabs: codex extender[/url] requires both!\nAdded more kazdra codexes from the [url=https://community.playstarbound.com/resources/the-kazdra.1991] Community Playstarbound[/url]\nAdded a claw weapon (Start with 2 and can be hand crafted)\nAdded elemental berth attacks (Start with a random one and can craft at the anvil)\nAdded temporary armor tiers\nNerfed Zekrom armor\nExpanded tenants\nRemoved junk files\nAdded tilesets, tiled, tilesetscore, and tiledcore for dungeon prep.\nAdded kazdra flight tech (tier 1 and 2 and Dev)\nIf you are using an existing save that has completed the leg tech quest use the following commands (in /admin mode)...\n[code]/maketechavailable kazfly\n/maketechavailable kazfly2[/code]\nAdded a quantum dash tech\nIf you are using an existing save that has completed the chest tech quest use this command (in /admin mode)...\n[code]/maketechavailable quantumdash[/code]\n\nv.7b (core mod fixes)\nFixes block sounds\nFixes kazdratier6+ recipes\nFixed kazdrafemalenamegen.config to generate correct female names\nFixed kazdra-tier4.head mask\nAdds more kazextracteddata pool items\n\nv.7\nAdds Kazdra runes (Use runeinstantiator to make them)\nAdds Kazdra pillars and pots (Use ancienttable to make them)\nAdds Kazdra data crystals and extracted data crystals that gives out blueprints (And ancient codexes later)\nAdds kazdra bandits\nAdded spawn kazdra eggs (Made the reusable ones more expensive)\nAdded a hoverbike (2 versions)\nFixed woodgemplatform footstep sound\nFixed kazdra-tier4 missing mask\nAdded kazdra weapons to kazdra guards\nFixed Zekrom armor missing frames issue (still assets are WIP)\nCleaned up files reducing size by half\nFixed description spelling\n\nSee Change Notes for more version details!\n\nNote: Make sure to mention this mod when reporting errors on The Kazdra Reloaded page.",
-  "friendlyName" : "Zekrom's Kazdra Recipes and More! Flight tech and natural wepons update",
-  "friendlyname" : "Zekrom's Kazdra Recipes",
+  "description" : "Adds Kazdra crafting recipes, fixes, items, as well as some of the items to the outpost for version 0.1.27.  This mod requires [url=http://steamcommunity.com/sharedfiles/filedetails/?id=949156982 ]The Kazdra Reloaded[/url] by Andr3w246 and [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1263719031 ]my patch mod[/url]!  This adds more content from items to runes, some images and content belong to Andr3w246!\n\nNote: Make sure to mention this mod when reporting errors on The Kazdra Reloaded page.",
+  "friendlyName" : "Zekrom's Kazdra Additions! Split update. NOTE: Use this to keep my additions!",
+  "friendlyname" : "Zekrom's Kazdra Additions",
   "includes" : ["FrackinUniverse"],
-  "link" : "steam://url/CommunityFilePage/1263719031",
-  "name" : "ZekromsKazdraRecipes",
-  "requires" : ["kazdrareloaded"],
-  "steamContentId" : "1263719031",
-  "version" : "0.1.27.8"
+  "name" : "ZekromsKazdraAdditions",
+  "requires" : ["kazdrareloaded", "ZekromsKazdraRecipes"],
+  "version" : "0.1.27.9"
 }
