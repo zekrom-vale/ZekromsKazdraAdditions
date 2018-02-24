@@ -2,21 +2,6 @@
 //===================================================================================
 //										Crafting
 //===================================================================================
-//Spawner
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "spawnerkazdra" }
-},{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "spawnerkazdramerchant" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "spawnerkazdraguard" }
-},
 //Disposable
 {
 "op" : "add",
@@ -54,7 +39,7 @@
 { 
 	"op" : "add",
 	"path" : "/defaultCodexes/kazdra/-",
-	"value" : "kazdraobservations"
+	"value" : "kazdraorigins"
 },
 { 
 	"op" : "add",

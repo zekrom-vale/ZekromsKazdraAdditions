@@ -16,11 +16,6 @@
 "value" : { "item" : "kazancienttable" }
 },
 //Objects
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kaztable2" }
-},
 //--Flags
 {
 "op" : "add",
@@ -109,28 +104,12 @@
 {
 "op" : "add",
 "path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kahla2" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
 "value" : { "item" : "etherianjolt" }
 },
 {
 "op" : "add",
 "path" : "/defaultBlueprints/tier1/-",
 "value" : { "item" : "jurassiccocktail" }
-},
-//Ship
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdrafuelhatch" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratechstation" }
 },
 //liquidcrystal
 {
@@ -168,160 +147,6 @@
 "path" : "/defaultBlueprints/tier1/-",
 "value" : { "item" : "crystalliquefier" }
 },
-//Crystal
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "agirezon" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "hiron" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazein" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "koorium" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "resonite" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "zoastone" }
-}
-
-//Weapon teer 6+ fix (can't test easily)
-
-,{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier6dagger" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier6hammer" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier6shortsword" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier6broadsword" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier6spear" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier6axe" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier7dagger" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier7hammer" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier7shortsword" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier7broadsword" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier7spear" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier7axe" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier8dagger" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier8hammer" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier8shortsword" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier8broadsword" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier8spear" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier8axe" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier9dagger" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier9hammer" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier9shortsword" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier9broadsword" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier9spear" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier9axe" }
-},
 //Breath and claws
 {
 "op" : "add",
@@ -344,16 +169,6 @@
 "value" : { "item" : "frostbreath" }
 },
 //Armor
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier5pants" }
-},
-{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier5head" }
-},
 {
 "op" : "add",
 "path" : "/defaultBlueprints/tier1/-",
