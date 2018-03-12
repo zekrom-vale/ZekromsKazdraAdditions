@@ -1,22 +1,22 @@
 {
-  "objectName":"kazpillar!hul",
-  "tags":["kazdra"],
-  "rarity":"Common",
-  "description":"Warning breach.",
-  "shortdescription":"Kazdra Pillar Breach",
-  "race":"kazdra",
-  "category":"furniture",
-  "price":400,
-  
-  "defaultDescription":"It seems to warn about a breach.",
+	"objectName":"kazpillar!hul",
+	"tags":["kazdra"],
+	"rarity":"Common",
+	"description":"Warning breach.",
+	"shortdescription":"Kazdra Pillar Breach",
+	"race":"kazdra",
+	"category":"furniture",
+	"price":400,
+	
+	"defaultDescription":"It seems to warn about a breach.",
 
-  "inventoryIcon":"kazpillar!hul.png",
-  "orientations":[
+	"inventoryIcon":"kazpillar!hul.png",
+	"orientations":[
 	{
-	  "dualImage":"kazpillar!hul.png",
-	  "imagePosition":[0, 0],
-	  "spaceScan":0.1,
-	  "anchors":["bottom" ]
+		"dualImage":"kazpillar!hul.png",
+		"imagePosition":[0, 0],
+		"spaceScan":0.1,
+		"anchors":["bottom" ]
 	}
-  ]
+	]
 }

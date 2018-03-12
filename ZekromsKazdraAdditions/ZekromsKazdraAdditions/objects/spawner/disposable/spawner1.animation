@@ -1,13 +1,13 @@
 {
-  "animatedParts":{
+	"animatedParts":{
 	"stateTypes":{
-	  "switchState":{
+		"switchState":{
 		"default":"off",
 		"states":{
-		  "off":{
+			"off":{
 			"frames":1
 		 },
-		  "on":{
+			"on":{
 			"frames":1
 		 }
 		}

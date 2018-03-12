@@ -1,5 +1,4 @@
-[
-//Crafting
+[//Crafting
 {
 "op":"add",
 "path":"/defaultBlueprints/tier1/-",
@@ -12,8 +11,7 @@
 "op":"add",
 "path":"/defaultBlueprints/tier1/-",
 "value":{"item":"kazancienttable"}
-},
-//Objects
+},//Objects
 //--Flags
 {
 "op":"add",
@@ -169,9 +167,7 @@
 "op":"add",
 "path":"/defaultBlueprints/tier1/-",
 "value":{"item":"kazdratier5rhead"}
-},
-
-{
+},{
 "op":"add",
 "path":"/defaultBlueprints/tier1/-",
 "value":{"item":"kazdratier6rchest"}
@@ -183,5 +179,4 @@
 "op":"add",
 "path":"/defaultBlueprints/tier1/-",
 "value":{"item":"kazdratier6rhead"}
-}
-]
+}]

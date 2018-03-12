@@ -1,22 +1,22 @@
 {
-  "objectName":"runedras",
-  "tags":["kazdra"],
-  "rarity":"Common",
-  "description":"A kazdra rune denoting entry.",
-  "shortdescription":"Dras Rune",
-  "race":"kazdra",
-  "category":"furniture",
-  "price":10,
-  
-  "defaultDescription":"A kazdra rune denoting entry.",
+	"objectName":"runedras",
+	"tags":["kazdra"],
+	"rarity":"Common",
+	"description":"A kazdra rune denoting entry.",
+	"shortdescription":"Dras Rune",
+	"race":"kazdra",
+	"category":"furniture",
+	"price":10,
+	
+	"defaultDescription":"A kazdra rune denoting entry.",
 
-  "inventoryIcon":"dras.png",
-  "orientations":[
+	"inventoryIcon":"dras.png",
+	"orientations":[
 	{
-	  "dualImage":"dras.png",
-	  "imagePosition":[0, 0],
-	  "spaceScan":0.1,
-	  "anchors":["background" ]
+		"dualImage":"dras.png",
+		"imagePosition":[0, 0],
+		"spaceScan":0.1,
+		"anchors":["background" ]
 	}
-  ]
+	]
 }

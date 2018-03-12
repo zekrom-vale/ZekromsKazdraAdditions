@@ -1,22 +1,22 @@
 {
-  "objectName":"runete",
-  "tags":["kazdra"],
-  "rarity":"Common",
-  "description":"A kazdra rune denoting science.",
-  "shortdescription":"Te Rune",
-  "race":"kazdra",
-  "category":"furniture",
-  "price":10,
-  
-  "defaultDescription":"A kazdra rune denoting science.",
+	"objectName":"runete",
+	"tags":["kazdra"],
+	"rarity":"Common",
+	"description":"A kazdra rune denoting science.",
+	"shortdescription":"Te Rune",
+	"race":"kazdra",
+	"category":"furniture",
+	"price":10,
+	
+	"defaultDescription":"A kazdra rune denoting science.",
 
-  "inventoryIcon":"te.png",
-  "orientations":[
+	"inventoryIcon":"te.png",
+	"orientations":[
 	{
-	  "dualImage":"te.png",
-	  "imagePosition":[0, 0],
-	  "spaceScan":0.1,
-	  "anchors":["background" ]
+		"dualImage":"te.png",
+		"imagePosition":[0, 0],
+		"spaceScan":0.1,
+		"anchors":["background" ]
 	}
-  ]
+	]
 }

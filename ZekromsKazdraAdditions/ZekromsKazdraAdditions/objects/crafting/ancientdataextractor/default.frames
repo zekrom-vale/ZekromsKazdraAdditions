@@ -1,5 +1,5 @@
 {
-  "frameGrid":{
+	"frameGrid":{
 	"size":[16, 24],
 	"dimensions":[8, 1],
 	"names":[
@@ -7,7 +7,7 @@
 	]
  },
 
-  "aliases":{
+	"aliases":{
 	"default.default":"default.6",
 	"default.7":"default.6",
 	"default.8":"default.6",

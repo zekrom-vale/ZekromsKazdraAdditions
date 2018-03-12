@@ -1,33 +1,33 @@
 {
-  "itemName":"dragonbikecontroller2",
-  "level":1,
-  "price":15000,
-  "rarity":"Rare",
-  "category":"vehicleController",
-  "shortdescription":"Dragon Hoverbike Controller",
-  "description":"Create a dragon hoverbike from stored nanites.",
-  "twoHanded":true,
-  "maxStack":1,
-  "itemTags":["vehiclecontroller"],
+	"itemName":"dragonbikecontroller2",
+	"level":1,
+	"price":15000,
+	"rarity":"Rare",
+	"category":"vehicleController",
+	"shortdescription":"Dragon Hoverbike Controller",
+	"description":"Create a dragon hoverbike from stored nanites.",
+	"twoHanded":true,
+	"maxStack":1,
+	"itemTags":["vehiclecontroller"],
 
-  "animation":"vehiclecontroller.animation",
-  "scripts":["vehiclecontroller.lua"],
-  "animationScripts":["vehiclecursor.lua"],
-  "filled":true,
-  "tooltipKind":"vehicle",
-  "largeImage":"dragonbike2.png",
+	"animation":"vehiclecontroller.animation",
+	"scripts":["vehiclecontroller.lua"],
+	"animationScripts":["vehiclecursor.lua"],
+	"filled":true,
+	"tooltipKind":"vehicle",
+	"largeImage":"dragonbike2.png",
 
-  "respawnTime":1.0,
+	"respawnTime":1.0,
 
-  "vehicleType":"dragonbike2",
-  "vehicleBoundingBox":[-5, -3, 5, 3],
-  "vehicleImage":"/vehicles/hoverbike/hoverbikewarp.png:warp.7",
+	"vehicleType":"dragonbike2",
+	"vehicleBoundingBox":[-5, -3, 5, 3],
+	"vehicleImage":"/vehicles/hoverbike/hoverbikewarp.png:warp.7",
 
-  "animationParts":{
+	"animationParts":{
 	"casing":"dragonbikecontroller.png"
  },
 
-  "inventoryIcon":"dragonbikecontroller.png:full",
-  "emptyInventoryIcon":"/items/active/vehiclecontroller/dragonbikecontroller.png:empty",
-  "filledInventoryIcon":"/items/active/vehiclecontroller/dragonbikecontroller.png:full"
+	"inventoryIcon":"dragonbikecontroller.png:full",
+	"emptyInventoryIcon":"/items/active/vehiclecontroller/dragonbikecontroller.png:empty",
+	"filledInventoryIcon":"/items/active/vehiclecontroller/dragonbikecontroller.png:full"
 }

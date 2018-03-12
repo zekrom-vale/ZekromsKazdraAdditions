@@ -1,22 +1,22 @@
 {
-  "objectName":"runemodside",
-  "tags":["kazdra"],
-  "rarity":"Common",
-  "description":"A kazdra modification rune it indicates is, will, or yields depending on context.",
-  "shortdescription":"Side Mod Rune",
-  "race":"kazdra",
-  "category":"furniture",
-  "price":10,
-  
-  "defaultDescription":"A kazdra modification rune it indicates is, will, or yields depending on context.",
+	"objectName":"runemodside",
+	"tags":["kazdra"],
+	"rarity":"Common",
+	"description":"A kazdra modification rune it indicates is, will, or yields depending on context.",
+	"shortdescription":"Side Mod Rune",
+	"race":"kazdra",
+	"category":"furniture",
+	"price":10,
+	
+	"defaultDescription":"A kazdra modification rune it indicates is, will, or yields depending on context.",
 
-  "inventoryIcon":"side.png",
-  "orientations":[
+	"inventoryIcon":"side.png",
+	"orientations":[
 	{
-	  "dualImage":"side.png",
-	  "imagePosition":[0, 0],
-	  "spaceScan":0.1,
-	  "anchors":["background" ]
+		"dualImage":"side.png",
+		"imagePosition":[0, 0],
+		"spaceScan":0.1,
+		"anchors":["background" ]
 	}
-  ]
+	]
 }

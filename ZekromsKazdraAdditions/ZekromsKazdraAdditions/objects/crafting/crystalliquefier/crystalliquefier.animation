@@ -1,17 +1,17 @@
 {
-  "animatedParts":{
+	"animatedParts":{
 	"stateTypes":{
-	  "stage":{
+		"stage":{
 		"default":"stone",
 		"states":{
-		  "stone":{
+			"stone":{
 			"frames":4,
 			"cycle":0.5,
 			"mode":"loop",
 			"properties":{
-			  "lightsOn":["fireglow" ],
-			  "persistentSound":"/sfx/objects/campfire.ogg",
-			  "persistentSoundRangeMultiplier":0.5
+				"lightsOn":["fireglow" ],
+				"persistentSound":"/sfx/objects/campfire.ogg",
+				"persistentSoundRangeMultiplier":0.5
 			}
 		 }
 		}
@@ -19,14 +19,14 @@
 	},
 
 	"parts":{
-	  "chassis":{
+		"chassis":{
 		"properties":{
-		  "centered":true
+			"centered":true
 		},
 		"partStates":{
-		  "stage":{
+			"stage":{
 			"stone":{
-			  "properties":{
+				"properties":{
 				"image":"crystalliquefierlit.png:<color>.<frame>"
 			 }
 			}
@@ -34,15 +34,15 @@
 		}
 	 },
 
-	  "fire":{
+		"fire":{
 		"properties":{
-		  "centered":true,
-		  "fullbright":true
+			"centered":true,
+			"fullbright":true
 		},
 		"partStates":{
-		  "stage":{
+			"stage":{
 			"stone":{
-			  "properties":{
+				"properties":{
 				"image":"crystalliquefier.png:<color>.<frame>"
 			 }
 			}
@@ -52,21 +52,21 @@
 	}
  },
 
-  "sounds":{
+	"sounds":{
 	"fanfare":["/sfx/cinematics/mission_unlock_event.ogg"],
 	"fanfare2":["/sfx/cinematics/license_acquired_event.ogg"]
  },
 
-  "lights":{
+	"lights":{
 	"fireglow":{
-	  "active":false,
-	  "position":[0, 1],
-	  "color":[153, 128, 92],
-	  "flickerPeriod":0.3,
-	  "flickerMinIntensity":0.95,
-	  "flickerMaxIntensity":1,
-	  "flickerPeriodVariance":0.075,
-	  "flickerIntensityVariance":0.025
+		"active":false,
+		"position":[0, 1],
+		"color":[153, 128, 92],
+		"flickerPeriod":0.3,
+		"flickerMinIntensity":0.95,
+		"flickerMaxIntensity":1,
+		"flickerPeriodVariance":0.075,
+		"flickerIntensityVariance":0.025
 	}
  }
 }

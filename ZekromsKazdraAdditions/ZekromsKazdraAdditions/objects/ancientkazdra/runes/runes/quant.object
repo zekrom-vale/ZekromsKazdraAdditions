@@ -1,22 +1,22 @@
 {
-  "objectName":"runequant",
-  "tags":["kazdra"],
-  "rarity":"Common",
-  "description":"A kazdra rune denoting quantum.",
-  "shortdescription":"Quant Rune",
-  "race":"kazdra",
-  "category":"furniture",
-  "price":10,
-  
-  "defaultDescription":"A kazdra rune denoting quantum.",
+	"objectName":"runequant",
+	"tags":["kazdra"],
+	"rarity":"Common",
+	"description":"A kazdra rune denoting quantum.",
+	"shortdescription":"Quant Rune",
+	"race":"kazdra",
+	"category":"furniture",
+	"price":10,
+	
+	"defaultDescription":"A kazdra rune denoting quantum.",
 
-  "inventoryIcon":"quant.png",
-  "orientations":[
+	"inventoryIcon":"quant.png",
+	"orientations":[
 	{
-	  "dualImage":"quant.png",
-	  "imagePosition":[0, 0],
-	  "spaceScan":0.1,
-	  "anchors":["background" ]
+		"dualImage":"quant.png",
+		"imagePosition":[0, 0],
+		"spaceScan":0.1,
+		"anchors":["background" ]
 	}
-  ]
+	]
 }

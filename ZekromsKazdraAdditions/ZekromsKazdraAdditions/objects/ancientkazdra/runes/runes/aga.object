@@ -1,22 +1,22 @@
 {
-  "objectName":"runeaga",
-  "tags":["kazdra"],
-  "rarity":"Common",
-  "description":"A kazdra rune denoting time.",
-  "shortdescription":"Aga Rune",
-  "race":"kazdra",
-  "category":"furniture",
-  "price":10,
-  
-  "defaultDescription":"A kazdra rune denoting time.",
+	"objectName":"runeaga",
+	"tags":["kazdra"],
+	"rarity":"Common",
+	"description":"A kazdra rune denoting time.",
+	"shortdescription":"Aga Rune",
+	"race":"kazdra",
+	"category":"furniture",
+	"price":10,
+	
+	"defaultDescription":"A kazdra rune denoting time.",
 
-  "inventoryIcon":"aga.png",
-  "orientations":[
+	"inventoryIcon":"aga.png",
+	"orientations":[
 	{
-	  "dualImage":"aga.png",
-	  "imagePosition":[0, 0],
-	  "spaceScan":0.1,
-	  "anchors":["background" ]
+		"dualImage":"aga.png",
+		"imagePosition":[0, 0],
+		"spaceScan":0.1,
+		"anchors":["background" ]
 	}
-  ]
+	]
 }

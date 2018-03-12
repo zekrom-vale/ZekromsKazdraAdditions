@@ -1,22 +1,22 @@
 {
-  "objectName":"kazpillar!hiro",
-  "tags":["kazdra"],
-  "rarity":"Common",
-  "description":"Warning fire hazard.",
-  "shortdescription":"Kazdra Pillar Fire",
-  "race":"kazdra",
-  "category":"furniture",
-  "price":400,
-  
-  "defaultDescription":"It seems to warn about an fire based hazard.",
+	"objectName":"kazpillar!hiro",
+	"tags":["kazdra"],
+	"rarity":"Common",
+	"description":"Warning fire hazard.",
+	"shortdescription":"Kazdra Pillar Fire",
+	"race":"kazdra",
+	"category":"furniture",
+	"price":400,
+	
+	"defaultDescription":"It seems to warn about an fire based hazard.",
 
-  "inventoryIcon":"kazpillaricon.png",
-  "orientations":[
+	"inventoryIcon":"kazpillaricon.png",
+	"orientations":[
 	{
-	  "dualImage":"kazpillar!hiro.png",
-	  "imagePosition":[0, 0],
-	  "spaceScan":0.1,
-	  "anchors":["bottom" ]
+		"dualImage":"kazpillar!hiro.png",
+		"imagePosition":[0, 0],
+		"spaceScan":0.1,
+		"anchors":["bottom" ]
 	}
-  ]
+	]
 }

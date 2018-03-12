@@ -1,22 +1,22 @@
 {
-  "objectName":"runehul",
-  "tags":["kazdra"],
-  "rarity":"Common",
-  "description":"A kazdra rune denoting hull.",
-  "shortdescription":"Hul Rune",
-  "race":"kazdra",
-  "category":"furniture",
-  "price":10,
-  
-  "defaultDescription":"A kazdra rune denoting hull.",
+	"objectName":"runehul",
+	"tags":["kazdra"],
+	"rarity":"Common",
+	"description":"A kazdra rune denoting hull.",
+	"shortdescription":"Hul Rune",
+	"race":"kazdra",
+	"category":"furniture",
+	"price":10,
+	
+	"defaultDescription":"A kazdra rune denoting hull.",
 
-  "inventoryIcon":"hul.png",
-  "orientations":[
+	"inventoryIcon":"hul.png",
+	"orientations":[
 	{
-	  "dualImage":"hul.png",
-	  "imagePosition":[0, 0],
-	  "spaceScan":0.1,
-	  "anchors":["background" ]
+		"dualImage":"hul.png",
+		"imagePosition":[0, 0],
+		"spaceScan":0.1,
+		"anchors":["background" ]
 	}
-  ]
+	]
 }
