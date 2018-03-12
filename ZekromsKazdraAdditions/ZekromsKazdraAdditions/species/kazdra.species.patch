@@ -1,218 +1,218 @@
 [
 //Crafting
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "resonitethread" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"resonitethread"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "runeinstantiator" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"runeinstantiator"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazancienttable" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazancienttable"}
 },
 //Objects
 //--Flags
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazblackflag" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazblackflag"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazblueflag" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazblueflag"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazlightblueflag" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazlightblueflag"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazlightgreenflag" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazlightgreenflag"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazpurpleflag" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazpurpleflag"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazpurpleflag2" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazpurpleflag2"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazwhiteflag" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazwhiteflag"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazyellowflag" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazyellowflag"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazyellowflag2" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazyellowflag2"}
 },
 //--Banner
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazbanner" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazbanner"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazbannerfull" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazbannerfull"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazbannerP" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazbannerP"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazbannerW" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazbannerW"}
 },
 //Tools
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdrill" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazdrill"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "spyrodrill" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"spyrodrill"}
 },
 //Materials
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "woodgemplatform" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"woodgemplatform"}
 },
 //Juice
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "etherianjolt" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"etherianjolt"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "jurassiccocktail" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"jurassiccocktail"}
 },
 //liquidcrystal
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "liquidagirezon" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"liquidagirezon"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "liquidhiron" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"liquidhiron"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "liquidkazein" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"liquidkazein"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "liquidkoorium" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"liquidkoorium"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "liquidresonite" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"liquidresonite"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "liquidzoastone" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"liquidzoastone"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "crystalliquefier" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"crystalliquefier"}
 },
 //Breath and claws
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazclaw" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazclaw"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "electricbreath" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"electricbreath"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "firebreath" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"firebreath"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "frostbreath" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"frostbreath"}
 },
 //Armor
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "zekromhead" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"zekromhead"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "zekromchest" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"zekromchest"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "zekrompants" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"zekrompants"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier5rchest" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazdratier5rchest"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier5rpants" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazdratier5rpants"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier5rhead" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazdratier5rhead"}
 },
 
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier6rchest" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazdratier6rchest"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier6rpants" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazdratier6rpants"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazdratier6rhead" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazdratier6rhead"}
 }
 ]

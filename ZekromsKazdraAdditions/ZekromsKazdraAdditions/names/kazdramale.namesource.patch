@@ -1,12 +1,12 @@
 [
 {
-"op" : "add",
-"path" : "/sourceNames/-",
-"value" : "ZEKROM"
+"op":"add",
+"path":"/sourceNames/-",
+"value":"ZEKROM"
 },
 {
-"op" : "add",
-"path" : "/sourceNames/-",
-"value" : "RAYQUAZA"
+"op":"add",
+"path":"/sourceNames/-",
+"value":"RAYQUAZA"
 }
 ]

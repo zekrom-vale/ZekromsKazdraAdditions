@@ -1,12 +1,12 @@
 [
 //Juice
 {
-"op" : "add",
-"path" : "/healingItem/1/1/pool/-",
-"value" : {"weight" : 0.2, "item" : "etherianjolt" }
+"op":"add",
+"path":"/healingItem/1/1/pool/-",
+"value":{"weight":0.2, "item":"etherianjolt"}
 },
 {
-"op" : "add",
-"path" : "/healingItem/0/1/pool/-",
-"value" : {"weight" : 0.1, "item" : "jurassiccocktail" }
+"op":"add",
+"path":"/healingItem/0/1/pool/-",
+"value":{"weight":0.1, "item":"jurassiccocktail"}
 }]

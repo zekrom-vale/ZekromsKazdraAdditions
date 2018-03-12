@@ -1,10 +1,10 @@
 [{
-"op" : "add",
-"path" : "/icethrower",
-"value" : "/items/active/weapons/ranged/abilities/icethrower/icethrower.weaponability"
+"op":"add",
+"path":"/icethrower",
+"value":"/items/active/weapons/ranged/abilities/icethrower/icethrower.weaponability"
 },
 {
-"op" : "add",
-"path" : "/electricthrower",
-"value" : "/items/active/weapons/ranged/abilities/electricthrower/electricthrower.weaponability"
+"op":"add",
+"path":"/electricthrower",
+"value":"/items/active/weapons/ranged/abilities/electricthrower/electricthrower.weaponability"
 }]

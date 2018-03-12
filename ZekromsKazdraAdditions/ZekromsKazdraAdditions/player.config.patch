@@ -4,56 +4,56 @@
 //===================================================================================
 //Disposable
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "spawneggkazdra" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"spawneggkazdra"}
 },{
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "spawneggkazdramerchant" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"spawneggkazdramerchant"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "spawneggkazdraguard" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"spawneggkazdraguard"}
 },
 //Crafting
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "ancientdataextractor" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"ancientdataextractor"}
 },
 {
-"op" : "add",
-"path" : "/defaultBlueprints/tier1/-",
-"value" : { "item" : "kazextracteddata" }
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
+"value":{"item":"kazextracteddata"}
 },
 //===================================================================================
 //										Codex
 //===================================================================================
-{ 
-	"op" : "add",
-	"path" : "/defaultCodexes/kazdra/-",
-	"value" : "kazconstructs"
+{
+	"op":"add",
+	"path":"/defaultCodexes/kazdra/-",
+	"value":"kazconstructs"
 },
-{ 
-	"op" : "add",
-	"path" : "/defaultCodexes/kazdra/-",
-	"value" : "kazdraorigins"
+{
+	"op":"add",
+	"path":"/defaultCodexes/kazdra/-",
+	"value":"kazdraorigins"
 },
-{ 
-	"op" : "add",
-	"path" : "/defaultCodexes/kazdra/-",
-	"value" : "kazflight"
+{
+	"op":"add",
+	"path":"/defaultCodexes/kazdra/-",
+	"value":"kazflight"
 },
-{ 
-	"op" : "add",
-	"path" : "/defaultCodexes/kazdra/-",
-	"value" : "kazmetalwork"
+{
+	"op":"add",
+	"path":"/defaultCodexes/kazdra/-",
+	"value":"kazmetalwork"
 },
-{ 
-	"op" : "add",
-	"path" : "/defaultCodexes/kazdra/-",
-	"value" : "staloa"
+{
+	"op":"add",
+	"path":"/defaultCodexes/kazdra/-",
+	"value":"staloa"
 }
 ]

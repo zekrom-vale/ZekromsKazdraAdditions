@@ -1,35 +1,35 @@
 [{
-"op" : "add",
-"path" : "/dungeoncrawlerChestTreasure/0/1/pool/-",
-"value" : {"weight" : 0.012, "item" : "ancientkazdatacrystal"}
+"op":"add",
+"path":"/dungeoncrawlerChestTreasure/0/1/pool/-",
+"value":{"weight":0.012, "item":"ancientkazdatacrystal"}
 },
 {
-"op" : "add",
-"path" : "/evilfortressTreasure/0/1/pool/-",
-"value" : {"weight" : 0.025, "item" : "ancientkazdatacrystal"}
+"op":"add",
+"path":"/evilfortressTreasure/0/1/pool/-",
+"value":{"weight":0.025, "item":"ancientkazdatacrystal"}
 },
 {
-"op" : "add",
-"path" : "/glitchcastleChestTreasure/0/1/pool/-",
-"value" : {"weight" : 0.025, "item" : "ancientkazdatacrystal"}
+"op":"add",
+"path":"/glitchcastleChestTreasure/0/1/pool/-",
+"value":{"weight":0.025, "item":"ancientkazdatacrystal"}
 },
 {
-"op" : "add",
-"path" : "/glitchvillageChestTreasure/0/1/pool/-",
-"value" : {"weight" : 0.025, "item" : "ancientkazdatacrystal"}
+"op":"add",
+"path":"/glitchvillageChestTreasure/0/1/pool/-",
+"value":{"weight":0.025, "item":"ancientkazdatacrystal"}
 },
 {
-"op" : "add",
-"path" : "/humancampTreasure/0/1/pool/-",
-"value" : {"weight" : 0.015, "item" : "ancientkazdatacrystal"}
+"op":"add",
+"path":"/humancampTreasure/0/1/pool/-",
+"value":{"weight":0.015, "item":"ancientkazdatacrystal"}
 },
 {
-"op" : "add",
-"path" : "/naturalcaveChestTreasure/0/1/pool/-",
-"value" : {"weight" : 0.03, "item" : "ancientkazdatacrystal"}
+"op":"add",
+"path":"/naturalcaveChestTreasure/0/1/pool/-",
+"value":{"weight":0.03, "item":"ancientkazdatacrystal"}
 },
 {
-"op" : "add",
-"path" : "/OutpostUndersideChest/0/1/fill/-",
-"value" : {"weight" : 0.005, "item" : [ "ancientkazdatacrystal", 1] }
+"op":"add",
+"path":"/OutpostUndersideChest/0/1/fill/-",
+"value":{"weight":0.005, "item":["ancientkazdatacrystal", 1]}
 }]

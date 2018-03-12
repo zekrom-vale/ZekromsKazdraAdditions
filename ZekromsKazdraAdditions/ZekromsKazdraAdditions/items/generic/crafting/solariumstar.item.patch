@@ -1,5 +1,5 @@
 [{
-"op" : "add",
-"path" : "/learnBlueprintsOnPickup",
-"value" : [ "liquidquantonium", "quantonium" ]
+"op":"add",
+"path":"/learnBlueprintsOnPickup",
+"value":["liquidquantonium", "quantonium" ]
 }]

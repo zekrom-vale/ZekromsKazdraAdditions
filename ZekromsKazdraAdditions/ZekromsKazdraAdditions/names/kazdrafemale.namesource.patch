@@ -1,7 +1,7 @@
 [
 {
-"op" : "add",
-"path" : "/sourceNames/-",
-"value" : "KAIJU"
+"op":"add",
+"path":"/sourceNames/-",
+"value":"KAIJU"
 }
 ]

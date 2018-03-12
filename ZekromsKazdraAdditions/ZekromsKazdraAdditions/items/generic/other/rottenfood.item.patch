@@ -1,30 +1,30 @@
 [
 {
-"op" : "add",
-"path" : "/foodValue",
-"value" : 1
+"op":"add",
+"path":"/foodValue",
+"value":1
 },
 {
-"op" : "add",
-"path" : "/foodValue",
-"value" : 1
+"op":"add",
+"path":"/foodValue",
+"value":1
 },
 {
-"op" : "add",
-"path" : "/effects",
-"value" : [[
-      {
-        "effect" : "foodpoison",
-		"duration" : 20
-      },
-	  {
-        "effect" : "stun",
-		"duration" : 30
-      },
-	  {
-        "effect" : "weakpoison",
-		"duration" : 20
-      }
-    ]]
+"op":"add",
+"path":"/effects",
+"value":[[
+	 {
+		"effect":"foodpoison",
+		"duration":20
+	 },
+	 {
+		"effect":"stun",
+		"duration":30
+	 },
+	 {
+		"effect":"weakpoison",
+		"duration":20
+	 }
+	]]
 }
 ]

@@ -1,10 +1,10 @@
 [{
-"op" : "add",
-"path" : "/scriptConfig/showTech/-",
-"value" : "kazfly"
+"op":"add",
+"path":"/scriptConfig/showTech/-",
+"value":"kazfly"
 },
 {
-"op" : "add",
-"path" : "/scriptConfig/showTech/-",
-"value" : "kazfly2"
+"op":"add",
+"path":"/scriptConfig/showTech/-",
+"value":"kazfly2"
 }]
