@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "resonite", "count" : 1 }
+	{ "item" : "resonite", "count" : 1 }
   ],
   "output" : { "item" : "resonitethread", "count" : 4 },
   "groups" : [ "craftingwheel", "ingredients" ]

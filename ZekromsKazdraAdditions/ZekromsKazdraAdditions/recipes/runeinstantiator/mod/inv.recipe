@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "kazblackchalk", "count" : 176 }, { "item" : "kazwhitechalk", "count" : 88 }
+	{ "item" : "kazblackchalk", "count" : 176 }, { "item" : "kazwhitechalk", "count" : 88 }
   ],
   "output" : { "item" : "runemodinv", "count" : 1 },
   "duration" : 0,

@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "kazblackchalk", "count" : 76 }, { "item" : "kazwhitechalk", "count" : 40 }
+	{ "item" : "kazblackchalk", "count" : 76 }, { "item" : "kazwhitechalk", "count" : 40 }
   ],
   "output" : { "item" : "runete", "count" : 1 },
   "duration" : 0,

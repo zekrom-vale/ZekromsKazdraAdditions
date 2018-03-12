@@ -3,8 +3,8 @@
 	{ "item" : "liquidzoastone", "count" : 10 }
   ],
   "output" : {
-    "item" : "zoastone",
-    "count" : 1
+	"item" : "zoastone",
+	"count" : 1
   },
   "duration" : 0,
   "groups" : [ "crystalliquefier", "solid" ]

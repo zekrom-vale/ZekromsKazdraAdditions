@@ -3,8 +3,8 @@
 	{ "item" : "liquidhiron", "count" : 10 }
   ],
   "output" : {
-    "item" : "hiron",
-    "count" : 1
+	"item" : "hiron",
+	"count" : 1
   },
   "duration" : 0,
   "groups" : [ "crystalliquefier", "solid" ]

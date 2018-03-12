@@ -3,8 +3,8 @@
 	{ "item" : "liquidkazein", "count" : 10 }
   ],
   "output" : {
-    "item" : "kazein",
-    "count" : 1
+	"item" : "kazein",
+	"count" : 1
   },
   "duration" : 0,
   "groups" : [ "crystalliquefier", "solid" ]

@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "kazblackchalk", "count" : 112 }, { "item" : "kazwhitechalk", "count" : 144 }
+	{ "item" : "kazblackchalk", "count" : 112 }, { "item" : "kazwhitechalk", "count" : 144 }
   ],
   "output" : { "item" : "runepunctuationfullstop", "count" : 1 },
   "duration" : 0,

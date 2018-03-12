@@ -10,8 +10,8 @@
 	{ "item" : "rottenfood", "count" : 10 }
   ],
   "output" : {
-    "item" : "liquidquantonium",
-    "count" : 1
+	"item" : "liquidquantonium",
+	"count" : 1
   },
   "duration" : 5,
   "groups" : [ "crystalliquefier", "mix" ]

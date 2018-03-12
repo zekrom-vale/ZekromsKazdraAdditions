@@ -4,8 +4,8 @@
 	{ "item" : "liquidlava", "count" : 5 }
   ],
   "output" : {
-    "item" : "liquidresonite",
-    "count" : 10
+	"item" : "liquidresonite",
+	"count" : 10
   },
   "duration" : 0,
   "groups" : [ "crystalliquefier", "liquids" ]

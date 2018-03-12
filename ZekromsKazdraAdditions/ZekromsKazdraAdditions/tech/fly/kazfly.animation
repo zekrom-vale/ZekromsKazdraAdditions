@@ -1,7 +1,7 @@
 {
   "sounds" : {
-    "charge" : [ "/sfx/tech/tech_rocketjump_charge2.ogg" ],
-    "chargeLoop" : [ ],
+	"charge" : [ "/sfx/tech/tech_rocketjump_charge2.ogg" ],
+	"chargeLoop" : [ ],
 	"boost" : [ "/sfx/tech/tech_rocketjump_release.ogg" ]
   }
 }
