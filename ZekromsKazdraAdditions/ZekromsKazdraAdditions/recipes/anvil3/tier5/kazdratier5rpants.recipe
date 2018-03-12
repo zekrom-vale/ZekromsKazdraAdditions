@@ -1,11 +1,11 @@
 {
-  "input" : [
-	{ "item" : "refinedferozium", "count" : 1 },
-	{ "item" : "refinedviolium", "count" : 1 },
-	{ "item" : "refinedaegisalt", "count" : 1 },
-	{ "item" : "resonite", "count" : 140 },
-	{ "item" : "hiron", "count" : 100 }
+  "input":[
+	{"item":"refinedferozium", "count":1},
+	{"item":"refinedviolium", "count":1},
+	{"item":"refinedaegisalt", "count":1},
+	{"item":"resonite", "count":140},
+	{"item":"hiron", "count":100}
   ],
-  "output" : { "item" : "kazdratier5rpants", "count" : 1 },
-  "groups" : [ "craftinganvil3", "armours", "all" ]
+  "output":{"item":"kazdratier5rpants", "count":1},
+  "groups":["craftinganvil3", "armours", "all" ]
 }

@@ -1,11 +1,11 @@
 {
-  "input" : [
-	{ "item" : "liquidzoastone", "count" : 10 }
+  "input":[
+	{"item":"liquidzoastone", "count":10}
   ],
-  "output" : {
-	"item" : "zoastone",
-	"count" : 1
-  },
-  "duration" : 0,
-  "groups" : [ "crystalliquefier", "solid" ]
+  "output":{
+	"item":"zoastone",
+	"count":1
+ },
+  "duration":0,
+  "groups":["crystalliquefier", "solid" ]
 }

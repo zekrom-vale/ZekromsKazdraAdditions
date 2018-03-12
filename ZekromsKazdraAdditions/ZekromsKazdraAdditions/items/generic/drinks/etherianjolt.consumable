@@ -1,43 +1,43 @@
 {
-  "itemName" : "etherianjolt",
-  "rarity" : "Uncommon",
-  "price" : 500,
-  "category" : "drink",
-  "inventoryIcon" : "etherianjolt.png",
-  "description" : "A drink made from a dare. Do you have the stomach?",
-  "shortdescription" : "Etherian Jolt",
-  "handPosition" : [-1, 3],
-  "armFrameOverride" : "run.3",
-  "effects" : [ [
-	  {
-		"effect" : "regeneration1",
-		"duration" : 30
-	  },
-	  {
-		"effect" : "levitation",
-		"duration" : 30
-	  },
-	  {
-		"effect" : "overload",
-		"duration" : 10
-	  },
-	  {
-		"effect" : "ghostlyglow",
-		"duration" : 30
-	  },
-	  {
-		"effect" : "foodpoison",
-		"duration" : 5
-	  },
-	  {
-		"effect" : "jumpboost",
-		"duration" : 30
-	  },
-	  {
-		"effect" : "nofalldamage",
-		"duration" : 45
-	  }
+  "itemName":"etherianjolt",
+  "rarity":"Uncommon",
+  "price":500,
+  "category":"drink",
+  "inventoryIcon":"etherianjolt.png",
+  "description":"A drink made from a dare. Do you have the stomach?",
+  "shortdescription":"Etherian Jolt",
+  "handPosition":[-1, 3],
+  "armFrameOverride":"run.3",
+  "effects":[[
+	 {
+		"effect":"regeneration1",
+		"duration":30
+	 },
+	 {
+		"effect":"levitation",
+		"duration":30
+	 },
+	 {
+		"effect":"overload",
+		"duration":10
+	 },
+	 {
+		"effect":"ghostlyglow",
+		"duration":30
+	 },
+	 {
+		"effect":"foodpoison",
+		"duration":5
+	 },
+	 {
+		"effect":"jumpboost",
+		"duration":30
+	 },
+	 {
+		"effect":"nofalldamage",
+		"duration":45
+	 }
 	] ],
-  //"emote" : "",
-  "emitters" : [ "drinking" ]
+  //"emote":"",
+  "emitters":["drinking" ]
 }

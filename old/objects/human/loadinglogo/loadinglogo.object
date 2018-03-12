@@ -1,28 +1,28 @@
 {
-  "objectName" : "loadinglogo",
-  "colonyTags" : ["human"],
-  "rarity" : "Uncommon",
-  "category" : "furniture",
-  "description" : "A weird levitating thing...",
-  "shortdescription" : "Starbound Experiment",
-  "race" : "human",
-  "printable" : false,
+  "objectName":"loadinglogo",
+  "colonyTags":["human"],
+  "rarity":"Uncommon",
+  "category":"furniture",
+  "description":"A weird levitating thing...",
+  "shortdescription":"Starbound Experiment",
+  "race":"human",
+  "printable":false,
   
-  "apexDescription" : "...",
-  "avianDescription" : "...",
-  "floranDescription" : "...",
-  "glitchDescription" : "...",
-  "humanDescription" : "...",
-  "hylotlDescription" : "...",
-  "novakidDescription" : "...",
+  "apexDescription":"...",
+  "avianDescription":"...",
+  "floranDescription":"...",
+  "glitchDescription":"...",
+  "humanDescription":"...",
+  "hylotlDescription":"...",
+  "novakidDescription":"...",
 
-  "inventoryIcon" : "icon.png",
-  "orientations" : [
+  "inventoryIcon":"icon.png",
+  "orientations":[
 	{
-	  "dualImage" : "loadinglogo.png:<color>.<frame>",
-	  "frames" : 30,
-	  "animationCycle" : 3.2,
-	  "anchors" : [ "bottom" ]
+	  "dualImage":"loadinglogo.png:<color>.<frame>",
+	  "frames":30,
+	  "animationCycle":3.2,
+	  "anchors":["bottom" ]
 	}
   ]
 }

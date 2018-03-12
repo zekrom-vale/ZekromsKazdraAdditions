@@ -1,18 +1,18 @@
 {
-  "itemName" : "kahla2",
-  "rarity" : "Common",
-  "price" : 60,
-  "category" : "drink",
-  "inventoryIcon" : "kahla2.png",
-  "description" : "!May be depreciated! A kazdran drink made from a fruit that tastes remarkably like root-beer. It'll put some pep in your step!",
-  "shortdescription" : "Kahla Small !DEP?!",
-  "handPosition" : [-1, 3],
-  "armFrameOverride" : "run.3",
-  "effects" : [ [
-	  {
-		"effect" : "regeneration1",
-		"duration" : 10
-	  }
+  "itemName":"kahla2",
+  "rarity":"Common",
+  "price":60,
+  "category":"drink",
+  "inventoryIcon":"kahla2.png",
+  "description":"!May be depreciated! A kazdran drink made from a fruit that tastes remarkably like root-beer. It'll put some pep in your step!",
+  "shortdescription":"Kahla Small !DEP?!",
+  "handPosition":[-1, 3],
+  "armFrameOverride":"run.3",
+  "effects":[[
+	 {
+		"effect":"regeneration1",
+		"duration":10
+	 }
 	] ],
-  "emitters" : [ "drinking" ]
+  "emitters":["drinking" ]
 }

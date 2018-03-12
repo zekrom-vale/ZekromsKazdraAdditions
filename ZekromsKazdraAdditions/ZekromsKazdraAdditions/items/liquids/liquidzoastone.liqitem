@@ -1,13 +1,13 @@
 {
-  "itemName" : "liquidzoastone",
-  "rarity" : "Uncommon",
-  "category" : "liquid",
-  "inventoryIcon" : "liquidzoastoneicon.png",
-  "shortdescription" : "Liquid Zoastone",
-  "description" : "This liquid dampens the sound of any noise in the area.",
+  "itemName":"liquidzoastone",
+  "rarity":"Uncommon",
+  "category":"liquid",
+  "inventoryIcon":"liquidzoastoneicon.png",
+  "shortdescription":"Liquid Zoastone",
+  "description":"This liquid dampens the sound of any noise in the area.",
 
-  "liquid" : "liquidzoastone",
+  "liquid":"liquidzoastone",
   
-  "fuelAmount" : 10,
-  "price" : 7
+  "fuelAmount":10,
+  "price":7
 }

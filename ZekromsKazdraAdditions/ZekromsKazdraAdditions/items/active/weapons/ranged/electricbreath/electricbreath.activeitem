@@ -1,42 +1,42 @@
 {
-  "itemName" : "electricbreath",
-  "level" : 1,
-  "price" : 0,
-  "maxStack" : 1,
-  "rarity" : "Common",
-  "description" : "Electric dragon breath!",
-  "shortdescription" : "Electric Breath!",
-  "tooltipKind" : "gun",
-  "category" : "uniqueWeapon",
-  "itemTags" : ["weapon","ranged"],
+  "itemName":"electricbreath",
+  "level":1,
+  "price":0,
+  "maxStack":1,
+  "rarity":"Common",
+  "description":"Electric dragon breath!",
+  "shortdescription":"Electric Breath!",
+  "tooltipKind":"gun",
+  "category":"uniqueWeapon",
+  "itemTags":["weapon","ranged"],
 
-  "inventoryIcon" : "electricbreath.png",
-  "animation" : "/items/active/weapons/ranged/gun.animation",
-  "animationParts" : {
-	"butt" : "",
-	"middle" : "",
-	"barrel" : "",
-	"muzzleFlash" : ""
-  },
-  "animationCustom" : {
-	"sounds" : {
-	  "fireStart" : [ "/sfx/gun/flamethrower_start.ogg" ],
-	  "fireLoop" : [ "/sfx/gun/flamethrower_loop.ogg" ],
-	  "fireEnd" : [ "/sfx/gun/flamethrower_stop.ogg" ]
+  "inventoryIcon":"electricbreath.png",
+  "animation":"/items/active/weapons/ranged/gun.animation",
+  "animationParts":{
+	"butt":"",
+	"middle":"",
+	"barrel":"",
+	"muzzleFlash":""
+ },
+  "animationCustom":{
+	"sounds":{
+	  "fireStart":["/sfx/gun/flamethrower_start.ogg" ],
+	  "fireLoop":["/sfx/gun/flamethrower_loop.ogg" ],
+	  "fireEnd":["/sfx/gun/flamethrower_stop.ogg" ]
 	}
-  },
-  "baseOffset" : [0.2, 1],
-  "muzzleOffset" : [0, 0],
+ },
+  "baseOffset":[0.2, 1],
+  "muzzleOffset":[0, 0],
 
-  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+  "scripts":["/items/active/weapons/ranged/gun.lua"],
 
-  "elementalType" : "electric",
+  "elementalType":"electric",
 
-  "primaryAbilityType" : "electricthrower",
-  "primaryAbility" : {
-	"baseDps" : 4,
-	"energyUsage" : 8
-  },
+  "primaryAbilityType":"electricthrower",
+  "primaryAbility":{
+	"baseDps":4,
+	"energyUsage":8
+ },
 
-  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+  "builder":"/items/buildscripts/buildunrandweapon.lua"
 }

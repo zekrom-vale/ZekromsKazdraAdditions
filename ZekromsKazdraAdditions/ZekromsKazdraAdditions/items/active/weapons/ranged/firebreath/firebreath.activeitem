@@ -1,71 +1,71 @@
 {
-  "itemName" : "firebreath",
-  "level" : 1,
-  "price" : 0,
-  "maxStack" : 1,
-  "rarity" : "Common",
-  "description" : "Fire dragon breath!",
-  "shortdescription" : "Fire Breath!",
-  "tooltipKind" : "gun",
-  "category" : "uniqueWeapon",
-  "itemTags" : ["weapon","ranged"],
+  "itemName":"firebreath",
+  "level":1,
+  "price":0,
+  "maxStack":1,
+  "rarity":"Common",
+  "description":"Fire dragon breath!",
+  "shortdescription":"Fire Breath!",
+  "tooltipKind":"gun",
+  "category":"uniqueWeapon",
+  "itemTags":["weapon","ranged"],
 
-  "inventoryIcon" : "firebreath.png",
+  "inventoryIcon":"firebreath.png",
 //Thanks to Iaeyan Elyuex for the idea to use the flamethrower for this!
-  "animation" : "/items/active/weapons/ranged/gun.animation",
-  "animationParts" : {
-	"butt" : "",
-	"middle" : "",
-	"barrel" : "",
-	"muzzleFlash" : ""
-  },
-  "animationCustom" : {
-	"sounds" : {
-	  "fireStart" : [ "/sfx/gun/flamethrower_start.ogg" ],
-	  "fireLoop" : [ "/sfx/gun/flamethrower_loop.ogg" ],
-	  "fireEnd" : [ "/sfx/gun/flamethrower_stop.ogg" ]
+  "animation":"/items/active/weapons/ranged/gun.animation",
+  "animationParts":{
+	"butt":"",
+	"middle":"",
+	"barrel":"",
+	"muzzleFlash":""
+ },
+  "animationCustom":{
+	"sounds":{
+	  "fireStart":["/sfx/gun/flamethrower_start.ogg" ],
+	  "fireLoop":["/sfx/gun/flamethrower_loop.ogg" ],
+	  "fireEnd":["/sfx/gun/flamethrower_stop.ogg" ]
 	}
-  },
-  "baseOffset" : [0.2, 1],
-  "muzzleOffset" : [0, 0],
+ },
+  "baseOffset":[0.2, 1],
+  "muzzleOffset":[0, 0],
 
-  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+  "scripts":["/items/active/weapons/ranged/gun.lua"],
 
-  "elementalType" : "fire",
+  "elementalType":"fire",
 
-  "primaryAbilityType" : "flamethrower",
-  "primaryAbility" : {
-	"baseDps" : 1.5,
-	"energyUsage" : 8,
-	"stances" : {
-	  "idle" : {
-		"armRotation" : 0,
-		"weaponRotation" : 1,
-		"twoHanded" : false,
+  "primaryAbilityType":"flamethrower",
+  "primaryAbility":{
+	"baseDps":1.5,
+	"energyUsage":8,
+	"stances":{
+	  "idle":{
+		"armRotation":0,
+		"weaponRotation":1,
+		"twoHanded":false,
 
-		"allowRotate" : true,
-		"allowFlip" : true
-	  },
-	  "fire" : {
-		"duration" : 0,
-		"armRotation" : 0,
-		"weaponRotation" : 1,
-		"twoHanded" : false,
+		"allowRotate":true,
+		"allowFlip":true
+	 },
+	  "fire":{
+		"duration":0,
+		"armRotation":0,
+		"weaponRotation":1,
+		"twoHanded":false,
 
-		"allowRotate" : false,
-		"allowFlip" : true
-	  },
-	  "cooldown" : {
-		"duration" : 0.05,
-		"armRotation" : 0,
-		"weaponRotation" : 0,
-		"twoHanded" : false,
+		"allowRotate":false,
+		"allowFlip":true
+	 },
+	  "cooldown":{
+		"duration":0.05,
+		"armRotation":0,
+		"weaponRotation":0,
+		"twoHanded":false,
 
-		"allowRotate" : false,
-		"allowFlip" : true
-	  }
+		"allowRotate":false,
+		"allowFlip":true
+	 }
 	}
-  },
+ },
 
-  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+  "builder":"/items/buildscripts/buildunrandweapon.lua"
 }

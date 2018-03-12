@@ -1,89 +1,89 @@
 {
-  "itemName" : "dragonchakram",
-  "price" : 3000,
-  "maxStack" : 1,
-  "rarity" : "Legendary",
-  "category" : "chakram",
-  "description" : "Solid, heavy, and brutally effective.",
-  "shortdescription" : "Dragon Chakram",
-  "tooltipKind" : "base",
-  "twoHanded" : false,
-  "itemTags" : ["weapon","upgradeableWeapon"],
+  "itemName":"dragonchakram",
+  "price":3000,
+  "maxStack":1,
+  "rarity":"Legendary",
+  "category":"chakram",
+  "description":"Solid, heavy, and brutally effective.",
+  "shortdescription":"Dragon Chakram",
+  "tooltipKind":"base",
+  "twoHanded":false,
+  "itemTags":["weapon","upgradeableWeapon"],
 
-  "inventoryIcon" : "dragonchakram.png",
-  "animation" : "chakram.animation",
-  "animationParts" : {
-	"chakram" : "dragonchakram.png"
-  },
-  "animationCustom" : {
-	"sounds" : {
-	  "throw" : [ "/sfx/melee/swing_broadsword.ogg" ]
+  "inventoryIcon":"dragonchakram.png",
+  "animation":"chakram.animation",
+  "animationParts":{
+	"chakram":"dragonchakram.png"
+ },
+  "animationCustom":{
+	"sounds":{
+	  "throw":["/sfx/melee/swing_broadsword.ogg" ]
 	}
-  },
-  "scripts" : ["/items/active/weapons/boomerang/boomerang.lua"],
-  "fireOffset" : [1.25, 0.5],
+ },
+  "scripts":["/items/active/weapons/boomerang/boomerang.lua"],
+  "fireOffset":[1.25, 0.5],
 
-  "cooldownTime" : 0.6,
+  "cooldownTime":0.6,
 
-  "projectileType" : "hardchakram",
-  "projectileParameters" : {
-	"knockback" : 12,
-	"power" : 7.0,
-	"damageRepeatTimeout" : 0.5,
+  "projectileType":"hardchakram",
+  "projectileParameters":{
+	"knockback":12,
+	"power":7.0,
+	"damageRepeatTimeout":0.5,
 
-	"returnOnHit" : false,
-	"pickupDistance" : 1.1,
+	"returnOnHit":false,
+	"pickupDistance":1.1,
 
-	"maxDistance" : 6
-  },
-  "level" : 5,
+	"maxDistance":6
+ },
+  "level":5,
 
-  "stances" : {
-	"idle" : {
-	  "armRotation" : -20,
-	  "animationState" : {
-		"weapon" : "visible"
-	  },
-	  "allowRotate" : true,
-	  "allowFlip" : true
+  "stances":{
+	"idle":{
+	  "armRotation":-20,
+	  "animationState":{
+		"weapon":"visible"
+	 },
+	  "allowRotate":true,
+	  "allowFlip":true
 	},
-	"windup" : {
-	  "duration" : 0.1,
-	  "transition" : "throw",
-	  "transitionFunction" : "fire",
-	  "armRotation" : 70,
-	  "animationState" : {
-		"weapon" : "visible"
-	  },
-	  "allowRotate" : false,
-	  "allowFlip" : false
+	"windup":{
+	  "duration":0.1,
+	  "transition":"throw",
+	  "transitionFunction":"fire",
+	  "armRotation":70,
+	  "animationState":{
+		"weapon":"visible"
+	 },
+	  "allowRotate":false,
+	  "allowFlip":false
 	},
-	"throw" : {
-	  "armRotation" : 0,
-	  "animationState" : {
-		"weapon" : "hidden"
-	  },
-	  "allowRotate" : true,
-	  "allowFlip" : true
+	"throw":{
+	  "armRotation":0,
+	  "animationState":{
+		"weapon":"hidden"
+	 },
+	  "allowRotate":true,
+	  "allowFlip":true
 	},
-	"catch" : {
-	  "duration" : 0.2,
-	  "transition" : "idle",
-	  "armRotation" : 60,
-	  "animationState" : {
-		"weapon" : "visible"
-	  },
-	  "allowRotate" : false,
-	  "allowFlip" : true
+	"catch":{
+	  "duration":0.2,
+	  "transition":"idle",
+	  "armRotation":60,
+	  "animationState":{
+		"weapon":"visible"
+	 },
+	  "allowRotate":false,
+	  "allowFlip":true
 	}
-  },
+ },
 
-  "upgradeParameters" : {
-	"inventoryIcon" : "dragonchakram_l6.png",
-	"projectileType" : "dragonchakram_l6",
-	"animationParts" : {
-	  "chakram" : "dragonchakram_l6.png"
+  "upgradeParameters":{
+	"inventoryIcon":"dragonchakram_l6.png",
+	"projectileType":"dragonchakram_l6",
+	"animationParts":{
+	  "chakram":"dragonchakram_l6.png"
 	},
-	"shortdescription" : "Dragon Chakram ^yellow;^reset;"
-  }
+	"shortdescription":"Dragon Chakram ^yellow;^reset;"
+ }
 }

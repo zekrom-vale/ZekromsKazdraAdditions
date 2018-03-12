@@ -1,9 +1,9 @@
 {
-  "itemName" : "ancientkazdatacrystal",
-  "rarity" : "Uncommon",
-  "price" : 900,
-  "category" : "misc",
-  "inventoryIcon" : "ancientkazdatacrystal.png",
-  "description" : "This crystal stores data, I wonder what is on it.",
-  "shortdescription" : "Ancient Data Crystal"
+  "itemName":"ancientkazdatacrystal",
+  "rarity":"Uncommon",
+  "price":900,
+  "category":"misc",
+  "inventoryIcon":"ancientkazdatacrystal.png",
+  "description":"This crystal stores data, I wonder what is on it.",
+  "shortdescription":"Ancient Data Crystal"
 }

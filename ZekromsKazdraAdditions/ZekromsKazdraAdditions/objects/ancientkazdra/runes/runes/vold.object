@@ -1,22 +1,22 @@
 {
-  "objectName" : "runevold",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra rune denoting liquid.",
-  "shortdescription" : "Vold Rune",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 10,
+  "objectName":"runevold",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra rune denoting liquid.",
+  "shortdescription":"Vold Rune",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":10,
   
-  "defaultDescription" : "A kazdra rune denoting liquid.",
+  "defaultDescription":"A kazdra rune denoting liquid.",
 
-  "inventoryIcon" : "vold.png",
-  "orientations" : [
+  "inventoryIcon":"vold.png",
+  "orientations":[
 	{
-	  "dualImage" : "vold.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"vold.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	}
   ]
 }

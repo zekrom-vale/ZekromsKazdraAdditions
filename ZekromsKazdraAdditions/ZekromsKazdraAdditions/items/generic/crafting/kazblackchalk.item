@@ -1,10 +1,10 @@
 {
-  "itemName" : "kazblackchalk",
-  "rarity" : "Common",
-  "price" : 0,
-  "category" : "craftingMaterial",
-  "inventoryIcon" : "kazblackchalk.png",
-  "description" : "A white chalk used for writing runes.",
-  "shortdescription" : "Black Chalk",
-  "maxStack" : 99999
+  "itemName":"kazblackchalk",
+  "rarity":"Common",
+  "price":0,
+  "category":"craftingMaterial",
+  "inventoryIcon":"kazblackchalk.png",
+  "description":"A white chalk used for writing runes.",
+  "shortdescription":"Black Chalk",
+  "maxStack":99999
 }

@@ -1,18 +1,18 @@
 {
-  "id" : "kazmetalwork",
-  "species" : "kazdra",
-  "title" : "Kazdra Metal Work",
-  "description" : "Gilifar's explanation of kazdra metal work.",
-  "icon" : "kazdracodexfront.png",
-  "contentPages" : [
+  "id":"kazmetalwork",
+  "species":"kazdra",
+  "title":"Kazdra Metal Work",
+  "description":"Gilifar's explanation of kazdra metal work.",
+  "icon":"kazdracodexfront.png",
+  "contentPages":[
 	"As the value of metals is so high in our culture, it goes to follow that the skill to work with it and to do so with perfect precision is highly valued among our people. So much so, in fact, that smithing could almost be considered a religion, and practitioners are well respected in the community. Three grand complexes have been built and dedicated to the craft. the first two, the Craft Towers, rise far above the surface, and the third, the DreamDark, is located at the lowest levels of our cavern network. These buildings serve as places of teaching for would-be smiths, among other things. Each has it's own specialty.",
 	"The only way to become a smith, at least one that's worth a shard, is to become an apprentice to one of the masters in one of the towers. Assuming that a smith is looking for apprentices, in order to become a smith's apprentice there are three test you must take general craft, Gemcraft, and metalcraft. If you can pass these in the eyes of the master, then you have a shot at becoming a smith. The test of metalcraft is what makes it a real challenge for those that have the potential though as you must aquire all the metal yourself one way or another.",
 	"Most metal in use in our society has probably been in the claws of one of the master smiths at one point or another. Ore is brought from the mine levels to refineries, from refinery to storehouses, from storehouse to where ever the council deem necessary which tends to be to one of the towers.",
 	"-Gilifar D. <Data corrupted>"
 	//Data from https://community.playstarbound.com/resources/the-kazdra.1991
   ],
-	"itemConfig" : {
-	"rarity" : "common",
-	"price" : 25
-  }
+	"itemConfig":{
+	"rarity":"common",
+	"price":25
+ }
 }

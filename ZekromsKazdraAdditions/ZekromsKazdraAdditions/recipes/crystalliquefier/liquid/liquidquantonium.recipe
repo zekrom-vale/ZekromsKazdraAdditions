@@ -1,12 +1,12 @@
 {
-  "input" : [
-	{ "item" : "quantonium", "count" : 1 },
-	{ "item" : "liquidlava", "count" : 20 }
+  "input":[
+	{"item":"quantonium", "count":1},
+	{"item":"liquidlava", "count":20}
   ],
-  "output" : {
-	"item" : "liquidquantonium",
-	"count" : 10
-  },
-  "duration" : 3,
-  "groups" : [ "crystalliquefier", "liquids" ]
+  "output":{
+	"item":"liquidquantonium",
+	"count":10
+ },
+  "duration":3,
+  "groups":["crystalliquefier", "liquids" ]
 }

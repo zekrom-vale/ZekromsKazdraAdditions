@@ -1,22 +1,22 @@
 {
-  "objectName" : "runepunctuationbottomquote",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra punctuation rune.",
-  "shortdescription" : "Bottom Quote Punctuation Rune",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 10,
+  "objectName":"runepunctuationbottomquote",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra punctuation rune.",
+  "shortdescription":"Bottom Quote Punctuation Rune",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":10,
   
-  "defaultDescription" : "A kazdra punctuation rune.",
+  "defaultDescription":"A kazdra punctuation rune.",
 
-  "inventoryIcon" : "bottomquote.png",
-  "orientations" : [
+  "inventoryIcon":"bottomquote.png",
+  "orientations":[
 	{
-	  "dualImage" : "bottomquote.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"bottomquote.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	}
   ]
 }

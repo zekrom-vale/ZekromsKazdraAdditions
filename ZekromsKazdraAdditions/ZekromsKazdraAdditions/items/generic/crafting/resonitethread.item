@@ -1,9 +1,9 @@
 {
-  "itemName" : "resonitethread",
-  "rarity" : "Common",
-  "price" : 18,
-  "category" : "craftingMaterial",
-  "inventoryIcon" : "resonitethread.png",
-  "description" : "Resonite crystal formed in to a long and flexible strand",
-  "shortdescription" : "Resonite Thread"
+  "itemName":"resonitethread",
+  "rarity":"Common",
+  "price":18,
+  "category":"craftingMaterial",
+  "inventoryIcon":"resonitethread.png",
+  "description":"Resonite crystal formed in to a long and flexible strand",
+  "shortdescription":"Resonite Thread"
 }

@@ -1,13 +1,13 @@
 {
-  "itemName" : "liquidagirezon",
-  "rarity" : "Uncommon",
-  "category" : "liquid",
-  "inventoryIcon" : "liquidagirezonicon.png",
-  "shortdescription" : "Liquid Agirezon",
-  "description" : "A liquefied crystal alloy of zoastone and resonite crystals.",
+  "itemName":"liquidagirezon",
+  "rarity":"Uncommon",
+  "category":"liquid",
+  "inventoryIcon":"liquidagirezonicon.png",
+  "shortdescription":"Liquid Agirezon",
+  "description":"A liquefied crystal alloy of zoastone and resonite crystals.",
 
-  "liquid" : "liquidagirezon",
+  "liquid":"liquidagirezon",
   
-  "fuelAmount" : 10,
-  "price" : 7
+  "fuelAmount":10,
+  "price":7
 }

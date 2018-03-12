@@ -1,14 +1,14 @@
 {
-  "input" : [
-	{ "item" : "zoastone", "count" : 300 },
-	{ "item" : "zoastone", "count" : 1000 },
-	{ "item" : "liquidquantonium", "count" : 50 },
-	{ "item" : "resonite", "count" : 50 },
-	{ "item" : "liquidresonite", "count" : 500 },
-	{ "item" : "crystalpanel", "count" : 50 },
-	{ "item" : "battery", "count" : 3 },
-	{ "item" : "teleportercore", "count" : 1 }
+  "input":[
+	{"item":"zoastone", "count":300},
+	{"item":"zoastone", "count":1000},
+	{"item":"liquidquantonium", "count":50},
+	{"item":"resonite", "count":50},
+	{"item":"liquidresonite", "count":500},
+	{"item":"crystalpanel", "count":50},
+	{"item":"battery", "count":3},
+	{"item":"teleportercore", "count":1}
   ],
-  "output" : { "item" : "zekromhead", "count" : 1 },
-  "groups" : [ "craftinganvil3", "armours", "all" ]
+  "output":{"item":"zekromhead", "count":1},
+  "groups":["craftinganvil3", "armours", "all" ]
 }

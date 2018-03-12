@@ -1,22 +1,22 @@
 {
-  "objectName" : "kazpillar1",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "Time is the gate to life, science, and void.",
-  "shortdescription" : "Kazdra Pillar Time",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 400,
+  "objectName":"kazpillar1",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"Time is the gate to life, science, and void.",
+  "shortdescription":"Kazdra Pillar Time",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":400,
   
-  "defaultDescription" : "It says, 'Time is the gate to life, science, and void.'",
+  "defaultDescription":"It says, 'Time is the gate to life, science, and void.'",
 
-  "inventoryIcon" : "kazpillar1.png",
-  "orientations" : [
+  "inventoryIcon":"kazpillar1.png",
+  "orientations":[
 	{
-	  "dualImage" : "kazpillar1.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "bottom" ]
+	  "dualImage":"kazpillar1.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["bottom" ]
 	}
   ]
 }

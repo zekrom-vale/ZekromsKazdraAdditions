@@ -1,12 +1,12 @@
 {
-  "input" : [
-	{ "item" : "hiron", "count" : 1 },
-	{ "item" : "liquidlava", "count" : 4 }
+  "input":[
+	{"item":"hiron", "count":1},
+	{"item":"liquidlava", "count":4}
   ],
-  "output" : {
-	"item" : "liquidhiron",
-	"count" : 10
-  },
-  "duration" : 0,
-  "groups" : [ "crystalliquefier", "liquids" ]
+  "output":{
+	"item":"liquidhiron",
+	"count":10
+ },
+  "duration":0,
+  "groups":["crystalliquefier", "liquids" ]
 }

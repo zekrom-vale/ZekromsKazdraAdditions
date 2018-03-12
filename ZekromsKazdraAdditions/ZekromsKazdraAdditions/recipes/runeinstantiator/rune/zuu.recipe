@@ -1,8 +1,8 @@
 {
-  "input" : [
-	{ "item" : "kazblackchalk", "count" : 85 }
+  "input":[
+	{"item":"kazblackchalk", "count":85}
   ],
-  "output" : { "item" : "runezuu", "count" : 1 },
-  "duration" : 0,
-  "groups" : [ "runeinstantiator", "rune" ]
+  "output":{"item":"runezuu", "count":1},
+  "duration":0,
+  "groups":["runeinstantiator", "rune" ]
 }

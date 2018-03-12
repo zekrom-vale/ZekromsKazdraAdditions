@@ -1,22 +1,22 @@
 {
-  "objectName" : "runekah",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra rune denoting life.",
-  "shortdescription" : "Kah Rune",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 10,
+  "objectName":"runekah",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra rune denoting life.",
+  "shortdescription":"Kah Rune",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":10,
   
-  "defaultDescription" : "A kazdra rune denoting life.",
+  "defaultDescription":"A kazdra rune denoting life.",
 
-  "inventoryIcon" : "kah.png",
-  "orientations" : [
+  "inventoryIcon":"kah.png",
+  "orientations":[
 	{
-	  "dualImage" : "kah.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"kah.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	}
   ]
 }

@@ -1,22 +1,22 @@
 {
-  "objectName" : "kazpillar2",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "Kazdra are naturally armored and protected from heat.",
-  "shortdescription" : "Kazdra Pillar Natural",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 400,
+  "objectName":"kazpillar2",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"Kazdra are naturally armored and protected from heat.",
+  "shortdescription":"Kazdra Pillar Natural",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":400,
   
-  "defaultDescription" : "It says, 'Kazdra are naturally armored and protected from heat.'",
+  "defaultDescription":"It says, 'Kazdra are naturally armored and protected from heat.'",
 
-  "inventoryIcon" : "kazpillar2.png",
-  "orientations" : [
+  "inventoryIcon":"kazpillar2.png",
+  "orientations":[
 	{
-	  "dualImage" : "kazpillar2.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "bottom" ]
+	  "dualImage":"kazpillar2.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["bottom" ]
 	}
   ]
 }

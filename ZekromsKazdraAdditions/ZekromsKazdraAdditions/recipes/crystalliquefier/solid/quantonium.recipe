@@ -1,11 +1,11 @@
 {
-  "input" : [
-	{ "item" : "liquidquantonium", "count" : 10 }
+  "input":[
+	{"item":"liquidquantonium", "count":10}
   ],
-  "output" : {
-	"item" : "quantonium",
-	"count" : 1
-  },
-  "duration" : 5,
-  "groups" : [ "crystalliquefier", "solid" ]
+  "output":{
+	"item":"quantonium",
+	"count":1
+ },
+  "duration":5,
+  "groups":["crystalliquefier", "solid" ]
 }

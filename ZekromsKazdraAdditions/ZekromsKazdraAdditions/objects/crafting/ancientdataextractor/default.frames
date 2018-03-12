@@ -1,24 +1,24 @@
 {
-  "frameGrid" : {
-	"size" : [16, 24],
-	"dimensions" : [8, 1],
-	"names" : [
-	  [ "default.1", "default.2", "default.3", "default.4", "default.5", "default.6", "default.7", "waiting" ]
+  "frameGrid":{
+	"size":[16, 24],
+	"dimensions":[8, 1],
+	"names":[
+	 ["default.1", "default.2", "default.3", "default.4", "default.5", "default.6", "default.7", "waiting" ]
 	]
-  },
+ },
 
-  "aliases" : {
-	"default.default" : "default.6",
-	"default.7" : "default.6",
-	"default.8" : "default.6",
-	"default.9" : "default.5",
-	"default.10" : "default.4",
-	"default.11" : "default.3",
-	"default.12" : "default.2",
-	"default.13" : "default.1",
-	"default.14" : "waiting",
-	"default.15" : "waiting",
-	"default.16" : "waiting",
-	"default.0" : "waiting"
-  }
+  "aliases":{
+	"default.default":"default.6",
+	"default.7":"default.6",
+	"default.8":"default.6",
+	"default.9":"default.5",
+	"default.10":"default.4",
+	"default.11":"default.3",
+	"default.12":"default.2",
+	"default.13":"default.1",
+	"default.14":"waiting",
+	"default.15":"waiting",
+	"default.16":"waiting",
+	"default.0":"waiting"
+ }
 }

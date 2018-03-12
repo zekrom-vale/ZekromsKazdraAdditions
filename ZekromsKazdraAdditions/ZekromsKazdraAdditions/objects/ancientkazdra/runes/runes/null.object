@@ -1,22 +1,22 @@
 {
-  "objectName" : "runenull",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra rune denoting nothing.",
-  "shortdescription" : "Null Rune",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 10,
+  "objectName":"runenull",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra rune denoting nothing.",
+  "shortdescription":"Null Rune",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":10,
   
-  "defaultDescription" : "A kazdra rune denoting nothing.",
+  "defaultDescription":"A kazdra rune denoting nothing.",
 
-  "inventoryIcon" : "null.png",
-  "orientations" : [
+  "inventoryIcon":"null.png",
+  "orientations":[
 	{
-	  "dualImage" : "null.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"null.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	}
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "objectName" : "kazbannerfull",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra style banner made from tapestry.",
-  "shortdescription" : "Kazdra Banner",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 500,
+  "objectName":"kazbannerfull",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra style banner made from tapestry.",
+  "shortdescription":"Kazdra Banner",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":500,
 
-  "apexDescription" : "A kazdra banner.",
-  "avianDescription" : "My brothers must be near!",
-  "floranDescription" : "Neeet bannner.",
-  "glitchDescription" : "Intrigued. Can this burn, as it is made of crystal?",
-  "humanDescription" : "This banner is made with crystal?!",
-  "hylotlDescription" : "The banner looks so strong!",
-  "kazdraDescription" : "Just a common kazdra banner.",
+  "apexDescription":"A kazdra banner.",
+  "avianDescription":"My brothers must be near!",
+  "floranDescription":"Neeet bannner.",
+  "glitchDescription":"Intrigued. Can this burn, as it is made of crystal?",
+  "humanDescription":"This banner is made with crystal?!",
+  "hylotlDescription":"The banner looks so strong!",
+  "kazdraDescription":"Just a common kazdra banner.",
 
-  "inventoryIcon" : "kazbannerfullicon.png",
-  "orientations" : [
+  "inventoryIcon":"kazbannerfullicon.png",
+  "orientations":[
 	{
-	  "dualImage" : "kazbannerfull.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"kazbannerfull.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	},
 	{
-	  "dualImage" : "kazbannerfull.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "top" ]
+	  "dualImage":"kazbannerfull.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["top" ]
 	}
   ]
 }

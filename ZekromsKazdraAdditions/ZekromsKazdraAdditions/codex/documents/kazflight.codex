@@ -1,15 +1,15 @@
 {
-  "id" : "kazflight",
-  "species" : "kazdra",
-  "title" : "How to fly",
-  "description" : "zekrom_vale extrapolates on how to fly.",
-  "icon" : "kazdracodexfront.png",
-  "contentPages" : [
+  "id":"kazflight",
+  "species":"kazdra",
+  "title":"How to fly",
+  "description":"zekrom_vale extrapolates on how to fly.",
+  "icon":"kazdracodexfront.png",
+  "contentPages":[
 	"To fly is simple just ^orange;Jump twice^reset; and you can start flying.  ^orange;Shift^reset; is the key to drop right away.  Any ^orange;direction^reset; and ^orange;Jump^reset; will allow you to fly all over the world, given that you have enough energy.  As you should notice you will ^green;expend more energy as you move.^reset;",
 	"Flight is not perfect, you will rise and fall over time.  Resulting in a net loss of hight over time, but you will likely run out of energy before you get to the ground.  ^red;A word of warning^reset; watch you energy, if it runs out death may soon follow.  Additionally, the development version will likely kill you, that is why ^yellow;I'm not giving it to you!^reset;"
   ],
-	"itemConfig" : {
-	"rarity" : "uncommon",
-	"price" : 100
-  }
+	"itemConfig":{
+	"rarity":"uncommon",
+	"price":100
+ }
 }

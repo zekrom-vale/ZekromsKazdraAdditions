@@ -1,22 +1,22 @@
 {
-  "objectName" : "runemodnot",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra modification rune this one indicates not.",
-  "shortdescription" : "Not Mod Rune",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 10,
+  "objectName":"runemodnot",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra modification rune this one indicates not.",
+  "shortdescription":"Not Mod Rune",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":10,
   
-  "defaultDescription" : "A kazdra modification rune this one indicates not.",
+  "defaultDescription":"A kazdra modification rune this one indicates not.",
 
-  "inventoryIcon" : "not.png",
-  "orientations" : [
+  "inventoryIcon":"not.png",
+  "orientations":[
 	{
-	  "dualImage" : "not.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"not.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	}
   ]
 }

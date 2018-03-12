@@ -1,22 +1,22 @@
 {
-  "objectName" : "runegeno",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra rune denoting genetics.",
-  "shortdescription" : "Geno Rune",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 10,
+  "objectName":"runegeno",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra rune denoting genetics.",
+  "shortdescription":"Geno Rune",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":10,
   
-  "defaultDescription" : "A kazdra rune denoting genetics.",
+  "defaultDescription":"A kazdra rune denoting genetics.",
 
-  "inventoryIcon" : "geno.png",
-  "orientations" : [
+  "inventoryIcon":"geno.png",
+  "orientations":[
 	{
-	  "dualImage" : "geno.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"geno.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	}
   ]
 }

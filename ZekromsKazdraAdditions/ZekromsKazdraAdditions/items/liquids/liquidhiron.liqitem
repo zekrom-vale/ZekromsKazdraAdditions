@@ -1,13 +1,13 @@
 {
-  "itemName" : "liquidhiron",
-  "rarity" : "Uncommon",
-  "category" : "liquid",
-  "inventoryIcon" : "liquidhironicon.png",
-  "shortdescription" : "Liquid Hiron",
-  "description" : "This liquid produces a massive amount of heat when exposed to electricity.",
+  "itemName":"liquidhiron",
+  "rarity":"Uncommon",
+  "category":"liquid",
+  "inventoryIcon":"liquidhironicon.png",
+  "shortdescription":"Liquid Hiron",
+  "description":"This liquid produces a massive amount of heat when exposed to electricity.",
 
-  "liquid" : "liquidhiron",
+  "liquid":"liquidhiron",
   
-  "fuelAmount" : 10,
-  "price" : 7
+  "fuelAmount":10,
+  "price":7
 }

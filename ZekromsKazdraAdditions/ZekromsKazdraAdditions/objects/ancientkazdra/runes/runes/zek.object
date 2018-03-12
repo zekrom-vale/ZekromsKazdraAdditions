@@ -1,22 +1,22 @@
 {
-  "objectName" : "runezek",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra rune denoting energy.",
-  "shortdescription" : "Zek Rune",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 10,
+  "objectName":"runezek",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra rune denoting energy.",
+  "shortdescription":"Zek Rune",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":10,
   
-  "defaultDescription" : "A kazdra rune denoting energy.",
+  "defaultDescription":"A kazdra rune denoting energy.",
 
-  "inventoryIcon" : "zek.png",
-  "orientations" : [
+  "inventoryIcon":"zek.png",
+  "orientations":[
 	{
-	  "dualImage" : "zek.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"zek.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	}
   ]
 }

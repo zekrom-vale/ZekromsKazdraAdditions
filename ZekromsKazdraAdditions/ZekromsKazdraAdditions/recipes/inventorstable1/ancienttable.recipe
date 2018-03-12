@@ -1,10 +1,10 @@
 {
-  "input" : [
-	{ "item" : "rock19", "count" : 60 },
-	{ "item" : "resonite", "count" : 6 },
-	{ "item" : "ironbar", "count" : 2 }
+  "input":[
+	{"item":"rock19", "count":60},
+	{"item":"resonite", "count":6},
+	{"item":"ironbar", "count":2}
   ],
-  "output" : { "item" : "kazancienttable", "count" : 1 },
-  "duration" : 0,
-  "groups" : [ "inventorstable", "craftingstations", "all" ]
+  "output":{"item":"kazancienttable", "count":1},
+  "duration":0,
+  "groups":["inventorstable", "craftingstations", "all" ]
 }

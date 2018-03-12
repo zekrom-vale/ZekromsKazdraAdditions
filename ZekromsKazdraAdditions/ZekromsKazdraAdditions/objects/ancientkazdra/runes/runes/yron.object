@@ -1,22 +1,22 @@
 {
-  "objectName" : "runeyron",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra rune denoting ???.",
-  "shortdescription" : "Yron Rune",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 10,
+  "objectName":"runeyron",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra rune denoting ???.",
+  "shortdescription":"Yron Rune",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":10,
   
-  "defaultDescription" : "A kazdra rune denoting ???.",
+  "defaultDescription":"A kazdra rune denoting ???.",
 
-  "inventoryIcon" : "yron.png",
-  "orientations" : [
+  "inventoryIcon":"yron.png",
+  "orientations":[
 	{
-	  "dualImage" : "yron.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"yron.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	}
   ]
 }

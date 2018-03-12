@@ -1,10 +1,10 @@
 {
-  "id" : "kazconstructs",
-  "species" : "kazdra",
-  "title" : "Kazdra Constructs",
-  "description" : "Avian, Vawlern Windwing observation of kazdra constructs.",
-  "icon" : "kazdracodexfront.png",
-  "contentPages" : [
+  "id":"kazconstructs",
+  "species":"kazdra",
+  "title":"Kazdra Constructs",
+  "description":"Avian, Vawlern Windwing observation of kazdra constructs.",
+  "icon":"kazdracodexfront.png",
+  "contentPages":[
 	"The Kazdra's home planet has always been scarce of metals, but now the planet is nearly depleted. These dragon-like beings have recently begun developing a means of space travel using what remains of their precious metals so that they may obtain more metals and possibly, for some, a new world to call home.",
 	"The Kazdra seem to use stone, wood, and, most importantly, crystals in many of their common constructs (resonite being one of the most common). Metals are prized and rarely used in ordinary items, but instead are used only as necessary in appliances which require some measure of metal to function or for protective casing. Kazdra tend to hoard metals and metallic objects, and the wealthy tend to wear finery made with precious metals.",
 	"I owe this knowledge to the Kazdra, Zalva Skaiseyl. From the astonished look on his face when I first greeted him, I'm sure that I was the first sentient being he'd come across. He seemed to be in a rush though and we only talked briefly.",
@@ -12,8 +12,8 @@
 	"-Vawlern Windwing <Data corrupted>"
 	//Data from https://community.playstarbound.com/resources/the-kazdra.1991
   ],
-	"itemConfig" : {
-	"rarity" : "common",
-	"price" : 25
-  }
+	"itemConfig":{
+	"rarity":"common",
+	"price":25
+ }
 }

@@ -1,58 +1,58 @@
 {
-  "objectName" : "ancientdataextractor",
-  "colonyTags" : ["crafting"],
-  "category" : "crafting",
-  "rarity" : "Rare",
-  "description" : "Used to extract data.",
-  "shortdescription" : "^orange;Ancient Data Extractor^white;",
-  "objectType" : "container",
-  "race" : "kazdra",
+  "objectName":"ancientdataextractor",
+  "colonyTags":["crafting"],
+  "category":"crafting",
+  "rarity":"Rare",
+  "description":"Used to extract data.",
+  "shortdescription":"^orange;Ancient Data Extractor^white;",
+  "objectType":"container",
+  "race":"kazdra",
   
-  "price" : 40000,
-  "printable" : false,
-  "defaultDescription" : "A device for extracting ancient data crystals.",
-  /*"apexDescription" : "A primitive furnace. I can liquefy things here.",
-  "avianDescription" : "A furnace perfect for liquefying crystals.",
-  "floranDescription" : "Furnace flamess hisss, burn. Floran brave it.",
-  "glitchDescription" : "Impressed. This furnace is the perfect temperature for liquefying crystals.",
-  "humanDescription" : "A liquefying furnace. Looks hot.",
-  "hylotlDescription" : "A hot, imposing furnace.",
-  "novakidDescription" : "Basic lookin' furnace, for liquefyin' crystals.",*/
+  "price":40000,
+  "printable":false,
+  "defaultDescription":"A device for extracting ancient data crystals.",
+  /*"apexDescription":"A primitive furnace. I can liquefy things here.",
+  "avianDescription":"A furnace perfect for liquefying crystals.",
+  "floranDescription":"Furnace flamess hisss, burn. Floran brave it.",
+  "glitchDescription":"Impressed. This furnace is the perfect temperature for liquefying crystals.",
+  "humanDescription":"A liquefying furnace. Looks hot.",
+  "hylotlDescription":"A hot, imposing furnace.",
+  "novakidDescription":"Basic lookin' furnace, for liquefyin' crystals.",*/
 
-  "inventoryIcon" : "ancientdataextractor.png:default.default",
-  "placementImage" : "ancientdataextractor.png:default.default",
-  "placementImagePosition" : [0, 0],
+  "inventoryIcon":"ancientdataextractor.png:default.default",
+  "placementImage":"ancientdataextractor.png:default.default",
+  "placementImagePosition":[0, 0],
   
-  "learnBlueprintsOnPickup" : [],
+  "learnBlueprintsOnPickup":[],
 
-  "orientations" : [
+  "orientations":[
 	{
-	  "image" : "ancientdataextractor.png:default.<frame>",
-	  "imagePosition" : [0, 0],
-	  "frames" : 17,
-	  "animationCycle" : 8,	
-	  "direction" : "left",
-	  "flipImages" : true,
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "bottom" ]
+	  "image":"ancientdataextractor.png:default.<frame>",
+	  "imagePosition":[0, 0],
+	  "frames":17,
+	  "animationCycle":8,	
+	  "direction":"left",
+	  "flipImages":true,
+	  "spaceScan":0.1,
+	  "anchors":["bottom" ]
 	},
 	{
-	  "image" : "ancientdataextractor.png:default.<frame>",
-	  "imagePosition" : [0, 0],
-	  "frames" : 17,
-	  "animationCycle" : 8,	
-	  "direction" : "right",
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "bottom" ]
+	  "image":"ancientdataextractor.png:default.<frame>",
+	  "imagePosition":[0, 0],
+	  "frames":17,
+	  "animationCycle":8,	
+	  "direction":"right",
+	  "spaceScan":0.1,
+	  "anchors":["bottom" ]
 	}
   ],
-  "soundEffect" : "/sfx/objects/campfire.ogg",
-  "soundEffectRangeMultiplier" : 0.5,
+  "soundEffect":"/sfx/objects/campfire.ogg",
+  "soundEffectRangeMultiplier":0.5,
   
-  "recipeGroup" : "ancientdataextractor",
-  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
-  "slotCount" : 2,
-  "uiConfig" : "/interface/objectcrafting/ancientdataextractor.config",
-  "frameCooldown" : 5,
-  "autoCloseCooldown" : 3600
+  "recipeGroup":"ancientdataextractor",
+  "openSounds":["/sfx/objects/campfire_use.ogg" ],
+  "slotCount":2,
+  "uiConfig":"/interface/objectcrafting/ancientdataextractor.config",
+  "frameCooldown":5,
+  "autoCloseCooldown":3600
 }

@@ -1,11 +1,11 @@
 {
-  "itemName" : "kazflagprint",
-  "rarity" : "Uncommon",
-  "category" : "Blueprint",
-  "image" : "/items/generated/blueprint.png",
-  "description" : "Unlocks the Kazdra flags on pickup.",
-  "shortdescription" : "Kazdra Flag Blueprint",
-  "learnBlueprintsOnPickup" : [
+  "itemName":"kazflagprint",
+  "rarity":"Uncommon",
+  "category":"Blueprint",
+  "image":"/items/generated/blueprint.png",
+  "description":"Unlocks the Kazdra flags on pickup.",
+  "shortdescription":"Kazdra Flag Blueprint",
+  "learnBlueprintsOnPickup":[
 	"kazblackflag",
 	"kazblueflag",
 	"kazlightblueflag",
@@ -14,5 +14,5 @@
 	"kazyellowflag",
 	"kazyellowflag2"
   ],
-  "inHandImage" : "/items/generated/blueprintinhand.png"
+  "inHandImage":"/items/generated/blueprintinhand.png"
 }

@@ -1,34 +1,34 @@
 {
-  "objectName" : "kazgreenflag",
-  "tags" : ["kazdra"],
-  "rarity" : "Common",
-  "description" : "A kazdra style flag made from tapestry.",
-  "shortdescription" : "Kazdra Green Flag",
-  "race" : "kazdra",
-  "category" : "furniture",
-  "price" : 500,
+  "objectName":"kazgreenflag",
+  "tags":["kazdra"],
+  "rarity":"Common",
+  "description":"A kazdra style flag made from tapestry.",
+  "shortdescription":"Kazdra Green Flag",
+  "race":"kazdra",
+  "category":"furniture",
+  "price":500,
 
-  "apexDescription" : "A kazdra flag.",
-  "avianDescription" : "My brothers must be near!",
-  "floranDescription" : "Neeet flagg.",
-  "glitchDescription" : "Intrigued. Can this burn, as it is made of crystal?",
-  "humanDescription" : "This flag is made with crystal?!",
-  "hylotlDescription" : "The flag looks so strong!",
-  "kazdraDescription" : "Just a common flag.",
+  "apexDescription":"A kazdra flag.",
+  "avianDescription":"My brothers must be near!",
+  "floranDescription":"Neeet flagg.",
+  "glitchDescription":"Intrigued. Can this burn, as it is made of crystal?",
+  "humanDescription":"This flag is made with crystal?!",
+  "hylotlDescription":"The flag looks so strong!",
+  "kazdraDescription":"Just a common flag.",
 
-  "inventoryIcon" : "kazgreenflagicon.png",
-  "orientations" : [
+  "inventoryIcon":"kazgreenflagicon.png",
+  "orientations":[
 	{
-	  "dualImage" : "kazgreenflag.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "background" ]
+	  "dualImage":"kazgreenflag.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["background" ]
 	},
 	{
-	  "dualImage" : "kazgreenflag.png",
-	  "imagePosition" : [0, 0],
-	  "spaceScan" : 0.1,
-	  "anchors" : [ "top" ]
+	  "dualImage":"kazgreenflag.png",
+	  "imagePosition":[0, 0],
+	  "spaceScan":0.1,
+	  "anchors":["top" ]
 	}
   ]
 }
