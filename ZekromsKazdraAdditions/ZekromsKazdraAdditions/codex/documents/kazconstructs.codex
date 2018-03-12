@@ -13,7 +13,7 @@
 	//Data from https://community.playstarbound.com/resources/the-kazdra.1991
   ],
 	"itemConfig" : {
-    "rarity" : "common",
-    "price" : 25
+	"rarity" : "common",
+	"price" : 25
   }
 }

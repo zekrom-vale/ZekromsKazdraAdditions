@@ -18,17 +18,17 @@
 
   "inventoryIcon" : "kazpurpleflagicon.png",
   "orientations" : [
-    {
-      "dualImage" : "kazpurpleflag2.png",
-	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ]
-    },
 	{
-      "dualImage" : "kazpurpleflag2.png",
+	  "dualImage" : "kazpurpleflag2.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "top" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "background" ]
+	},
+	{
+	  "dualImage" : "kazpurpleflag2.png",
+	  "imagePosition" : [0, 0],
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "top" ]
+	}
   ]
 }

@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "refinedferozium", "count" : 2 },
+	{ "item" : "refinedferozium", "count" : 2 },
 	{ "item" : "refinedviolium", "count" : 2 },
 	{ "item" : "refinedaegisalt", "count" : 2 },
-    { "item" : "resonite", "count" : 50 },
+	{ "item" : "resonite", "count" : 50 },
 	{ "item" : "hiron", "count" : 30 }
   ],
   "output" : { "item" : "kazdratier5rhead", "count" : 1 },

@@ -12,11 +12,11 @@
 
   "inventoryIcon" : "zweh.png",
   "orientations" : [
-    {
-      "dualImage" : "zweh.png",
+	{
+	  "dualImage" : "zweh.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "background" ]
+	}
   ]
 }

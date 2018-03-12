@@ -8,16 +8,16 @@
   "race" : "kazdra",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/crystalliquefier.config",
-      "paneLayoutOverride" : {
-        "windowtitle" : {
-          "title" : " Crystal Liquefier",
-          "subtitle" : " ^#b9b5b2;Crystals",
-          "icon" : {
-          "file" : "/interface/crafting/craftingfurnace.png"
-        }
-      }
-    },
+	"config" : "/interface/windowconfig/crystalliquefier.config",
+	  "paneLayoutOverride" : {
+		"windowtitle" : {
+		  "title" : " Crystal Liquefier",
+		  "subtitle" : " ^#b9b5b2;Crystals",
+		  "icon" : {
+		  "file" : "/interface/crafting/craftingfurnace.png"
+		}
+	  }
+	},
 	"filter" : [ "crystalliquefier" ]
   },
   "price" : 1000,
@@ -41,42 +41,42 @@
   "learnBlueprintsOnPickup" : [],
 
   "orientations" : [
-    {
-      "image" : "crystalliquefier.png:default.<frame>",
-      "imagePosition" : [-8, 0],    
-      "direction" : "left",
-      "flipImages" : true,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "image" : "crystalliquefier.png:default.<frame>",
-      "imagePosition" : [-8, 0],    
-      "direction" : "right",
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    }
+	{
+	  "image" : "crystalliquefier.png:default.<frame>",
+	  "imagePosition" : [-8, 0],	
+	  "direction" : "left",
+	  "flipImages" : true,
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	},
+	{
+	  "image" : "crystalliquefier.png:default.<frame>",
+	  "imagePosition" : [-8, 0],	
+	  "direction" : "right",
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	}
   ],
 
   "npcToy" : {
-    "influence" : [
-      "furnace",
-      "furnace",
-      "furnaceComplete"
-    ],
-    "defaultReactions" : {
-      "furnace" : [
-        [1.0, "warmhands"],
-        [1.0, "crouchwarm"]
-      ],
-      "furnaceComplete" : [
-        [1.0, "warmhands"],
-        [1.0, "crouchwarm"],
-        [1.0, "pokefire"]
-      ]
-    },
-    "preciseStandPositionLeft" : [-1.5, 0.0],
-    "preciseStandPositionRight" : [2.5, 0.0],
-    "maxNpcs" : 1
+	"influence" : [
+	  "furnace",
+	  "furnace",
+	  "furnaceComplete"
+	],
+	"defaultReactions" : {
+	  "furnace" : [
+		[1.0, "warmhands"],
+		[1.0, "crouchwarm"]
+	  ],
+	  "furnaceComplete" : [
+		[1.0, "warmhands"],
+		[1.0, "crouchwarm"],
+		[1.0, "pokefire"]
+	  ]
+	},
+	"preciseStandPositionLeft" : [-1.5, 0.0],
+	"preciseStandPositionRight" : [2.5, 0.0],
+	"maxNpcs" : 1
   }
 }

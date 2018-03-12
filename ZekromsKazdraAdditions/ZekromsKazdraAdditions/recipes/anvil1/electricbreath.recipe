@@ -3,8 +3,8 @@
 	{ "item" : "resonite", "count" : 20 }
   ],
   "output" : {
-    "item" : "electricbreath",
-    "count" : 1
+	"item" : "electricbreath",
+	"count" : 1
   },
   "groups" : [ "craftinganvil", "weapons", "all" ]
 }

@@ -18,11 +18,11 @@
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
-    {
-      "dualImage" : "loadinglogo.png:<color>.<frame>",
-      "frames" : 30,
-      "animationCycle" : 3.2,
-      "anchors" : [ "bottom" ]
-    }
+	{
+	  "dualImage" : "loadinglogo.png:<color>.<frame>",
+	  "frames" : 30,
+	  "animationCycle" : 3.2,
+	  "anchors" : [ "bottom" ]
+	}
   ]
 }

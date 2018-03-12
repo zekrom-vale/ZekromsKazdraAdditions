@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "zoastone", "count" : 400 },
-    { "item" : "liquidzoastone", "count" : 1000 },
+	{ "item" : "zoastone", "count" : 400 },
+	{ "item" : "liquidzoastone", "count" : 1000 },
 	{ "item" : "liquidquantonium", "count" : 70 },
-    { "item" : "resonite", "count" : 60 },
-    { "item" : "liquidresonite", "count" : 1000 },
+	{ "item" : "resonite", "count" : 60 },
+	{ "item" : "liquidresonite", "count" : 1000 },
 	{ "item" : "crystalpanel", "count" : 200 },
 	{ "item" : "battery", "count" : 6 },
 	{ "item" : "teleportercore", "count" : 1 }

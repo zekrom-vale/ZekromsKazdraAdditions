@@ -12,11 +12,11 @@
 
   "inventoryIcon" : "zuu.png",
   "orientations" : [
-    {
-      "dualImage" : "zuu.png",
+	{
+	  "dualImage" : "zuu.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "background" ]
+	}
   ]
 }

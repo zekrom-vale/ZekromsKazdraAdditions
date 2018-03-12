@@ -12,11 +12,11 @@
 
   "inventoryIcon" : "reso.png",
   "orientations" : [
-    {
-      "dualImage" : "reso.png",
+	{
+	  "dualImage" : "reso.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "background" ]
+	}
   ]
 }

@@ -24,7 +24,7 @@
   "vehicleImage" : "/vehicles/hoverbike/hoverbikewarp.png:warp.7",
 
   "animationParts" : {
-    "casing" : "dragonbikecontroller.png"
+	"casing" : "dragonbikecontroller.png"
   },
 
   "inventoryIcon" : "dragonbikecontroller.png:full",

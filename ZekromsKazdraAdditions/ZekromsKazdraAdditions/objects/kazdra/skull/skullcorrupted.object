@@ -18,11 +18,11 @@
 
   "inventoryIcon" : "kazskullicon.png",
   "orientations" : [
-    {
-      "image" : "skullcorrupted2.png",
+	{
+	  "image" : "skullcorrupted2.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "background" ]
+	}
   ]
 }

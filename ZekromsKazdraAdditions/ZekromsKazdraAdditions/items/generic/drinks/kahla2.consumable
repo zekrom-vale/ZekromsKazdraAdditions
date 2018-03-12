@@ -9,10 +9,10 @@
   "handPosition" : [-1, 3],
   "armFrameOverride" : "run.3",
   "effects" : [ [
-      {
-        "effect" : "regeneration1",
-        "duration" : 10
-      }
-    ] ],
+	  {
+		"effect" : "regeneration1",
+		"duration" : 10
+	  }
+	] ],
   "emitters" : [ "drinking" ]
 }

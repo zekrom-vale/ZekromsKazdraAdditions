@@ -14,7 +14,7 @@
 	"-Alduik Solsier 04:25:1503"
   ],
 	"itemConfig" : {
-    "rarity" : "common",
-    "price" : 25
+	"rarity" : "common",
+	"price" : 25
   }
 }

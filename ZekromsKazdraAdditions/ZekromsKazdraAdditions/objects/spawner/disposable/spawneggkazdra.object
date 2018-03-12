@@ -18,14 +18,14 @@
 
   "inventoryIcon" : "defaulticon.png",
   "orientations" : [
-    {
-      "image" : "spawneggkazdra.png",
-      "imagePosition" : [-8, -8],
+	{
+	  "image" : "spawneggkazdra.png",
+	  "imagePosition" : [-8, -8],
 	  "animationCycle" : 1.1,
-      "frames" : 1,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    }
+	  "frames" : 1,
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	}
   ],
 
   "scripts" : [ "/objects/spawner/spawners/spawner.lua" ],
@@ -35,21 +35,21 @@
   "animation" : "/objects/spawner/disposable/spawner1.animation",
 
   "animationParts" : {
-    "switch" : "spawneggkazdra.png"
+	"switch" : "spawneggkazdra.png"
   },
   
   "inputNodes" : [ ],
   "outputNodes" : [ ],
 
   "spawner" : {
-    "searchRadius" : 32.0,
-    "npcSpeciesOptions" : [ "kazdra" ],
-    "npcTypeOptions" : [ "merchant" ],
-    "npcParameterOptions" : [
-      {
-        "dropPools" : [ ]
-      }
-    ]
+	"searchRadius" : 32.0,
+	"npcSpeciesOptions" : [ "kazdra" ],
+	"npcTypeOptions" : [ "merchant" ],
+	"npcParameterOptions" : [
+	  {
+		"dropPools" : [ ]
+	  }
+	]
   },
   "smashOnBreak" : true
 

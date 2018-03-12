@@ -12,11 +12,11 @@
 
   "inventoryIcon" : "kazpillar!koor.png",
   "orientations" : [
-    {
-      "dualImage" : "kazpillar!koor.png",
+	{
+	  "dualImage" : "kazpillar!koor.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	}
   ]
 }

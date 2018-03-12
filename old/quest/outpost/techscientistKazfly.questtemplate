@@ -10,28 +10,28 @@
   "updateDelta" : 10,
   "script" : "/quests/scripts/main.lua",
   "scriptConfig" : {
-    "portraits" : {
-      "questStarted" : {
-        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
-        "title" : "Elliott"
-      },
-      "questComplete" : {
-        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
-        "title" : "Elliott"
-      }
-    },
-    "requireTurnIn" : true,
-    "conditions" : [
-      {
-        "type" : "gatherItem",
-        "itemName" : "diamond",
-        "count" : 5,
-        "consume" : true
-      }
-    ],
+	"portraits" : {
+	  "questStarted" : {
+		"portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+		"title" : "Elliott"
+	  },
+	  "questComplete" : {
+		"portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+		"title" : "Elliott"
+	  }
+	},
+	"requireTurnIn" : true,
+	"conditions" : [
+	  {
+		"type" : "gatherItem",
+		"itemName" : "diamond",
+		"count" : 5,
+		"consume" : true
+	  }
+	],
 
-    "equipTech" : [
-      "kazfly"
-    ]
+	"equipTech" : [
+	  "kazfly"
+	]
   }
 }

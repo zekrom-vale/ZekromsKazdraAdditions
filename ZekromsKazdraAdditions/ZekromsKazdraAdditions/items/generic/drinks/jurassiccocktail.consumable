@@ -9,15 +9,15 @@
   "handPosition" : [-1, 3],
   "armFrameOverride" : "run.3",
   "effects" : [ [
-      {
-        "effect" : "regeneration2",
-        "duration" : 30
-      },
 	  {
-        "effect" : "overload",
-        "duration" : 5
-      }
-    ] ],
+		"effect" : "regeneration2",
+		"duration" : 30
+	  },
+	  {
+		"effect" : "overload",
+		"duration" : 5
+	  }
+	] ],
   //"emote" : "",
   //"emitters" : [ "drinkinghealing" ]
   "emitters" : [ "drinking" ]

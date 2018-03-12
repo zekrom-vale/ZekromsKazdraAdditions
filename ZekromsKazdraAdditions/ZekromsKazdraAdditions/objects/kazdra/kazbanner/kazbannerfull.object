@@ -18,17 +18,17 @@
 
   "inventoryIcon" : "kazbannerfullicon.png",
   "orientations" : [
-    {
-      "dualImage" : "kazbannerfull.png",
-	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ]
-    },
 	{
-      "dualImage" : "kazbannerfull.png",
+	  "dualImage" : "kazbannerfull.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "top" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "background" ]
+	},
+	{
+	  "dualImage" : "kazbannerfull.png",
+	  "imagePosition" : [0, 0],
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "top" ]
+	}
   ]
 }

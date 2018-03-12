@@ -12,11 +12,11 @@
 
   "inventoryIcon" : "dras.png",
   "orientations" : [
-    {
-      "dualImage" : "dras.png",
+	{
+	  "dualImage" : "dras.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "background" ]
+	}
   ]
 }

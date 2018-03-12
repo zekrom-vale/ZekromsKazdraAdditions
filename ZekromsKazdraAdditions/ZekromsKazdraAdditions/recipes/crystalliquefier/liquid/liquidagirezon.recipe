@@ -4,8 +4,8 @@
 	{ "item" : "liquidlava", "count" : 6 }
   ],
   "output" : {
-    "item" : "liquidagirezon",
-    "count" : 10
+	"item" : "liquidagirezon",
+	"count" : 10
   },
   "duration" : 0,
   "groups" : [ "crystalliquefier", "liquids" ]

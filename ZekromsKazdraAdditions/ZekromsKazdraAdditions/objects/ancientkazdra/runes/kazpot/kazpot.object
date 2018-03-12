@@ -12,11 +12,11 @@
 
   "inventoryIcon" : "kazpoticon.png",
   "orientations" : [
-    {
-      "dualImage" : "kazpot.png",
+	{
+	  "dualImage" : "kazpot.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	}
   ]
 }

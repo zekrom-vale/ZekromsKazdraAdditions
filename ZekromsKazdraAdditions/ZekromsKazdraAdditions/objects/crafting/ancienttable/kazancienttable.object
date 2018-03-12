@@ -8,16 +8,16 @@
   "race" : "kazdra",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/crafting.config",
-      "paneLayoutOverride" : {
-        "windowtitle" : {
-          "title" : "Ancient Table",
-          "subtitle" : " ^#b9b5b2;Crafting runes with a stone hammer and time.",
-          "icon" : {
-          "file" : "/interface/crafting/craftingfurnace.png"
-        }
-      }
-    },
+	"config" : "/interface/windowconfig/crafting.config",
+	  "paneLayoutOverride" : {
+		"windowtitle" : {
+		  "title" : "Ancient Table",
+		  "subtitle" : " ^#b9b5b2;Crafting runes with a stone hammer and time.",
+		  "icon" : {
+		  "file" : "/interface/crafting/craftingfurnace.png"
+		}
+	  }
+	},
 	"filter" : [ "kazancienttable" ]
   },
   "price" : 300,
@@ -45,20 +45,20 @@
   ],
 
   "orientations" : [
-    {
-      "image" : "kazancienttable.png",
-      "imagePosition" : [0, 0],    
-      "direction" : "left",
-      "flipImages" : true,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "image" : "kazancienttable.png",
-      "imagePosition" : [0, 0],    
-      "direction" : "right",
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    }
+	{
+	  "image" : "kazancienttable.png",
+	  "imagePosition" : [0, 0],	
+	  "direction" : "left",
+	  "flipImages" : true,
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	},
+	{
+	  "image" : "kazancienttable.png",
+	  "imagePosition" : [0, 0],	
+	  "direction" : "right",
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	}
   ]
 }

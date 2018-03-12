@@ -1,12 +1,12 @@
 {
   "input" : [
-    { "item" : "liquidresonite", "count" : 20 },
+	{ "item" : "liquidresonite", "count" : 20 },
 	{ "item" : "alienmeat", "count" : 2 },
 	{ "item" : "koorium", "count" : 1 }
   ],
   "output" : {
-    "item" : "jurassiccocktail",
-    "count" : 1
+	"item" : "jurassiccocktail",
+	"count" : 1
   },
   "groups" : [ "craftingfood", "drinks" ]
 }

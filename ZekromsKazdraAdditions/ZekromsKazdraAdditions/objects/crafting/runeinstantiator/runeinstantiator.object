@@ -8,7 +8,7 @@
   "race" : "kazdra",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/runeinstantiator.config",
+	"config" : "/interface/windowconfig/runeinstantiator.config",
 	"filter" : [ "runeinstantiator" ]
   },
   "price" : 40000,
@@ -81,24 +81,24 @@
   ],
 
   "orientations" : [
-    {
-      "imageLayers" : [ { "image" : "runeinstantiator.png:default.<frame>", "fullbright" : true }, { "image" : "runeinstantiatorlit.png:default.<frame>" } ],
-      "imagePosition" : [0, 0],
-      "frames" : 30,
-      "animationCycle" : 20,    
-      "direction" : "left",
-      "flipImages" : true,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "imageLayers" : [ { "image" : "runeinstantiator.png:default.<frame>", "fullbright" : true }, { "image" : "runeinstantiatorlit.png:default.<frame>" } ],
-      "imagePosition" : [0, 0],
-      "frames" : 30,
-      "animationCycle" : 20,    
-      "direction" : "right",
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    }
+	{
+	  "imageLayers" : [ { "image" : "runeinstantiator.png:default.<frame>", "fullbright" : true }, { "image" : "runeinstantiatorlit.png:default.<frame>" } ],
+	  "imagePosition" : [0, 0],
+	  "frames" : 30,
+	  "animationCycle" : 20,	
+	  "direction" : "left",
+	  "flipImages" : true,
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	},
+	{
+	  "imageLayers" : [ { "image" : "runeinstantiator.png:default.<frame>", "fullbright" : true }, { "image" : "runeinstantiatorlit.png:default.<frame>" } ],
+	  "imagePosition" : [0, 0],
+	  "frames" : 30,
+	  "animationCycle" : 20,	
+	  "direction" : "right",
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	}
   ]
 }

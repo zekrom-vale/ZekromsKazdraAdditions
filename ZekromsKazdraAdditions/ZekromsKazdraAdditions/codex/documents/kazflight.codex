@@ -9,7 +9,7 @@
 	"Flight is not perfect, you will rise and fall over time.  Resulting in a net loss of hight over time, but you will likely run out of energy before you get to the ground.  ^red;A word of warning^reset; watch you energy, if it runs out death may soon follow.  Additionally, the development version will likely kill you, that is why ^yellow;I'm not giving it to you!^reset;"
   ],
 	"itemConfig" : {
-    "rarity" : "uncommon",
-    "price" : 100
+	"rarity" : "uncommon",
+	"price" : 100
   }
 }

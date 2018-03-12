@@ -11,11 +11,11 @@
   "defaultDescription" : "A kazdra rune denoting work.",
   "inventoryIcon" : "ruku.png",
   "orientations" : [
-    {
-      "dualImage" : "ruku.png",
+	{
+	  "dualImage" : "ruku.png",
 	  "imagePosition" : [0, 0],
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ]
-    }
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "background" ]
+	}
   ]
 }

@@ -26,25 +26,25 @@
   "learnBlueprintsOnPickup" : [],
 
   "orientations" : [
-    {
-      "image" : "ancientdataextractor.png:default.<frame>",
-      "imagePosition" : [0, 0],
-      "frames" : 17,
-      "animationCycle" : 8,    
-      "direction" : "left",
-      "flipImages" : true,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "image" : "ancientdataextractor.png:default.<frame>",
-      "imagePosition" : [0, 0],
-      "frames" : 17,
-      "animationCycle" : 8,    
-      "direction" : "right",
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    }
+	{
+	  "image" : "ancientdataextractor.png:default.<frame>",
+	  "imagePosition" : [0, 0],
+	  "frames" : 17,
+	  "animationCycle" : 8,	
+	  "direction" : "left",
+	  "flipImages" : true,
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	},
+	{
+	  "image" : "ancientdataextractor.png:default.<frame>",
+	  "imagePosition" : [0, 0],
+	  "frames" : 17,
+	  "animationCycle" : 8,	
+	  "direction" : "right",
+	  "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ]
+	}
   ],
   "soundEffect" : "/sfx/objects/campfire.ogg",
   "soundEffectRangeMultiplier" : 0.5,
