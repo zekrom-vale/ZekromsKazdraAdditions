@@ -1,192 +1,192 @@
 {
 //Uses /items/data/kazextracteddata/reward.lua custom level range code
-"kazextracteddata" : [
-    [1, {
-      "pool" : [
-	    {"weight" : 0.7, "item" : "kazconstructs-codex"},
-	    {"weight" : 1.0, "item" : "kazdraobservations-codex"},
-        {"weight" : 0.9, "item" : "kazdraorigins-codex"},
-        {"weight" : 0.4, "item" : "kazflight-codex"},
-        {"weight" : 0.5, "item" : "kazmetalwork-codex"},
-        {"weight" : 0.5, "item" : "staloa-codex"},
+"kazextracteddata":[
+	[1,{
+	  "pool":[
+	   {"weight":0.7, "item":"kazconstructs-codex"},
+	   {"weight":1.0, "item":"kazdraobservations-codex"},
+		{"weight":0.9, "item":"kazdraorigins-codex"},
+		{"weight":0.4, "item":"kazflight-codex"},
+		{"weight":0.5, "item":"kazmetalwork-codex"},
+		{"weight":0.5, "item":"staloa-codex"},
 			//Materials
-		{"weight" : 0.6, "item" : "agatetile-recipe"},
-		{"weight" : 0.5, "item" : "coralrelief-recipe"},
-		{"weight" : 0.7, "item" : "crystalpanel-recipe"},
-		{"weight" : 0.9, "item" : "resonitethread-recipe"},
-		{"weight" : 0.7, "item" : "kazcloth-recipe"},
-		{"weight" : 0.5, "item" : "kazship1-recipe"},
-		{"weight" : 0.4, "item" : "kazship2-recipe"},
-		{"weight" : 0.6, "item" : "kazwoodflooring-recipe"},
-		{"weight" : 0.4, "item" : "swirlrelief-recipe"},
-		{"weight" : 0.5, "item" : "woodgemplatform-recipe"},
+		{"weight":0.6, "item":"agatetile-recipe"},
+		{"weight":0.5, "item":"coralrelief-recipe"},
+		{"weight":0.7, "item":"crystalpanel-recipe"},
+		{"weight":0.9, "item":"resonitethread-recipe"},
+		{"weight":0.7, "item":"kazcloth-recipe"},
+		{"weight":0.5, "item":"kazship1-recipe"},
+		{"weight":0.4, "item":"kazship2-recipe"},
+		{"weight":0.6, "item":"kazwoodflooring-recipe"},
+		{"weight":0.4, "item":"swirlrelief-recipe"},
+		{"weight":0.5, "item":"woodgemplatform-recipe"},
 			//Drinks
-		{"weight" : 1.0, "item" : "kahla-recipe"},
-		{"weight" : 0.8, "item" : "etherianjolt-recipe"},
-		{"weight" : 0.7, "item" : "jurassiccocktail-recipe"},
+		{"weight":1.0, "item":"kahla-recipe"},
+		{"weight":0.8, "item":"etherianjolt-recipe"},
+		{"weight":0.7, "item":"jurassiccocktail-recipe"},
 			//Weapons
-		{"weight" : 1.0, "item" : "kazdratier1dagger-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier1hammer-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier1shortsword-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier1spear-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier1axe-recipe"}
-      ],
-	  "poolRounds" : [
-        [0.80, 1],
-        [0.20, 2]
-      ],
-      "allowDuplication" : false
-    }],
-	[2, {
-	  "pool" : [
+		{"weight":1.0, "item":"kazdratier1dagger-recipe"},
+		{"weight":1.0, "item":"kazdratier1hammer-recipe"},
+		{"weight":1.0, "item":"kazdratier1shortsword-recipe"},
+		{"weight":1.0, "item":"kazdratier1spear-recipe"},
+		{"weight":1.0, "item":"kazdratier1axe-recipe"}
+	  ],
+	  "poolRounds":[
+		[0.80, 1],
+		[0.20, 2]
+	  ],
+	  "allowDuplication":false
+	}],
+	[2,{
+	  "pool":[
 			//Furniture
 			//	Doors
-        {"weight" : 0.5, "item" : "crystalinedoor-recipe"},
-        {"weight" : 0.5, "item" : "crystalinedoorh-recipe"},
-        {"weight" : 0.4, "item" : "drassilgate-recipe"},
-        {"weight" : 0.4, "item" : "drassilgateh-recipe"},
+		{"weight":0.5, "item":"crystalinedoor-recipe"},
+		{"weight":0.5, "item":"crystalinedoorh-recipe"},
+		{"weight":0.4, "item":"drassilgate-recipe"},
+		{"weight":0.4, "item":"drassilgateh-recipe"},
 			//	Lights
-        {"weight" : 0.5, "item" : "crystallight1-recipe"},
-        {"weight" : 0.6, "item" : "glowgem-recipe"},
-        {"weight" : 0.5, "item" : "tinyglowgem-recipe"},
+		{"weight":0.5, "item":"crystallight1-recipe"},
+		{"weight":0.6, "item":"glowgem-recipe"},
+		{"weight":0.5, "item":"tinyglowgem-recipe"},
 			//	Storage
-		{"weight" : 0.5, "item" : "kazchest1-recipe"},
+		{"weight":0.5, "item":"kazchest1-recipe"},
 			//	Decorative
-		{"weight" : 1.3, "item" : "kazflagprint"},
-		{"weight" : 1.6, "item" : "kazbannerprint"},
+		{"weight":1.3, "item":"kazflagprint"},
+		{"weight":1.6, "item":"kazbannerprint"},
 			//Ship		
-        {"weight" : 0.2, "item" : "kazdratechstation-recipe"},
-        {"weight" : 0.2, "item" : "kazdrafuelhatch-recipe"},		
+		{"weight":0.2, "item":"kazdratechstation-recipe"},
+		{"weight":0.2, "item":"kazdrafuelhatch-recipe"},		
 			//Weapons
-		{"weight" : 0.9, "item" : "kazdratier2dagger-recipe"},
-		{"weight" : 0.9, "item" : "kazdratier2hammer-recipe"},
-		{"weight" : 0.9, "item" : "kazdratier2shortsword-recipe"},
-		{"weight" : 0.9, "item" : "kazdratier2spear-recipe"},
-		{"weight" : 0.9, "item" : "kazdratier2axe-recipe"},
+		{"weight":0.9, "item":"kazdratier2dagger-recipe"},
+		{"weight":0.9, "item":"kazdratier2hammer-recipe"},
+		{"weight":0.9, "item":"kazdratier2shortsword-recipe"},
+		{"weight":0.9, "item":"kazdratier2spear-recipe"},
+		{"weight":0.9, "item":"kazdratier2axe-recipe"},
 		
-		{"weight" : 0.8, "item" : "kazdratier3dagger-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier3hammer-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier3shortsword-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier3spear-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier3axe-recipe"},
+		{"weight":0.8, "item":"kazdratier3dagger-recipe"},
+		{"weight":0.8, "item":"kazdratier3hammer-recipe"},
+		{"weight":0.8, "item":"kazdratier3shortsword-recipe"},
+		{"weight":0.8, "item":"kazdratier3spear-recipe"},
+		{"weight":0.8, "item":"kazdratier3axe-recipe"},
 			//Armor
-		{"weight" : 1.0, "item" : "kazdratier1head-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier1chest-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier1pants-recipe"},
+		{"weight":1.0, "item":"kazdratier1head-recipe"},
+		{"weight":1.0, "item":"kazdratier1chest-recipe"},
+		{"weight":1.0, "item":"kazdratier1pants-recipe"},
 		
-		{"weight" : 0.7, "item" : "kazdratier2head-recipe"},
-		{"weight" : 0.7, "item" : "kazdratier2chest-recipe"},
-		{"weight" : 0.7, "item" : "kazdratier2pants-recipe"},
+		{"weight":0.7, "item":"kazdratier2head-recipe"},
+		{"weight":0.7, "item":"kazdratier2chest-recipe"},
+		{"weight":0.7, "item":"kazdratier2pants-recipe"},
 			//Tools
-		{"weight" : 0.7, "item" : "kazdrill-recipe"}
+		{"weight":0.7, "item":"kazdrill-recipe"}
 	  ],
-	  "poolRounds" : [
-        [0.90, 1],
-        [0.10, 2]
-      ],
-      "allowDuplication" : false
+	  "poolRounds":[
+		[0.90, 1],
+		[0.10, 2]
+	  ],
+	  "allowDuplication":false
 	}],
-	[3, {
-	  "pool" : [
+	[3,{
+	  "pool":[
 			//Weapons		
-		{"weight" : 1.0, "item" : "kazdratier4dagger-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier4hammer-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier4shortsword-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier4spear-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier4axe-recipe"},
+		{"weight":1.0, "item":"kazdratier4dagger-recipe"},
+		{"weight":1.0, "item":"kazdratier4hammer-recipe"},
+		{"weight":1.0, "item":"kazdratier4shortsword-recipe"},
+		{"weight":1.0, "item":"kazdratier4spear-recipe"},
+		{"weight":1.0, "item":"kazdratier4axe-recipe"},
 		
-		{"weight" : 0.9, "item" : "kazdratier5dagger-recipe"},
-		{"weight" : 0.9, "item" : "kazdratier5hammer-recipe"},
-		{"weight" : 0.9, "item" : "kazdratier5shortsword-recipe"},
-		{"weight" : 0.9, "item" : "kazdratier5spear-recipe"},
-		{"weight" : 0.9, "item" : "kazdratier5axe-recipe"},
+		{"weight":0.9, "item":"kazdratier5dagger-recipe"},
+		{"weight":0.9, "item":"kazdratier5hammer-recipe"},
+		{"weight":0.9, "item":"kazdratier5shortsword-recipe"},
+		{"weight":0.9, "item":"kazdratier5spear-recipe"},
+		{"weight":0.9, "item":"kazdratier5axe-recipe"},
 		
-		{"weight" : 0.8, "item" : "kazdratier6dagger-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier6hammer-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier6shortsword-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier6spear-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier6axe-recipe"},
+		{"weight":0.8, "item":"kazdratier6dagger-recipe"},
+		{"weight":0.8, "item":"kazdratier6hammer-recipe"},
+		{"weight":0.8, "item":"kazdratier6shortsword-recipe"},
+		{"weight":0.8, "item":"kazdratier6spear-recipe"},
+		{"weight":0.8, "item":"kazdratier6axe-recipe"},
 		
-		{"weight" : 0.7, "item" : "kazdratier7dagger-recipe"},
-		{"weight" : 0.7, "item" : "kazdratier7hammer-recipe"},
-		{"weight" : 0.7, "item" : "kazdratier7shortsword-recipe"},
-		{"weight" : 0.7, "item" : "kazdratier7spear-recipe"},
-		{"weight" : 0.7, "item" : "kazdratier7axe-recipe"},			
+		{"weight":0.7, "item":"kazdratier7dagger-recipe"},
+		{"weight":0.7, "item":"kazdratier7hammer-recipe"},
+		{"weight":0.7, "item":"kazdratier7shortsword-recipe"},
+		{"weight":0.7, "item":"kazdratier7spear-recipe"},
+		{"weight":0.7, "item":"kazdratier7axe-recipe"},			
 			//Armor		
-		{"weight" : 1.0, "item" : "kazdratier3head-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier3chest-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier3pants-recipe"},
+		{"weight":1.0, "item":"kazdratier3head-recipe"},
+		{"weight":1.0, "item":"kazdratier3chest-recipe"},
+		{"weight":1.0, "item":"kazdratier3pants-recipe"},
 		
-		{"weight" : 0.8, "item" : "kazdratier4head-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier4chest-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier4pants-recipe"},
+		{"weight":0.8, "item":"kazdratier4head-recipe"},
+		{"weight":0.8, "item":"kazdratier4chest-recipe"},
+		{"weight":0.8, "item":"kazdratier4pants-recipe"},
 			//Tools
-		{"weight" : 0.5, "item" : "spyrodrill-recipe"},
+		{"weight":0.5, "item":"spyrodrill-recipe"},
 			//Spawner
-		{"weight" : 0.4, "item" : "spawnerkazdraguard-recipe"},
-		{"weight" : 0.5, "item" : "spawnerkazdramerchant-recipe"},
-		{"weight" : 0.7, "item" : "spawnerkazdra-recipe"}
+		{"weight":0.4, "item":"spawnerkazdraguard-recipe"},
+		{"weight":0.5, "item":"spawnerkazdramerchant-recipe"},
+		{"weight":0.7, "item":"spawnerkazdra-recipe"}
 		
 	  ],
-	  "poolRounds" : [
-        [0.95, 1],
-        [0.05, 2]
-      ],
-      "allowDuplication" : false
+	  "poolRounds":[
+		[0.95, 1],
+		[0.05, 2]
+	  ],
+	  "allowDuplication":false
 	}],
-	[4, {
-	  "pool" : [
+	[4,{
+	  "pool":[
 			//Liquids
-        {"weight" : 1.0, "item" : "crystalliquefier-recipe"},
-        {"weight" : 0.2, "item" : "liquidagirezon-recipe"},
-        {"weight" : 0.2, "item" : "agirezon-recipe"},
-        {"weight" : 0.5, "item" : "liquidhiron-recipe"},
-        {"weight" : 0.5, "item" : "hiron-recipe"},
-        {"weight" : 0.4, "item" : "liquidkazein-recipe"},
-        {"weight" : 0.4, "item" : "kazein-recipe"},
-        {"weight" : 0.3, "item" : "liquidkoorium-recipe"},
-        {"weight" : 0.3, "item" : "koorium-recipe"},
-        {"weight" : 0.7, "item" : "liquidresonite-recipe"},
-        {"weight" : 0.7, "item" : "resonite-recipe"},
-        {"weight" : 0.6, "item" : "liquidzoastone-recipe"},
-        {"weight" : 0.6, "item" : "zoastone-recipe"},
-        {"weight" : 0.1, "item" : "liquidquantonium-recipe"},
-        {"weight" : 0.1, "item" : "quantonium-recipe"},
+		{"weight":1.0, "item":"crystalliquefier-recipe"},
+		{"weight":0.2, "item":"liquidagirezon-recipe"},
+		{"weight":0.2, "item":"agirezon-recipe"},
+		{"weight":0.5, "item":"liquidhiron-recipe"},
+		{"weight":0.5, "item":"hiron-recipe"},
+		{"weight":0.4, "item":"liquidkazein-recipe"},
+		{"weight":0.4, "item":"kazein-recipe"},
+		{"weight":0.3, "item":"liquidkoorium-recipe"},
+		{"weight":0.3, "item":"koorium-recipe"},
+		{"weight":0.7, "item":"liquidresonite-recipe"},
+		{"weight":0.7, "item":"resonite-recipe"},
+		{"weight":0.6, "item":"liquidzoastone-recipe"},
+		{"weight":0.6, "item":"zoastone-recipe"},
+		{"weight":0.1, "item":"liquidquantonium-recipe"},
+		{"weight":0.1, "item":"quantonium-recipe"},
 			//Weapons
-		{"weight" : 1.0, "item" : "kazdratier8dagger-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier8hammer-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier8shortsword-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier8spear-recipe"},
-		{"weight" : 1.0, "item" : "kazdratier8axe-recipe"},
+		{"weight":1.0, "item":"kazdratier8dagger-recipe"},
+		{"weight":1.0, "item":"kazdratier8hammer-recipe"},
+		{"weight":1.0, "item":"kazdratier8shortsword-recipe"},
+		{"weight":1.0, "item":"kazdratier8spear-recipe"},
+		{"weight":1.0, "item":"kazdratier8axe-recipe"},
 		
-		{"weight" : 0.8, "item" : "kazdratier9dagger-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier9hammer-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier9shortsword-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier9spear-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier9axe-recipe"},
+		{"weight":0.8, "item":"kazdratier9dagger-recipe"},
+		{"weight":0.8, "item":"kazdratier9hammer-recipe"},
+		{"weight":0.8, "item":"kazdratier9shortsword-recipe"},
+		{"weight":0.8, "item":"kazdratier9spear-recipe"},
+		{"weight":0.8, "item":"kazdratier9axe-recipe"},
 			//Armor
 		
-		{"weight" : 1, "item" : "kazdratier5head-recipe"},
-		//{"weight" : 1, "item" : "kazdratier5chest-recipe"},
-		{"weight" : 1, "item" : "kazdratier5pants-recipe"},
+		{"weight":1, "item":"kazdratier5head-recipe"},
+		//{"weight":1, "item":"kazdratier5chest-recipe"},
+		{"weight":1, "item":"kazdratier5pants-recipe"},
 		
-		{"weight" : 0.8, "item" : "kazdratier5rhead-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier5rchest-recipe"},
-		{"weight" : 0.8, "item" : "kazdratier5rpants-recipe"},
+		{"weight":0.8, "item":"kazdratier5rhead-recipe"},
+		{"weight":0.8, "item":"kazdratier5rchest-recipe"},
+		{"weight":0.8, "item":"kazdratier5rpants-recipe"},
 		
-		{"weight" : 0.6, "item" : "kazdratier6rhead-recipe"},
-		{"weight" : 0.6, "item" : "kazdratier6rchest-recipe"},
-		{"weight" : 0.6, "item" : "kazdratier6rpants-recipe"},
+		{"weight":0.6, "item":"kazdratier6rhead-recipe"},
+		{"weight":0.6, "item":"kazdratier6rchest-recipe"},
+		{"weight":0.6, "item":"kazdratier6rpants-recipe"},
 		
-		{"weight" : 0.3, "item" : "zekromhead-recipe"},
-		{"weight" : 0.2, "item" : "zekromchest-recipe"},
-		{"weight" : 0.3, "item" : "zekrompants-recipe"}
+		{"weight":0.3, "item":"zekromhead-recipe"},
+		{"weight":0.2, "item":"zekromchest-recipe"},
+		{"weight":0.3, "item":"zekrompants-recipe"}
 	  ],
-	  "poolRounds" : [
-        [0.97, 1],
-        [0.03, 2]
-      ],
-      "allowDuplication" : false
+	  "poolRounds":[
+		[0.97, 1],
+		[0.03, 2]
+	  ],
+	  "allowDuplication":false
 	}]
 ]
 }

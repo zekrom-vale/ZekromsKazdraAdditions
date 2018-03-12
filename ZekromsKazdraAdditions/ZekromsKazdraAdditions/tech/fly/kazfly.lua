@@ -23,15 +23,15 @@ function update(args)
   self.lastJump = args.moves.jump
   self.stateTimer = math.max(0, self.stateTimer - args.dt)
   if mcontroller.groundMovement() or mcontroller.liquidMovement() then
-    if self.state ~= "idle" then
-      idle()
-    end
-    self.available = true
+	if self.state ~= "idle" then
+	  idle()
+	end
+	self.available = true
   end
   if self.state == "idle" then
-    if jumpActivated and canKazFly() then
-      getVector(args, true)
-    end
+	if jumpActivated and canKazFly() then
+	  getVector(args, true)
+	end
   elseif self.state == "boost" then
 	local factor
 	if self.mode[2] == 0 then
@@ -75,14 +75,14 @@ function getVector(args, prime)
 		return
 	end
 	local direction = {0, 0}
-    if args.moves.right then
+	if args.moves.right then
 		direction[1] = 1
 		if math.random(-1, self.fallChance) == 0 then
 			direction[2] = self.mag
 		elseif math.random(-1, self.riseChance) == 0 then
 			direction[2] = -self.mag
 		end
-    elseif args.moves.left then
+	elseif args.moves.left then
 		direction[1] = -1
 		if math.random(-1, self.fallChance) == 0 then
 			direction[2] = self.mag
@@ -90,11 +90,11 @@ function getVector(args, prime)
 			direction[2] = -self.mag
 		end
 	end
-    if args.moves.up or args.moves.jump then
+	if args.moves.up or args.moves.jump then
 		direction[2] = 1
-    elseif args.moves.down then
+	elseif args.moves.down then
 		direction[2] = -1
-    elseif vec2.eq(direction, {0, 0}) then
+	elseif vec2.eq(direction, {0, 0}) then
 		if math.random(-1, self.fallChance) == 0 then
 			direction = {0, -self.mag}
 		elseif math.random(-1, self.riseChance) == 0 then
@@ -109,10 +109,10 @@ end
 
 function canKazFly()
   return self.available
-      and not mcontroller.jumping()
-      and not mcontroller.canJump()
-      and not mcontroller.liquidMovement()
-      and not status.statPositive("activeMovementAbilities")
+	  and not mcontroller.jumping()
+	  and not mcontroller.canJump()
+	  and not mcontroller.liquidMovement()
+	  and not status.statPositive("activeMovementAbilities")
 end
 
 function charge()

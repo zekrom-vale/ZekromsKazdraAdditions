@@ -1,21 +1,21 @@
 {
-  "name":"quantumdashDev",
-  "type":"body",
+	"name":"quantumdashDev",
+	"type":"body",
 
-  "scripts":["blinkdash.lua"],
-  "animator":"blinkdash.animation",
+	"scripts":["blinkdash.lua"],
+	"animator":"blinkdash.animation",
 
-  "description":"A dash that blinks past everything!",
-  "shortDescription":"Quantum DashDev",
-  "rarity":"Legendary",
-  "icon":"/tech/quantumdash.png",
+	"description":"A dash that blinks past everything!",
+	"shortDescription":"Quantum DashDev",
+	"rarity":"Legendary",
+	"icon":"/tech/quantumdash.png",
 
-  "chipCost":1000,
+	"chipCost":1000,
 
-  "maximumDoubleTapTime":0.25,
-  "dashDistance":500,
-  "blinkOutTime":0.15,
-  "blinkInTime":0.15,
-  "dashCooldown":0.2,
-  "groundOnly":false
+	"maximumDoubleTapTime":0.25,
+	"dashDistance":500,
+	"blinkOutTime":0.15,
+	"blinkInTime":0.15,
+	"dashCooldown":0.2,
+	"groundOnly":false
 }

@@ -3,13 +3,11 @@
 "op":"add",
 "path":"/foodValue",
 "value":1
-},
-{
+},{
 "op":"add",
 "path":"/foodValue",
 "value":1
-},
-{
+},{
 "op":"add",
 "path":"/effects",
 "value":[[

@@ -10,19 +10,16 @@
 		]
 	}]
 ]
-},
-{
-	"op":"add",
-	"path":"/kazcostume/0/1/-",
-	"value":{"weight":0.00004, "item":"zekromhead"}
-},
-{
-	"op":"add",
-	"path":"/kazcostume/0/1/-",
-	"value":{"weight":0.00003, "item":"zekromchest"}
-},
-{
-	"op":"add",
-	"path":"/kazcostume/0/1/-",
-	"value":{"weight":0.00003, "item":"zekrompants"}
+},{
+"op":"add",
+"path":"/kazcostume/0/1/-",
+"value":{"weight":0.00004, "item":"zekromhead"}
+},{
+"op":"add",
+"path":"/kazcostume/0/1/-",
+"value":{"weight":0.00003, "item":"zekromchest"}
+},{
+"op":"add",
+"path":"/kazcostume/0/1/-",
+"value":{"weight":0.00003, "item":"zekrompants"}
 }]
