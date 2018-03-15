@@ -1,0 +1,5 @@
+[{
+"op":"replace",
+"path":"/input/0",
+"value":{"item":"liquidagirezon", "count":30}
+}]

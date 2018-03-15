@@ -1,0 +1,5 @@
+[{
+"op":"replace",
+"path":"/items/0",
+"value":{"item":"liquidresonite", "count":10}
+}]
