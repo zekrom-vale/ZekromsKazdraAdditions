@@ -4,7 +4,10 @@
   "friendlyName" : "Zekrom's Kazdra Additions! Split update. NOTE: Use this to keep my additions!",
   "friendlyname" : "Zekrom's Kazdra Additions",
   "includes" : ["FrackinUniverse"],
+  "link" : "steam://url/CommunityFilePage/1327955676",
   "name" : "ZekromsKazdraAdditions",
   "requires" : ["kazdrareloaded", "ZekromsKazdraRecipes"],
+  "steamContentId" : "1327955676",
+  "tags" : "Weapons|Furniture and Objects|Character Improvements|Food and Farming|In-Game Tools|Vehicles and Mounts|Armor and Clothes",
   "version" : "0.1.27.9"
 }
