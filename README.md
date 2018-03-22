@@ -9,10 +9,8 @@ This adds more content from items to runes, some images and content belong to An
 * Zekrom Suit (So many frames!)
 * Some more hats?
 
-# v.9 will now split into two mods fixes (patch) and this mod!
-* This additional content mod will require the patch mod to prevent bugs and ease coding.
-
-## v.9-live
+## v.9
+* Now split into two mods fixes (patch) and this mod!
 * Now uses github!
 * Moved to a new assets folder to elimnate .git (a 26.5MB folder!) and junk files when uploading to steamcommunity
 * Added images to the .git
