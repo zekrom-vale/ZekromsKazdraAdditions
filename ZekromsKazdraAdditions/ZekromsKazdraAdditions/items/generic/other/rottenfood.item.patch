@@ -1,5 +1,4 @@
-[
-{
+[{
 "op":"add",
 "path":"/foodValue",
 "value":1
@@ -24,5 +23,4 @@
 		"duration":20
 	}
 	]]
-}
-]
+}]
