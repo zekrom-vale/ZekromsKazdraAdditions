@@ -5,9 +5,7 @@
   "inventoryIcon":"liquidagirezonicon.png",
   "shortdescription":"Liquid Agirezon",
   "description":"A liquefied crystal alloy of zoastone and resonite crystals.",
-
   "liquid":"liquidagirezon",
-  
   "fuelAmount":10,
   "price":7
 }

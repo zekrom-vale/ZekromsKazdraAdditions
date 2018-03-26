@@ -1,8 +1,8 @@
 {
   "input":[
-	{"item":"kazblackchalk", "count":106},{"item":"kazwhitechalk", "count":2}
-  ],
-  "output":{"item":"runezoa", "count":1},
+	{"item":"kazblackchalk","count":106},{"item":"kazwhitechalk","count":2}
+ ],
+  "output":{"item":"runezoa","count":1},
   "duration":0,
-  "groups":["runeinstantiator", "rune" ]
+  "groups":["runeinstantiator","rune"]
 }

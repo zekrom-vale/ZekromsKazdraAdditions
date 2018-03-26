@@ -16,19 +16,16 @@
 			"icon":{
 			"file":"/interface/crafting/craftingfurnace.png"
 		}
-	 }
+	}
 	},
-	"filter":["kazancienttable" ]
- },
+	"filter":["kazancienttable"]
+},
 	"price":300,
 	"printable":false,
-	
 	"defaultDescription":"A table used to craft kazdra runes.",
-
 	"inventoryIcon":"kazancienttableicon.png",
 	"placementImage":"kazancienttable.png",
-	"placementImagePosition":[0, 0],
-	
+	"placementImagePosition":[0,0],
 	"learnBlueprintsOnPickup":[
 	"kazpillar!env",
 	"kazpillar!hiro",
@@ -43,22 +40,20 @@
 	"kazpotlarge",
 	"kazpotsmall"
 	],
-
 	"orientations":[
 	{
 		"image":"kazancienttable.png",
-		"imagePosition":[0, 0],	
+		"imagePosition":[0,0],
 		"direction":"left",
 		"flipImages":true,
 		"spaceScan":0.1,
-		"anchors":["bottom" ]
-	},
-	{
+		"anchors":["bottom"]
+	},{
 		"image":"kazancienttable.png",
-		"imagePosition":[0, 0],	
+		"imagePosition":[0,0],
 		"direction":"right",
 		"spaceScan":0.1,
-		"anchors":["bottom" ]
+		"anchors":["bottom"]
 	}
 	]
 }

@@ -1,10 +1,9 @@
 [{
 "op":"replace",
 "path":"/input/0",
-"value":{"item":"liquidresonite", "count":20}
-},
-{
+"value":{"item":"liquidresonite","count":20}
+},{
 "op":"replace",
 "path":"/input/1",
-"value":{"item":"liquidzoastone", "count":20}
+"value":{"item":"liquidzoastone","count":20}
 }]

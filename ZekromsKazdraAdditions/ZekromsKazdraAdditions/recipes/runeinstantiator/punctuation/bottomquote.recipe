@@ -1,8 +1,8 @@
 {
   "input":[
-	{"item":"kazblackchalk", "count":84},{"item":"kazwhitechalk", "count":48}
-  ],
-  "output":{"item":"runepunctuationbottomquote", "count":1},
+	{"item":"kazblackchalk","count":84},{"item":"kazwhitechalk","count":48}
+ ],
+  "output":{"item":"runepunctuationbottomquote","count":1},
   "duration":0,
-  "groups":["runeinstantiator", "punctuation" ]
+  "groups":["runeinstantiator","punctuation"]
 }

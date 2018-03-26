@@ -7,15 +7,14 @@
 	"race":"kazdra",
 	"category":"furniture",
 	"price":10,
-	
 	"defaultDescription":"A kazdra rune denoting work.",
 	"inventoryIcon":"ruku.png",
 	"orientations":[
 	{
 		"dualImage":"ruku.png",
-		"imagePosition":[0, 0],
+		"imagePosition":[0,0],
 		"spaceScan":0.1,
-		"anchors":["background" ]
+		"anchors":["background"]
 	}
 	]
 }

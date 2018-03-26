@@ -5,9 +5,9 @@
 },{
 "op":"add",
 "path":"/kazdraStarterTreasure/0/1/fill/-",
-"value":{"item":["kazclaw", 1]}
+"value":{"item":["kazclaw",1]}
 },{
 "op":"add",
 "path":"/kazdraStarterTreasure/0/1/fill/-",
-"value":{"item":["kazclaw", 1]}
+"value":{"item":["kazclaw",1]}
 }]

@@ -9,14 +9,12 @@
   "animation":"rewardbag.animation",
   "animationCustom":{},
   "scripts":["reward.lua"],
-
   "fireTime":1.0,
-  "fireOffset":[1.0, 0.0],
-
+  "fireOffset":[1.0,0.0],
   "treasure":{
 	"pool":"kazextracteddata",
 	"level":1,
 	"maxlevel":4,
 	"factor":3
- }
+}
 }

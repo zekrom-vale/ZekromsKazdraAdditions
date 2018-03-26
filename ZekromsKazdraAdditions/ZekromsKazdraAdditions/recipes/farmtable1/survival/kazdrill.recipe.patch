@@ -2,8 +2,7 @@
 "op":"replace",
 "path":"/input/1",
 "value":{"item":"liquidresonite","count":20}
-},
-{
+},{
 "op":"replace",
 "path":"/input/2",
 "value":{"item":"liquidkazein","count":45}

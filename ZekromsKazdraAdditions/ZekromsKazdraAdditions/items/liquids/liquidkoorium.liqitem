@@ -5,8 +5,6 @@
   "inventoryIcon":"liquidkooriumicon.png",
   "shortdescription":"Liquid Koorium",
   "description":"This odd liquid absorbs and converts heat into electricity.",
-
   "liquid":"liquidkoorium",
-  
   "price":1
 }

@@ -1,12 +1,11 @@
 {
 	"frameGrid":{
-	"size":[16, 24],
-	"dimensions":[8, 1],
+	"size":[16,24],
+	"dimensions":[8,1],
 	"names":[
-	 ["default.1", "default.2", "default.3", "default.4", "default.5", "default.6", "default.7", "waiting" ]
+	["default.1","default.2","default.3","default.4","default.5","default.6","default.7","waiting"]
 	]
- },
-
+},
 	"aliases":{
 	"default.default":"default.6",
 	"default.7":"default.6",
@@ -20,5 +19,5 @@
 	"default.15":"waiting",
 	"default.16":"waiting",
 	"default.0":"waiting"
- }
+}
 }

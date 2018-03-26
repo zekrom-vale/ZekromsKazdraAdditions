@@ -8,49 +8,41 @@
 	"printable":false,
 	"category":"spawner",
 	"price":300,
-
 	"apexDescription":"Spawning dragons? Um... Yes please!",
 	"avianDescription":"This will allow me to summon a kindred spirit.",
 	"floranDescription":"Floran sssummon myssteriousss wingy lizardsss!",
 	"glitchDescription":"Devious. Maybe if I put this in the arena...",
 	"humanDescription":"Time to burninate!",
 	"hylotlDescription":"I am curious about these 'dragons.' I suppose a few couldn't hurt.",
-
 	"inventoryIcon":"defaulticon.png",
 	"orientations":[
 	{
 		"image":"spawneggkazdramerchant.png",
-		"imagePosition":[-8, -8],
+		"imagePosition":[-8,-8],
 		"animationCycle":1.1,
 		"frames":1,
 		"spaceScan":0.1,
-		"anchors":["bottom" ]
+		"anchors":["bottom"]
 	}
 	],
-
-	"scripts":["/objects/spawner/spawners/spawner.lua" ],
+	"scripts":["/objects/spawner/spawners/spawner.lua"],
 	"scriptDelta":1,
-	"animationPosition":[-8, -8],
-
+	"animationPosition":[-8,-8],
 	"animation":"/objects/spawner/disposable/spawner1.animation",
-
 	"animationParts":{
 	"switch":"spawneggkazdramerchant.png"
- },
-	
+},
 	"inputNodes":[],
 	"outputNodes":[],
-
 	"spawner":{
 	"searchRadius":32.0,
-	"npcSpeciesOptions":["kazdra" ],
-	"npcTypeOptions":["merchant" ],
+	"npcSpeciesOptions":["kazdra"],
+	"npcTypeOptions":["merchant"],
 	"npcParameterOptions":[
-	 {
+	{
 		"dropPools":[]
-	 }
+	}
 	]
- },
+},
 	"smashOnBreak":true
-
 }

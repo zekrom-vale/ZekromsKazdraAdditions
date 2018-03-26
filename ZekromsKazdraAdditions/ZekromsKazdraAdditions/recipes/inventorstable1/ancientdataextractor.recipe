@@ -1,14 +1,10 @@
 {
   "input":[
-	{"item":"resonite", "count":20},
-	{"item":"zoastone", "count":20},
-	{"item":"ironbar", "count":5},
-	{"item":"kazein", "count":10},
-	{"item":"diamond", "count":2}
-  ],
+	{"item":"resonite","count":20},{"item":"zoastone","count":20},{"item":"ironbar","count":5},{"item":"kazein","count":10},{"item":"diamond","count":2}
+ ],
   "output":{
 	"item":"ancientdataextractor",
 	"count":1
- },
-  "groups":["inventorstable", "craftingstations", "all" ]
+},
+  "groups":["inventorstable","craftingstations","all"]
 }

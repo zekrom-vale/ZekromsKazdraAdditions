@@ -1,8 +1,7 @@
 {
   "input":[
-	{"item":"resonite", "count":1},
-	{"item":"kazcloth", "count":10}
-  ],
-  "output":{"item":"kazyellowflag2", "count":1},
-  "groups":["craftingwheel", "ingredients" ]
+	{"item":"resonite","count":1},{"item":"kazcloth","count":10}
+ ],
+  "output":{"item":"kazyellowflag2","count":1},
+  "groups":["craftingwheel","ingredients"]
 }

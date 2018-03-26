@@ -9,15 +9,14 @@
 			"cycle":0.5,
 			"mode":"loop",
 			"properties":{
-				"lightsOn":["fireglow" ],
+				"lightsOn":["fireglow"],
 				"persistentSound":"/sfx/objects/campfire.ogg",
 				"persistentSoundRangeMultiplier":0.5
 			}
-		 }
 		}
-	 }
+		}
+	}
 	},
-
 	"parts":{
 		"chassis":{
 		"properties":{
@@ -28,12 +27,11 @@
 			"stone":{
 				"properties":{
 				"image":"crystalliquefierlit.png:<color>.<frame>"
-			 }
 			}
-		 }
+			}
 		}
-	 },
-
+		}
+	},
 		"fire":{
 		"properties":{
 			"centered":true,
@@ -44,29 +42,27 @@
 			"stone":{
 				"properties":{
 				"image":"crystalliquefier.png:<color>.<frame>"
-			 }
 			}
-		 }
+			}
 		}
-	 }
+		}
 	}
- },
-
+	}
+},
 	"sounds":{
 	"fanfare":["/sfx/cinematics/mission_unlock_event.ogg"],
 	"fanfare2":["/sfx/cinematics/license_acquired_event.ogg"]
- },
-
+},
 	"lights":{
 	"fireglow":{
 		"active":false,
-		"position":[0, 1],
-		"color":[153, 128, 92],
+		"position":[0,1],
+		"color":[153,128,92],
 		"flickerPeriod":0.3,
 		"flickerMinIntensity":0.95,
 		"flickerMaxIntensity":1,
 		"flickerPeriodVariance":0.075,
 		"flickerIntensityVariance":0.025
 	}
- }
+}
 }

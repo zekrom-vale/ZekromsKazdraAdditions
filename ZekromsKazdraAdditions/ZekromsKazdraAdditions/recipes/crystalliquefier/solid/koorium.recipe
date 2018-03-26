@@ -1,11 +1,11 @@
 {
   "input":[
-	{"item":"liquidkoorium", "count":10}
-  ],
+	{"item":"liquidkoorium","count":10}
+ ],
   "output":{
 	"item":"koorium",
 	"count":1
- },
+},
   "duration":0,
-  "groups":["crystalliquefier", "solid" ]
+  "groups":["crystalliquefier","solid"]
 }

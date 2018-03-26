@@ -2,13 +2,11 @@
 "op":"replace",
 "path":"/input/2",
 "value":{"item":"liquidresonite","count":25}
-},
-{
+},{
 "op":"replace",
 "path":"/input/3",
 "value":{"item":"liquidhiron","count":50}
-},
-{
+},{
 "op":"replace",
 "path":"/input/4",
 "value":{"item":"kazein","count":45}

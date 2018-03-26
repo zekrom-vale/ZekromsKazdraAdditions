@@ -1,11 +1,11 @@
 {
   "input":[
-	{"item":"ancientkazdatacrystal", "count":1}
-  ],
+	{"item":"ancientkazdatacrystal","count":1}
+ ],
   "output":{
 	"item":"kazextracteddata",
 	"count":1
- },
+},
   "duration":1,
-  "groups":["ancientdataextractor" ]
+  "groups":["ancientdataextractor"]
 }

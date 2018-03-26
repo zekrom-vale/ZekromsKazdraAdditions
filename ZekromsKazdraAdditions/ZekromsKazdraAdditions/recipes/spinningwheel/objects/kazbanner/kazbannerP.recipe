@@ -1,8 +1,7 @@
 {
   "input":[
-	{"item":"resonite", "count":1},
-	{"item":"kazcloth", "count":6}
-  ],
-  "output":{"item":"kazbannerP", "count":1},
-  "groups":["craftingwheel", "ingredients" ]
+	{"item":"resonite","count":1},{"item":"kazcloth","count":6}
+ ],
+  "output":{"item":"kazbannerP","count":1},
+  "groups":["craftingwheel","ingredients"]
 }

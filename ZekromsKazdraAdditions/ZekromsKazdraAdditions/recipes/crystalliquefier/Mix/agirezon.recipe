@@ -1,12 +1,11 @@
 {
   "input":[
-	{"item":"liquidresonite", "count":12},
-	{"item":"liquidzoastone", "count":2}
-  ],
+	{"item":"liquidresonite","count":12},{"item":"liquidzoastone","count":2}
+ ],
   "output":{
 	"item":"liquidagirezon",
 	"count":1
- },
+},
   "duration":0,
-  "groups":["crystalliquefier", "mix" ]
+  "groups":["crystalliquefier","mix"]
 }

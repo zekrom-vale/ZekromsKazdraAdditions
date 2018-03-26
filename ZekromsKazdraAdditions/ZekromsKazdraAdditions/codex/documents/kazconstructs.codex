@@ -11,9 +11,9 @@
 	"There have only been a few of them seen so far, a few brave pioneers I assume. Once they perfect their spacecraft, we could very well start to see Kazdran colonies in the near future.",
 	"-Vawlern Windwing <Data corrupted>"
 	//Data from https://community.playstarbound.com/resources/the-kazdra.1991
-  ],
+ ],
 	"itemConfig":{
 	"rarity":"common",
 	"price":25
- }
+}
 }

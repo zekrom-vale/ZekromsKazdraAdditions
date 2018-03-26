@@ -9,7 +9,6 @@
   "tooltipKind":"gun",
   "category":"uniqueWeapon",
   "itemTags":["weapon","ranged"],
-
   "inventoryIcon":"frostbreath.png",
   "animation":"/items/active/weapons/ranged/gun.animation",
   "animationParts":{
@@ -17,26 +16,22 @@
 	"middle":"",
 	"barrel":"",
 	"muzzleFlash":""
- },
+},
   "animationCustom":{
 	"sounds":{
-	  "fireStart":["/sfx/gun/flamethrower_start.ogg" ],
-	  "fireLoop":["/sfx/gun/flamethrower_loop.ogg" ],
-	  "fireEnd":["/sfx/gun/flamethrower_stop.ogg" ]
+	  "fireStart":["/sfx/gun/flamethrower_start.ogg"],
+	  "fireLoop":["/sfx/gun/flamethrower_loop.ogg"],
+	  "fireEnd":["/sfx/gun/flamethrower_stop.ogg"]
 	}
- },
-  "baseOffset":[0.2, 1],
-  "muzzleOffset":[0, 0],
-
+},
+  "baseOffset":[0.2,1],
+  "muzzleOffset":[0,0],
   "scripts":["/items/active/weapons/ranged/gun.lua"],
-
   "elementalType":"ice",
-
   "primaryAbilityType":"icethrower",
   "primaryAbility":{
 	"baseDps":4,
 	"energyUsage":8
- },
-
+},
   "builder":"/items/buildscripts/buildunrandweapon.lua"
 }

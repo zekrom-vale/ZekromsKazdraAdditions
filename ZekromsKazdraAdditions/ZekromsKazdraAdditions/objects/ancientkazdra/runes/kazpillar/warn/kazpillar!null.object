@@ -7,16 +7,14 @@
 	"race":"kazdra",
 	"category":"furniture",
 	"price":400,
-	
 	"defaultDescription":"It seems to warn about an null based hazard.",
-
 	"inventoryIcon":"kazpillar!null.png",
 	"orientations":[
 	{
 		"dualImage":"kazpillar!null.png",
-		"imagePosition":[0, 0],
+		"imagePosition":[0,0],
 		"spaceScan":0.1,
-		"anchors":["bottom" ]
+		"anchors":["bottom"]
 	}
 	]
 }

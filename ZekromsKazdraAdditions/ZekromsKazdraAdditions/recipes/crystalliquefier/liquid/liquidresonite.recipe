@@ -1,12 +1,11 @@
 {
   "input":[
-	{"item":"resonite", "count":1},
-	{"item":"liquidlava", "count":5}
-  ],
+	{"item":"resonite","count":1},{"item":"liquidlava","count":5}
+ ],
   "output":{
 	"item":"liquidresonite",
 	"count":10
- },
+},
   "duration":0,
-  "groups":["crystalliquefier", "liquids" ]
+  "groups":["crystalliquefier","liquids"]
 }

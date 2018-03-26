@@ -4,22 +4,20 @@
 "value":[
 	[0,{
 		"pool":[
-			{"weight":1, "item":["electricbreath", 1]},
-			{"weight":1, "item":["firebreath", 1]},
-			{"weight":1, "item":["frostbreath", 1]}
+			{"weight":1,"item":["electricbreath",1]},{"weight":1,"item":["firebreath",1]},{"weight":1,"item":["frostbreath",1]}
 		]
 	}]
 ]
 },{
 "op":"add",
 "path":"/kazcostume/0/1/-",
-"value":{"weight":0.00004, "item":"zekromhead"}
+"value":{"weight":0.00004,"item":"zekromhead"}
 },{
 "op":"add",
 "path":"/kazcostume/0/1/-",
-"value":{"weight":0.00003, "item":"zekromchest"}
+"value":{"weight":0.00003,"item":"zekromchest"}
 },{
 "op":"add",
 "path":"/kazcostume/0/1/-",
-"value":{"weight":0.00003, "item":"zekrompants"}
+"value":{"weight":0.00003,"item":"zekrompants"}
 }]

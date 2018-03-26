@@ -7,7 +7,6 @@
 	"race":"kazdra",
 	"category":"furniture",
 	"price":500,
-
 	"apexDescription":"A kazdra flag.",
 	"avianDescription":"My brothers must be near!",
 	"floranDescription":"Neeet flagg.",
@@ -15,20 +14,18 @@
 	"humanDescription":"This flag is made with crystal?!",
 	"hylotlDescription":"The flag looks so strong!",
 	"kazdraDescription":"Just a common flag.",
-
 	"inventoryIcon":"kazpurpleflagicon.png",
 	"orientations":[
 	{
 		"dualImage":"kazpurpleflag2.png",
-		"imagePosition":[0, 0],
+		"imagePosition":[0,0],
 		"spaceScan":0.1,
-		"anchors":["background" ]
-	},
-	{
+		"anchors":["background"]
+	},{
 		"dualImage":"kazpurpleflag2.png",
-		"imagePosition":[0, 0],
+		"imagePosition":[0,0],
 		"spaceScan":0.1,
-		"anchors":["top" ]
+		"anchors":["top"]
 	}
 	]
 }

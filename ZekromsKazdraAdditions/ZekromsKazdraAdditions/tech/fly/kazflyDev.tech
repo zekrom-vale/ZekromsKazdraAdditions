@@ -1,15 +1,12 @@
 {
   "name":"kazflyDev",
   "type":"legs",
-
   "scripts":["kazfly.lua"],
   "animator":"kazfly.animation",
-
   "description":"Use your wings to fly!  Just don't die...",
   "shortDescription":"Dev Flight",
   "rarity":"Legendary",
   "icon":"/tech/kazfly.png",
-
   "chipCost":3000,
   "energyCostPerSecond":60,
   "chargeTime":0.5,
@@ -20,9 +17,9 @@
   fall/up Chance
   -1 is never
   larger is more infrequent
-  only works on idle (if defaultDirection[2] == 0) and right / left
+  only works on idle (if defaultDirection[2]== 0) and right / left
 */
-  "fallChance":-1,  
+  "fallChance":-1,
   "riseChance":-1,
   "magnitude":0
 }

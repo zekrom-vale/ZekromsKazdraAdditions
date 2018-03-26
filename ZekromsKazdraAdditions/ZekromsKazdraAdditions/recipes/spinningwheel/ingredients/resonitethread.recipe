@@ -1,7 +1,7 @@
 {
   "input":[
-	{"item":"resonite", "count":1}
-  ],
-  "output":{"item":"resonitethread", "count":4},
-  "groups":["craftingwheel", "ingredients" ]
+	{"item":"resonite","count":1}
+ ],
+  "output":{"item":"resonitethread","count":4},
+  "groups":["craftingwheel","ingredients"]
 }

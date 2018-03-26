@@ -7,16 +7,15 @@
 		"priority":1.0,
 		"variants":1,
 		"distribution":"/biomes/distributions.config:undergroundCrops",
-
 		"type":"object",
 		"objectSets":[
-		 {
-			"pool":[[0.1, "hironseed" ],[0.2, "resoniteseed" ],[0.11, "zoastoneseed" ],[0.17, "rootpopseed" ] ],
+		{
+			"pool":[[0.1,"hironseed"],[0.2,"resoniteseed"],[0.11,"zoastoneseed"],[0.17,"rootpopseed"]],
 			"parameters":{
 	   			"startingStage":4
 			}
-		 }
+		}
 		]
-	 }
+	}
 }
 ]

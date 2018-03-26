@@ -1,8 +1,8 @@
 {
   "input":[
-	{"item":"rock19", "count":80}
-  ],
-  "output":{"item":"kazpillar!env", "count":1},
+	{"item":"rock19","count":80}
+ ],
+  "output":{"item":"kazpillar!env","count":1},
   "duration":0,
-  "groups":["kazancienttable" ]
+  "groups":["kazancienttable"]
 }

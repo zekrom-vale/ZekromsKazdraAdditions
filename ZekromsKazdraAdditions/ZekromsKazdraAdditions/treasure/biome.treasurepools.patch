@@ -1,9 +1,9 @@
 [{
 "op":"add",
 "path":"/volcanicTreasure/0/1/pool/-",
-"value":{"weight":0.5, "item":"ancientkazdatacrystal"}
+"value":{"weight":0.5,"item":"ancientkazdatacrystal"}
 },{
 "op":"add",
 "path":"/desertTreasure/0/1/pool/-",
-"value":{"weight":0.7, "item":"ancientkazdatacrystal"}
+"value":{"weight":0.7,"item":"ancientkazdatacrystal"}
 }]

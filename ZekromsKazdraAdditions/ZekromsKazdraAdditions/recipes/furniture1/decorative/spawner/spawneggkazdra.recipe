@@ -1,11 +1,10 @@
 {
   "input":[
-	{"item":"resonite", "count":4},
-	{"item":"goldbar", "count":1}
-  ],
+	{"item":"resonite","count":4},{"item":"goldbar","count":1}
+ ],
   "output":{
 	"item":"spawneggkazdra",
 	"count":1
- },
-  "groups":["craftingfurniture", "decoration", "all" ]
+},
+  "groups":["craftingfurniture","decoration","all"]
 }

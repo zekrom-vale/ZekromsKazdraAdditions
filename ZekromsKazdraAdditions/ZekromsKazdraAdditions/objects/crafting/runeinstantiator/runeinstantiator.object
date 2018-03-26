@@ -9,8 +9,8 @@
 	"interactAction":"OpenCraftingInterface",
 	"interactData":{
 	"config":"/interface/windowconfig/runeinstantiator.config",
-	"filter":["runeinstantiator" ]
- },
+	"filter":["runeinstantiator"]
+},
 	"price":40000,
 	"printable":false,
 	"defaultDescription":"A device for creating runes.",
@@ -21,11 +21,9 @@
 	"humanDescription":"A liquefying furnace. Looks hot.",
 	"hylotlDescription":"A hot, imposing furnace.",
 	"novakidDescription":"Basic lookin' furnace, for liquefyin' crystals.",*/
-
 	"inventoryIcon":"runeinstantiator.png:default.default",
 	"placementImage":"runeinstantiator.png:default.default",
-	"placementImagePosition":[0, 0],
-	
+	"placementImagePosition":[0,0],
 	"learnBlueprintsOnPickup":[
 	"runeaga",
 	"runedras",
@@ -58,7 +56,6 @@
 	"runezuu",
 	"runezweh",
 	"runezyph",
-	
 	"runemodall",
 	"runemodbottom",
 	"runemoddot",
@@ -69,7 +66,6 @@
 	"runemodsome",
 	"runemodstamp",
 	"runemodtop",
-	
 	"runepunctuationbottomquote",
 	"runepunctuationbracket",
 	"runepunctuationcolon",
@@ -79,26 +75,24 @@
 	"runepunctuationnumber",
 	"runepunctuationquote"
 	],
-
 	"orientations":[
 	{
-		"imageLayers":[{"image":"runeinstantiator.png:default.<frame>", "fullbright":true},{"image":"runeinstantiatorlit.png:default.<frame>"}],
-		"imagePosition":[0, 0],
+		"imageLayers":[{"image":"runeinstantiator.png:default.<frame>","fullbright":true},{"image":"runeinstantiatorlit.png:default.<frame>"}],
+		"imagePosition":[0,0],
 		"frames":30,
-		"animationCycle":20,	
+		"animationCycle":20,
 		"direction":"left",
 		"flipImages":true,
 		"spaceScan":0.1,
-		"anchors":["bottom" ]
-	},
-	{
-		"imageLayers":[{"image":"runeinstantiator.png:default.<frame>", "fullbright":true},{"image":"runeinstantiatorlit.png:default.<frame>"}],
-		"imagePosition":[0, 0],
+		"anchors":["bottom"]
+	},{
+		"imageLayers":[{"image":"runeinstantiator.png:default.<frame>","fullbright":true},{"image":"runeinstantiatorlit.png:default.<frame>"}],
+		"imagePosition":[0,0],
 		"frames":30,
-		"animationCycle":20,	
+		"animationCycle":20,
 		"direction":"right",
 		"spaceScan":0.1,
-		"anchors":["bottom" ]
+		"anchors":["bottom"]
 	}
 	]
 }

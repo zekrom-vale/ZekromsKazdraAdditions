@@ -1,5 +1,5 @@
 [{
 "op":"replace",
 "path":"/input/1",
-"value":{"item":"liquidresonite", "count":15}
+"value":{"item":"liquidresonite","count":15}
 }]

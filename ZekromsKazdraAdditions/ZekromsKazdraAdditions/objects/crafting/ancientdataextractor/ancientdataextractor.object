@@ -7,7 +7,6 @@
 	"shortdescription":"^orange;Ancient Data Extractor^white;",
 	"objectType":"container",
 	"race":"kazdra",
-	
 	"price":40000,
 	"printable":false,
 	"defaultDescription":"A device for extracting ancient data crystals.",
@@ -18,39 +17,34 @@
 	"humanDescription":"A liquefying furnace. Looks hot.",
 	"hylotlDescription":"A hot, imposing furnace.",
 	"novakidDescription":"Basic lookin' furnace, for liquefyin' crystals.",*/
-
 	"inventoryIcon":"ancientdataextractor.png:default.default",
 	"placementImage":"ancientdataextractor.png:default.default",
-	"placementImagePosition":[0, 0],
-	
+	"placementImagePosition":[0,0],
 	"learnBlueprintsOnPickup":[],
-
 	"orientations":[
 	{
 		"image":"ancientdataextractor.png:default.<frame>",
-		"imagePosition":[0, 0],
+		"imagePosition":[0,0],
 		"frames":17,
-		"animationCycle":8,	
+		"animationCycle":8,
 		"direction":"left",
 		"flipImages":true,
 		"spaceScan":0.1,
-		"anchors":["bottom" ]
-	},
-	{
+		"anchors":["bottom"]
+	},{
 		"image":"ancientdataextractor.png:default.<frame>",
-		"imagePosition":[0, 0],
+		"imagePosition":[0,0],
 		"frames":17,
-		"animationCycle":8,	
+		"animationCycle":8,
 		"direction":"right",
 		"spaceScan":0.1,
-		"anchors":["bottom" ]
+		"anchors":["bottom"]
 	}
 	],
 	"soundEffect":"/sfx/objects/campfire.ogg",
 	"soundEffectRangeMultiplier":0.5,
-	
 	"recipeGroup":"ancientdataextractor",
-	"openSounds":["/sfx/objects/campfire_use.ogg" ],
+	"openSounds":["/sfx/objects/campfire_use.ogg"],
 	"slotCount":2,
 	"uiConfig":"/interface/objectcrafting/ancientdataextractor.config",
 	"frameCooldown":5,

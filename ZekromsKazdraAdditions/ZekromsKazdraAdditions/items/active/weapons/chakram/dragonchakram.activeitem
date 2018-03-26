@@ -9,41 +9,35 @@
   "tooltipKind":"base",
   "twoHanded":false,
   "itemTags":["weapon","upgradeableWeapon"],
-
   "inventoryIcon":"dragonchakram.png",
   "animation":"chakram.animation",
   "animationParts":{
 	"chakram":"dragonchakram.png"
- },
+},
   "animationCustom":{
 	"sounds":{
-	  "throw":["/sfx/melee/swing_broadsword.ogg" ]
+	  "throw":["/sfx/melee/swing_broadsword.ogg"]
 	}
- },
+},
   "scripts":["/items/active/weapons/boomerang/boomerang.lua"],
-  "fireOffset":[1.25, 0.5],
-
+  "fireOffset":[1.25,0.5],
   "cooldownTime":0.6,
-
   "projectileType":"hardchakram",
   "projectileParameters":{
 	"knockback":12,
 	"power":7.0,
 	"damageRepeatTimeout":0.5,
-
 	"returnOnHit":false,
 	"pickupDistance":1.1,
-
 	"maxDistance":6
- },
+},
   "level":5,
-
   "stances":{
 	"idle":{
 	  "armRotation":-20,
 	  "animationState":{
 		"weapon":"visible"
-	 },
+	},
 	  "allowRotate":true,
 	  "allowFlip":true
 	},
@@ -54,7 +48,7 @@
 	  "armRotation":70,
 	  "animationState":{
 		"weapon":"visible"
-	 },
+	},
 	  "allowRotate":false,
 	  "allowFlip":false
 	},
@@ -62,7 +56,7 @@
 	  "armRotation":0,
 	  "animationState":{
 		"weapon":"hidden"
-	 },
+	},
 	  "allowRotate":true,
 	  "allowFlip":true
 	},
@@ -72,12 +66,11 @@
 	  "armRotation":60,
 	  "animationState":{
 		"weapon":"visible"
-	 },
+	},
 	  "allowRotate":false,
 	  "allowFlip":true
 	}
- },
-
+},
   "upgradeParameters":{
 	"inventoryIcon":"dragonchakram_l6.png",
 	"projectileType":"dragonchakram_l6",
@@ -85,5 +78,5 @@
 	  "chakram":"dragonchakram_l6.png"
 	},
 	"shortdescription":"Dragon Chakram ^yellow;^reset;"
- }
+}
 }

@@ -1,9 +1,7 @@
 {
   "input":[
-	{"item":"solariumstar", "count":20},
-	{"item":"hiron", "count":20},
-	{"item":"kazdratier5rhead", "count":1}
-  ],
-  "output":{"item":"kazdratier6rhead", "count":1},
-  "groups":["craftinganvil3", "armours", "all" ]
+	{"item":"solariumstar","count":20},{"item":"hiron","count":20},{"item":"kazdratier5rhead","count":1}
+ ],
+  "output":{"item":"kazdratier6rhead","count":1},
+  "groups":["craftinganvil3","armours","all"]
 }
