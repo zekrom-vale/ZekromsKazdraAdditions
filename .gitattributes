@@ -1,34 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-#JSON
-*.biome text eol=lf
-*.codex text eol=lf
-*.config text eol=lf
-*.activeitem text eol=lf
-*.chest text eol=lf
-*.head text eol=lf
-*.legs text eol=lf
-*.currency text eol=lf
-*.item text eol=lf
-*.animation text eol=lf
-*.consumable text eol=lf
-*.liqitem text eol=lf
-*.frames text eol=lf
-*.liquid text eol=lf
-*.namesource text eol=lf
-*.npctype text eol=lf
-*.object text eol=lf
-*.questtemplate text eol=lf
-*.recipe text eol=lf
-*.species text eol=lf
-*.tech text eol=lf
-*.tenant text eol=lf
-*.material text eol=lf
-*.treasurepools text eol=lf
-*.vehicle text eol=lf
-*.patch text eol=lf
-
 # Custom for Visual Studio
 *.cs     diff=csharp
 
@@ -45,6 +17,7 @@
 *.RTF	 diff=astextplain
 
 $ cat .gitattributes
+*.patch linguist-detectable=true
 *.biome linguist-detectable=true
 *.codex linguist-detectable=true
 *.config linguist-detectable=true
@@ -71,6 +44,7 @@ $ cat .gitattributes
 *.treasurepools linguist-detectable=true
 *.vehicle linguist-detectable=true
 
+*.patch linguist-language=Diff
 *.biome linguist-language=JSON
 *.codex linguist-language=JSON
 *.config linguist-language=JSON
