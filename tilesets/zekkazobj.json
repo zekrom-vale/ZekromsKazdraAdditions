@@ -1,94 +1,93 @@
-{ "columns":0,
+{"columns":0,
  "margin":0,
  "name":"Zekrom's Kazdra Obj",
  "spacing":0,
  "tilecount":6,
  "tileheight":248,
  "tileproperties":
-    {
+   {
      "0":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"ancientdataextractor",
          "tilesetDirection":"right"
-        },
-     
+       },
      "1":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"crystalliquefier",
          "tilesetDirection":"right"
-        },
+       },
      "2":
-        {
+       {
          "imagePositionX":"-16",
          "imagePositionY":"0",
          "object":"kazancienttable",
          "tilesetDirection":"right"
-        },
+       },
      "3":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"kazskull",
          "tilesetDirection":"right"
-        },
+       },
      "4":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"rootpopseed",
          "tilesetDirection":"right"
-        },
+       },
      "5":
-        {
+       {
          "imagePositionX":"0",
          "imagePositionY":"-16",
          "object":"runeinstantiator",
          "tilesetDirection":"right"
-        }
-    },
+       }
+   },
  "tiles":
-    {
+   {
      "0":
-        {
+       {
          "image":"../tiled/objects/ancientdataextractor.png",
          "imageheight":23,
          "imagewidth":16
-        },
+       },
      "1":
-        {
+       {
          "image":"../tiled/objects/crystalliquefier.png",
          "imageheight":24,
          "imagewidth":24
-        },
+       },
      "2":
-        {
+       {
          "image":"../tiled/objects/kazancienttable.png",
          "imageheight":35,
          "imagewidth":32
-        },
+       },
      "3":
-        {
+       {
          "image":"../tiled/objects/kazskull.png",
          "imageheight":16,
          "imagewidth":24
-        },
+       },
      "4":
-        {
+       {
          "image":"../tiled/objects/rootpopseed.png",
          "imageheight":32,
          "imagewidth":16
-        },
+       },
      "5":
-        {
+       {
          "image":"../tiled/objects/runeinstantiator.png",
          "imageheight":32,
          "imagewidth":40
-        }
-    },
+       }
+   },
  "tilewidth":208,
  "type":"tileset"
 }

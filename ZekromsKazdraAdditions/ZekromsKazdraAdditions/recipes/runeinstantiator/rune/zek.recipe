@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"kazblackchalk","count":46},{"item":"kazwhitechalk","count":36}
- ],
+],
   "output":{"item":"runezek","count":1},
   "duration":0,
   "groups":["runeinstantiator","rune"]

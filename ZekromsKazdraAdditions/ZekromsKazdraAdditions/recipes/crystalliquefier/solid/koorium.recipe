@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"liquidkoorium","count":10}
- ],
+],
   "output":{
 	"item":"koorium",
 	"count":1

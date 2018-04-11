@@ -1,12 +1,11 @@
 {
   "id":"techscientistKazfly",
-  "prerequisites":["techscientist6" ],
+  "prerequisites":["techscientist6"],
   "title":"^orange;Get Flying",
   "text":"The ^orange;tech^white; I'm working on now is truly fantastic! It enables Kazdra to fly!!. I need some final components to finish it. ^green;Could you bring me ^orange;5 diamonds^white;?",
   "completionText":"Excellent! The ^orange;Kazdra Flight Tech^white; performed just as I'd hoped it would. Please, keep it - thanks to you I've been able to make significant strides in my research!",
-  "moneyRange":[400, 400],
+  "moneyRange":[400,400],
   "rewards":[],
-
   "updateDelta":10,
   "script":"/quests/scripts/main.lua",
   "scriptConfig":{
@@ -14,24 +13,23 @@
 	  "questStarted":{
 		"portrait":[{"image":"/objects/outpost/techlab/techlabscientistportrait.png"}],
 		"title":"Elliott"
-	 },
+	},
 	  "questComplete":{
 		"portrait":[{"image":"/objects/outpost/techlab/techlabscientistportrait.png"}],
 		"title":"Elliott"
-	 }
+	}
 	},
 	"requireTurnIn":true,
 	"conditions":[
-	 {
+	{
 		"type":"gatherItem",
 		"itemName":"diamond",
 		"count":5,
 		"consume":true
-	 }
+	}
 	],
-
 	"equipTech":[
 	  "kazfly"
 	]
- }
+}
 }

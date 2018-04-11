@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"liquidhiron","count":10}
- ],
+],
   "output":{
 	"item":"hiron",
 	"count":1

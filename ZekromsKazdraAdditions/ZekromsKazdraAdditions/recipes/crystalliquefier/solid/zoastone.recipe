@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"liquidzoastone","count":10}
- ],
+],
   "output":{
 	"item":"zoastone",
 	"count":1

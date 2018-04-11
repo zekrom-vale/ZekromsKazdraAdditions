@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"liquidresonite","count":12},{"item":"liquidzoastone","count":2}
- ],
+],
   "output":{
 	"item":"liquidagirezon",
 	"count":1

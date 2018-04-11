@@ -29,7 +29,7 @@
 	  "stat":"maxHealth",
 	  "amount":4
 	}
- ],
+],
   "statusEffects":[
 	{
 	  "stat":"energyRegenPercentageRate",
@@ -38,7 +38,7 @@
 	  "stat":"lowgrav",
 	  "baseMultiplier":10
 	}
- ],
+],
   "itemTags":["tier6armour"],
   "colorOptions":[
 	/* GREY */
@@ -65,5 +65,5 @@
 	{"ffca8a":"eab3db","e0975c":"d35eae","a85636":"97276d","6f2919":"59163f"},
 	/* BROWN */
 	{"ffca8a":"ccae7c","e0975c":"a47844","a85636":"754c23","6f2919":"472b13"}
- ]
+]
 }

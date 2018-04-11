@@ -7,7 +7,6 @@
   "shortdescription":"Starbound Experiment",
   "race":"human",
   "printable":false,
-  
   "apexDescription":"...",
   "avianDescription":"...",
   "floranDescription":"...",
@@ -15,14 +14,13 @@
   "humanDescription":"...",
   "hylotlDescription":"...",
   "novakidDescription":"...",
-
   "inventoryIcon":"icon.png",
   "orientations":[
 	{
 	  "dualImage":"loadinglogo.png:<color>.<frame>",
 	  "frames":30,
 	  "animationCycle":3.2,
-	  "anchors":["bottom" ]
+	  "anchors":["bottom"]
 	}
-  ]
+ ]
 }

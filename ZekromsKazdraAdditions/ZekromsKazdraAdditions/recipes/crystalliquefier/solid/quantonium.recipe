@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"liquidquantonium","count":10}
- ],
+],
   "output":{
 	"item":"quantonium",
 	"count":1

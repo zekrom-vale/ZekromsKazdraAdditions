@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"agirezon","count":1},{"item":"liquidlava","count":6}
- ],
+],
   "output":{
 	"item":"liquidagirezon",
 	"count":10

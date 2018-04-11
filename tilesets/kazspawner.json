@@ -1,80 +1,80 @@
-{ "columns":0,
+{"columns":0,
  "margin":0,
  "name":"Kazdra spawners",
  "spacing":0,
  "tilecount":5,
  "tileheight":248,
  "tileproperties":
-    {
+   {
      "0":
-        {
+       {
          "imagePositionX":"-16",
          "imagePositionY":"0",
          "object":"spawneggkazdra",
          "tilesetDirection":"right"
-        },
+       },
      "1":
-        {
+       {
          "imagePositionX":"-16",
          "imagePositionY":"0",
          "object":"spawneggkazdraguard",
          "tilesetDirection":"right"
-        },
+       },
      "2":
-        {
+       {
          "imagePositionX":"-16",
          "imagePositionY":"0",
          "object":"spawneggkazdramerchant",
          "tilesetDirection":"right"
-        },
+       },
      "3":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"spawnerkazdraguard",
          "tilesetDirection":"right"
-        },
+       },
      "4":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"spawnerkazdramerchant",
          "tilesetDirection":"right"
-        }
-    },
+       }
+   },
  "tiles":
-    {
+   {
      "0":
-        {
+       {
          "image":"../tiled/objects/spawner/spawneggkazdra.png",
          "imageheight":24,
          "imagewidth":32
-        },
+       },
 	"1":
-        {
+       {
          "image":"../tiled/objects/spawner/spawneggkazdraguard.png",
          "imageheight":24,
          "imagewidth":32
-        },
+       },
      "2":
-        {
+       {
          "image":"../tiled/objects/spawner/spawneggkazdramerchant.png",
          "imageheight":24,
          "imagewidth":32
-        },
+       },
      "3":
-        {
+       {
          "image":"../tiled/objects/spawner/spawnerkazdraguard.png",
          "imageheight":40,
          "imagewidth":16
-        },
+       },
      "4":
-        {
+       {
          "image":"../tiled/objects/spawner/spawnerkazdramerchant.png",
          "imageheight":40,
          "imagewidth":16
-        }
-    },
+       }
+   },
  "tilewidth":208,
  "type":"tileset"
 }

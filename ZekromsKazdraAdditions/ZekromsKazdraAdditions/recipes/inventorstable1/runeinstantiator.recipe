@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"resonite","count":6},{"item":"zoastone","count":4},{"item":"ironbar","count":2},{"item":"clay","count":50}
- ],
+],
   "output":{
 	"item":"runeinstantiator",
 	"count":1

@@ -12,8 +12,7 @@
 	{
 		"effect":"regeneration2",
 		"duration":30
-	},
-	{
+	},{
 		"effect":"overload",
 		"duration":5
 	}

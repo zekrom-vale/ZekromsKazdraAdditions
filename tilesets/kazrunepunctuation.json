@@ -1,119 +1,119 @@
-{ "columns":0,
+{"columns":0,
  "margin":0,
  "name":"Kazdra rune punctuation",
  "spacing":0,
  "tilecount":8,
  "tileheight":248,
  "tileproperties":
-    {
+   {
      "0":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runepunctuationbottomquote",
          "tilesetDirection":"right"
-        },
+       },
 	"1":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runepunctuationbracket",
          "tilesetDirection":"right"
-        },
+       },
 	"2":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runepunctuationcolon",
          "tilesetDirection":"right"
-        },
+       },
 	"3":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runepunctuationcomma",
          "tilesetDirection":"right"
-        },
+       },
 	"4":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runepunctuationexclamation",
          "tilesetDirection":"right"
-        },
+       },
 	"5":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runepunctuationfullstop",
          "tilesetDirection":"right"
-        },
+       },
 	"6":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runepunctuationnumber",
          "tilesetDirection":"right"
-        },
+       },
 	"7":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runepunctuationquote",
          "tilesetDirection":"right"
-        }
-    },
+       }
+   },
  "tiles":
-    {
+   {
      "0":
-        {
+       {
          "image":"../tiled/objects/rune/punctuation/bottomquote.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"1":
-        {
+       {
          "image":"../tiled/objects/rune/punctuation/bracket.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"2":
-        {
+       {
          "image":"../tiled/objects/rune/punctuation/colon.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"3":
-        {
+       {
          "image":"../tiled/objects/rune/punctuation/comma.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"4":
-        {
+       {
          "image":"../tiled/objects/rune/punctuation/exclamation.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"5":
-        {
+       {
          "image":"../tiled/objects/rune/punctuation/fullstop.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"6":
-        {
+       {
          "image":"../tiled/objects/rune/punctuation/number.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"7":
-        {
+       {
          "image":"../tiled/objects/rune/punctuation/quote.png",
          "imageheight":16,
          "imagewidth":16
-        }
-    },
+       }
+   },
  "tilewidth":208,
  "type":"tileset"
 }

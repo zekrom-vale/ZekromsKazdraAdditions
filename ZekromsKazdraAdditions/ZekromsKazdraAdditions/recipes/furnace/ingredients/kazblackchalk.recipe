@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"clay","count":25},{"item":"blackdye","count":2}
- ],
+],
   "output":{
 	"item":"kazblackchalk",
 	"count":9999

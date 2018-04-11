@@ -12,28 +12,22 @@
 	{
 		"effect":"regeneration1",
 		"duration":30
-	},
-	{
+	},{
 		"effect":"levitation",
 		"duration":30
-	},
-	{
+	},{
 		"effect":"overload",
 		"duration":10
-	},
-	{
+	},{
 		"effect":"ghostlyglow",
 		"duration":30
-	},
-	{
+	},{
 		"effect":"foodpoison",
 		"duration":5
-	},
-	{
+	},{
 		"effect":"jumpboost",
 		"duration":30
-	},
-	{
+	},{
 		"effect":"nofalldamage",
 		"duration":45
 	}

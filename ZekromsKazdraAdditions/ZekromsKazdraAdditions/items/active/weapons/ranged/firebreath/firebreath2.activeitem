@@ -41,8 +41,7 @@
 		"inaccuracy":0.008,
 		"baseDamage":3,
 		"fireSound":"fire"
-	},
-	{
+	},{
 		"time":1.0,
 		"energyCost":30,
 		"cooldown":0.5,

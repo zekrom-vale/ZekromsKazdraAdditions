@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"rock19","count":20}
- ],
+],
   "output":{"item":"kazpotsmall","count":1},
   "duration":0,
   "groups":["kazancienttable"]

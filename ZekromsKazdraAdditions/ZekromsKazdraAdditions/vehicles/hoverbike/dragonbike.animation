@@ -345,7 +345,7 @@
   "sounds":{
 	"collisionNotification":["/sfx/tech/hoverbike_bump1.ogg",
 	  "/sfx/tech/hoverbike_bump2.ogg",
-	  "/sfx/tech/hoverbike_bump3.ogg" ],
+	  "/sfx/tech/hoverbike_bump3.ogg"],
 	"collisionDamage":["/sfx/melee/bite_robotic1.ogg"],
    "changeDamageState":["/sfx/gun/grenadeblast_small_fire1.ogg",
 	  "/sfx/gun/grenadeblast_small_fire2.ogg",

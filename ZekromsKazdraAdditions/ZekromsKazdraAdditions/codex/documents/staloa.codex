@@ -8,7 +8,7 @@
 	"Staloa - large, vespertine creatures that mainly feed on the giant insects that dwell in the natural caverns and infest mining tunnels on the kazdra homeworld. native populations tend to nest around dense stalactite and stalagmite clusters, and can be seen (provided you bring a light) gliding from column to column.",
 	"-Hiuki <Data corrupted>"
 	//Data from https://community.playstarbound.com/resources/the-kazdra.1991
- ],
+],
 	"itemConfig":{
 	"rarity":"common",
 	"price":25

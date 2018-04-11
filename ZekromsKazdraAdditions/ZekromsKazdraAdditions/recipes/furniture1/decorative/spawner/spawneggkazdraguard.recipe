@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"resonite","count":10},{"item":"goldbar","count":1},{"item":"silverbar","count":1}
- ],
+],
   "output":{
 	"item":"spawneggkazdraguard",
 	"count":1

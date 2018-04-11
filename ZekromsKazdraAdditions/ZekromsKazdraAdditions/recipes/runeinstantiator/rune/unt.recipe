@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"kazblackchalk","count":52},{"item":"kazwhitechalk","count":4}
- ],
+],
   "output":{"item":"runeunt","count":1},
   "duration":0,
   "groups":["runeinstantiator","rune"]

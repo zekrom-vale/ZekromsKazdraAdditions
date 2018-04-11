@@ -1,340 +1,340 @@
-{ "columns":0,
+{"columns":0,
  "margin":0,
  "name":"Kazdra runes",
  "spacing":0,
  "tilecount":25,
  "tileheight":248,
  "tileproperties":
-    {
+   {
      "0":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runeaga",
          "tilesetDirection":"right"
-        },
+       },
 	"1":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runedras",
          "tilesetDirection":"right"
-        },
+       },
 	"2":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runeenv",
          "tilesetDirection":"right"
-        },
+       },
 	"3":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runegeno",
          "tilesetDirection":"right"
-        },
+       },
 	"4":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runehiro",
          "tilesetDirection":"right"
-        },
+       },
 	"5":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runehul",
          "tilesetDirection":"right"
-        },
+       },
 	"6":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runekah",
          "tilesetDirection":"right"
-        },
+       },
 	"7":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runekaz",
          "tilesetDirection":"right"
-        },
+       },
 	"8":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runekezha",
          "tilesetDirection":"right"
-        },
+       },
 	"9":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runekoor",
          "tilesetDirection":"right"
-        },
+       },
 	"10":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runenull",
          "tilesetDirection":"right"
-        },
+       },
 	"11":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runeprot",
          "tilesetDirection":"right"
-        },
+       },
 	"12":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runequant",
          "tilesetDirection":"right"
-        },
+       },
 	"13":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runereso",
          "tilesetDirection":"right"
-        },
+       },
 	"14":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runeruku",
          "tilesetDirection":"right"
-        },
+       },
 	"15":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runete",
          "tilesetDirection":"right"
-        },
+       },
 	"16":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runeunt",
          "tilesetDirection":"right"
-        },
+       },
 	"17":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runevin",
          "tilesetDirection":"right"
-        },
+       },
 	"18":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runevold",
          "tilesetDirection":"right"
-        },
+       },
 	"19":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runeyron",
          "tilesetDirection":"right"
-        },
+       },
 	"20":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runezek",
          "tilesetDirection":"right"
-        },
+       },
 	"21":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runezoa",
          "tilesetDirection":"right"
-        },
+       },
 	"22":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runezuu",
          "tilesetDirection":"right"
-        },
+       },
 	"23":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runezweh",
          "tilesetDirection":"right"
-        },
+       },
 	"24":
-        {
+       {
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"runezyph",
          "tilesetDirection":"right"
-        }
-    },
+       }
+   },
  "tiles":
-    {
+   {
      "0":
-        {
+       {
          "image":"../tiled/objects/rune/aga.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"1":
-        {
+       {
          "image":"../tiled/objects/rune/dras.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"2":
-        {
+       {
          "image":"../tiled/objects/rune/env.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"3":
-        {
+       {
          "image":"../tiled/objects/rune/geno.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"4":
-        {
+       {
          "image":"../tiled/objects/rune/hiro.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"5":
-        {
+       {
          "image":"../tiled/objects/rune/hul.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"6":
-        {
+       {
          "image":"../tiled/objects/rune/kah.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"7":
-        {
+       {
          "image":"../tiled/objects/rune/kaz.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"8":
-        {
+       {
          "image":"../tiled/objects/rune/kezha.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"9":
-        {
+       {
          "image":"../tiled/objects/rune/koor.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"10":
-        {
+       {
          "image":"../tiled/objects/rune/null.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"11":
-        {
+       {
          "image":"../tiled/objects/rune/prot.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"12":
-        {
+       {
          "image":"../tiled/objects/rune/quant.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"13":
-        {
+       {
          "image":"../tiled/objects/rune/reso.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"14":
-        {
+       {
          "image":"../tiled/objects/rune/ruku.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"15":
-        {
+       {
          "image":"../tiled/objects/rune/te.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"16":
-        {
+       {
          "image":"../tiled/objects/rune/unt.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"17":
-        {
+       {
          "image":"../tiled/objects/rune/vin.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"18":
-        {
+       {
          "image":"../tiled/objects/rune/vold.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"19":
-        {
+       {
          "image":"../tiled/objects/rune/yron.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"20":
-        {
+       {
          "image":"../tiled/objects/rune/zek.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"21":
-        {
+       {
          "image":"../tiled/objects/rune/zoa.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"22":
-        {
+       {
          "image":"../tiled/objects/rune/zuu.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"23":
-        {
+       {
          "image":"../tiled/objects/rune/zweh.png",
          "imageheight":16,
          "imagewidth":16
-        },
+       },
 	"24":
-        {
+       {
          "image":"../tiled/objects/rune/zyph.png",
          "imageheight":16,
          "imagewidth":16
-        }
-    },
+       }
+   },
  "tilewidth":208,
  "type":"tileset"
 }

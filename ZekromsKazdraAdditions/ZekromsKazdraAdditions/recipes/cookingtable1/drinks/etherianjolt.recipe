@@ -1,7 +1,7 @@
 {
   "input":[
 	{"item":"liquidresonite","count":20},{"item":"liquidzoastone","count":20},{"item":"liquidfuel","count":20},{"item":"coalore","count":4}
- ],
+],
   "output":{
 	"item":"etherianjolt",
 	"count":1
