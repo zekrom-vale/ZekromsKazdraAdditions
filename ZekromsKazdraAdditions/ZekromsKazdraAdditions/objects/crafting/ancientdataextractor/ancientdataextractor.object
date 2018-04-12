@@ -10,13 +10,6 @@
 	"price":40000,
 	"printable":false,
 	"defaultDescription":"A device for extracting ancient data crystals.",
-	/*"apexDescription":"A primitive furnace. I can liquefy things here.",
-	"avianDescription":"A furnace perfect for liquefying crystals.",
-	"floranDescription":"Furnace flamess hisss, burn. Floran brave it.",
-	"glitchDescription":"Impressed. This furnace is the perfect temperature for liquefying crystals.",
-	"humanDescription":"A liquefying furnace. Looks hot.",
-	"hylotlDescription":"A hot, imposing furnace.",
-	"novakidDescription":"Basic lookin' furnace, for liquefyin' crystals.",*/
 	"inventoryIcon":"ancientdataextractor.png:default.default",
 	"placementImage":"ancientdataextractor.png:default.default",
 	"placementImagePosition":[0,0],

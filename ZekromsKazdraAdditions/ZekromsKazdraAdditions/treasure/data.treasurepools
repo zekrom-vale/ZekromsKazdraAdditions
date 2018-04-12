@@ -67,7 +67,7 @@
 			//Weapons
 		{"weight":1.0,"item":"kazdratier8dagger-recipe"},{"weight":1.0,"item":"kazdratier8hammer-recipe"},{"weight":1.0,"item":"kazdratier8shortsword-recipe"},{"weight":1.0,"item":"kazdratier8spear-recipe"},{"weight":1.0,"item":"kazdratier8axe-recipe"},{"weight":0.8,"item":"kazdratier9dagger-recipe"},{"weight":0.8,"item":"kazdratier9hammer-recipe"},{"weight":0.8,"item":"kazdratier9shortsword-recipe"},{"weight":0.8,"item":"kazdratier9spear-recipe"},{"weight":0.8,"item":"kazdratier9axe-recipe"},
 			//Armor
-		{"weight":1,"item":"kazdratier5head-recipe"},
+		{"weight":1,"item":"kazdratier5head-recipe"}//,
 		//{"weight":1,"item":"kazdratier5chest-recipe"},{"weight":1,"item":"kazdratier5pants-recipe"},{"weight":0.8,"item":"kazdratier5rhead-recipe"},{"weight":0.8,"item":"kazdratier5rchest-recipe"},{"weight":0.8,"item":"kazdratier5rpants-recipe"},{"weight":0.6,"item":"kazdratier6rhead-recipe"},{"weight":0.6,"item":"kazdratier6rchest-recipe"},{"weight":0.6,"item":"kazdratier6rpants-recipe"},{"weight":0.3,"item":"zekromhead-recipe"},{"weight":0.2,"item":"zekromchest-recipe"},{"weight":0.3,"item":"zekrompants-recipe"}
 	 ],
 	  "poolRounds":[
