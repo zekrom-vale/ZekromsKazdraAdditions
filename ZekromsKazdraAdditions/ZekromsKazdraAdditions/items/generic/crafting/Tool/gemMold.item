@@ -1,0 +1,10 @@
+{
+  "itemName":"gemMold",
+  "rarity":"Common",
+  "price":0,
+  "category":"craftingMaterial",
+  "inventoryIcon":"gemMold.png",
+  "description":"A mold used to cast gems.",
+  "shortdescription":"Gem Mold",
+  "maxStack":9999
+}

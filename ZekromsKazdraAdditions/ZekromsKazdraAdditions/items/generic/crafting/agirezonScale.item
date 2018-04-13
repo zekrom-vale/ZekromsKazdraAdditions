@@ -1,0 +1,9 @@
+{
+  "itemName":"agirezonScale",
+  "rarity":"Uncommon",
+  "price":30,
+  "category":"craftingMaterial",
+  "inventoryIcon":"agirezonScale.png",
+  "description":"A scale made of agirezon.",
+  "shortdescription":"Agirezon Scale"
+}

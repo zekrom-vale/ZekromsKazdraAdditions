@@ -1,0 +1,10 @@
+{
+  "itemName":"kazObsidianShard",
+  "rarity":"Common",
+  "price":0,
+  "category":"craftingMaterial",
+  "inventoryIcon":"kazObsidianShard.png",
+  "description":"A thin shard of obsidian",
+  "shortdescription":"Obsidian Shard",
+  "maxStack":9999
+}

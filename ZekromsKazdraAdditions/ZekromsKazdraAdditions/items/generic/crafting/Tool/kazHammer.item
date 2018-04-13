@@ -1,0 +1,10 @@
+{
+  "itemName":"kazHammer",
+  "rarity":"Common",
+  "price":0,
+  "category":"craftingMaterial",
+  "inventoryIcon":"kazHammer.png",
+  "description":"A tool used to smash or flatten",
+  "shortdescription":"Obsidian Shard",
+  "maxStack":9999
+}

@@ -1,0 +1,9 @@
+{
+  "itemName":"electrumbar",
+  "rarity":"Common",
+  "price":200,
+  "category":"craftingMaterial",
+  "inventoryIcon":"electrumbar.png",
+  "description":"A metal made of gold and silver.",
+  "shortdescription":"Electrum Bar"
+}

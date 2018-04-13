@@ -1,0 +1,10 @@
+{
+  "itemName":"diamondDrillTool",
+  "rarity":"Rare",
+  "price":4,
+  "category":"craftingMaterial",
+  "inventoryIcon":"diamondDrillTool.png",
+  "description":"A tool used to drill gems.",
+  "shortdescription":"Diamond Drill Tool",
+  "maxStack":9999
+}
