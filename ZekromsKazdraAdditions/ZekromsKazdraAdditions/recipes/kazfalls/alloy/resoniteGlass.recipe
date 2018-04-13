@@ -1,0 +1,8 @@
+{
+"input":[
+	{"item":"resonite","count":2},
+	{"item":"obsidian","count":5}
+],
+"output":{"item":"resoniteGlass","count":10},
+"groups":["kazfalls","all"]
+}

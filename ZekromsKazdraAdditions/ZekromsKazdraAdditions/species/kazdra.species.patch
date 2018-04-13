@@ -6,6 +6,10 @@
 },{
 "op":"add",
 "path":"/defaultBlueprints/tier1/-",
+"value":{"item":"resoniteGlass"}
+},{
+"op":"add",
+"path":"/defaultBlueprints/tier1/-",
 "value":{"item":"runeinstantiator"}
 },{
 "op":"add",
