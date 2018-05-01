@@ -1,148 +1,155 @@
 require "/scripts/vec2.lua"
 
 function init()
-  self.chargeTime = config.getParameter("chargeTime")
-  self.boostTime = config.getParameter("boostTime")
-  self.boostSpeed = config.getParameter("boostSpeed")
-  self.boostForce = config.getParameter("boostForce")
-  self.energyCostPerSecond = config.getParameter("energyCostPerSecond")
-  self.fallChance = config.getParameter("fallChance")
-  self.riseChance = config.getParameter("riseChance")
-  self.mag = config.getParameter("magnitude")
-  self.mode = {"idle", "idle"}
-  idle()
-  self.available = true
+	self={
+		chargeTime=config.getParameter("chargeTime",0.5),
+		boostTime=config.getParameter("boostTime",0.25),
+		boostSpeed=config.getParameter("boostSpeed",20),
+		boostForce=config.getParameter("boostForce",500),
+		energyCostPerSecond=config.getParameter("energyCostPerSecond",15),
+		fallChance=config.getParameter("fallChance",-1),
+		riseChance=config.getParameter("riseChance",-1),
+		mag=config.getParameter("magnitude",0.4),
+		mode={nil,nil},
+		space=config.getParameter("space",false),
+		available=true
+	}
+	idle()
 end
 
-function uninit()
-  idle()
-end
+function uninit()	idle()	end
 
 function update(args)
-  local jumpActivated = args.moves.jump and not self.lastJump
-  self.lastJump = args.moves.jump
-  self.stateTimer = math.max(0, self.stateTimer - args.dt)
-  if mcontroller.groundMovement() or mcontroller.liquidMovement() then
-	if self.state ~= "idle" then
-	  idle()
+	local jumpActivated=args.moves.jump and not self.lastJump
+	self.lastJump=args.moves.jump
+	self.stateTimer=math.max(0, self.stateTimer-args.dt)
+	if mcontroller.groundMovement()or mcontroller.liquidMovement()then
+		if self.state then	idle()	end
+		self.available=true
 	end
-	self.available = true
-  end
-  if self.state == "idle" then
-	if jumpActivated and canKazFly() then
-	  getVector(args, true)
-	end
-  elseif self.state == "boost" then
-	local factor
-	if self.mode[2] == 0 then
-		if self.mode[1] == 0 then
-			factor = 0.5
+	if not self.state and jumpActivated and canKazFly()then
+		getVector(args)
+		animator.stopSounds("charge","chargeLoop")
+		animator.playSound("boost")
+	elseif self.state=="boost"then
+		local factor=FIF(self.mode[2]==0,
+			function()return fif(self.mode[1]==0,0.5,0.7)end,
+			function()return FIF(self.mode[2]==1,
+				function()return fif(self.mode[1]==0,1,1.2)end,
+				function()return FIF(self.mode[2]==-1,
+					function()return fif(self.mode[1]==0,0.35,0.5)end,
+					function()return fif(vec2.eq(self.mode,{nil,nil}),0,1)end
+				)end
+			)end
+		)
+		if status.overConsumeResource("energy",self.energyCostPerSecond*factor*args.dt)then
+			mcontroller.controlApproachVelocity(self.boostVelocity,self.boostForce)
+			if canKazFly()then	getVector(args)	end
 		else
-			factor = 0.7
+			idle()
 		end
-	elseif self.mode[2] == 1 then
-		if self.mode[1] == 0 then
-			factor = 1
-		else
-			factor = 1.2
-		end
-	elseif self.mode[2] == -1 then
-		if self.mode[1] == 0 then
-			factor = 0.35
-		else
-			factor = 0.5
-		end
-	elseif vec2.eq(self.mode, {"idle", "idle"}) then
-		factor = 0
-	else
-		factor = 1
 	end
-	if status.overConsumeResource("energy", self.energyCostPerSecond * factor * args.dt) then
-	  mcontroller.controlApproachVelocity(self.boostVelocity, self.boostForce)
-	  if canKazFly() then
-		getVector(args, false)
-	  end
-	else
-	  idle()
-	end
-  end
-  animator.setFlipped(mcontroller.facingDirection() < 0)
+	animator.setFlipped(mcontroller.facingDirection()<0)
 end
 
-function getVector(args, prime)
+function FIF(c,t,f)
+	if c then	return t()	end
+	return f()
+end
+function fif(c,t,f)
+	if c then	return t	end
+	return f
+end
+
+function getVector(args)
 	if not args.moves.run then
 		idle()
 		return
 	end
-	local direction = {0, 0}
-	if args.moves.right then
-		direction[1] = 1
-		if math.random(-1, self.fallChance) == 0 then
-			direction[2] = self.mag
-		elseif math.random(-1, self.riseChance) == 0 then
-			direction[2] = -self.mag
-		end
-	elseif args.moves.left then
-		direction[1] = -1
-		if math.random(-1, self.fallChance) == 0 then
-			direction[2] = self.mag
-		elseif math.random(-1, self.riseChance) == 0 then
-			direction[2] = -self.mag
-		end
+	local direction,self={0,0},self
+	if args.moves.right or args.moves.left then
+		direction={
+			fif(args.moves.right,1,-1),
+			FIF(rand0(self.fallChance),
+				function()return self.mag end,
+				function()return fif(rand0(self.riseChance),-self.mag,direction[2])end
+			)
+		}
 	end
 	if args.moves.up or args.moves.jump then
-		direction[2] = 1
+		direction[2]=1
 	elseif args.moves.down then
-		direction[2] = -1
-	elseif vec2.eq(direction, {0, 0}) then
-		if math.random(-1, self.fallChance) == 0 then
-			direction = {0, -self.mag}
-		elseif math.random(-1, self.riseChance) == 0 then
-			direction = {0, self.mag}
-		else
-			direction = {0, 0}
-		end
+		direction[2]=-1
+	elseif vec2.eq(direction,{0,0}) then
+		direction={
+			0,
+			FIF(rand0(self.fallChance),
+				function()return -self.mag end,
+				function()return fif(rand0(self.riseChance),self.mag,0)end
+			)
+		}
 	end
-	self.mode = vec2.norm(direction)
-	boost(direction, prime)
+	self.mode=vec2.norm(direction)
+	boost(direction)
+end
+
+function rand0(a)
+	return math.random(-1,a)==0
 end
 
 function canKazFly()
-  return self.available
-	  and not mcontroller.jumping()
-	  and not mcontroller.canJump()
-	  and not mcontroller.liquidMovement()
-	  and not status.statPositive("activeMovementAbilities")
+	return self.available and not(
+		mcontroller.jumping() or
+		mcontroller.canJump() or
+		mcontroller.liquidMovement() or
+		status.statPositive("activeMovementAbilities") or
+		airLess()
+	)
+end
+
+function airLess()
+	if self.space then	return	end
+	return listContains(world.environmentStatusEffects(entity.position()),"biomeairless")
+end
+
+function listContains(arr,v)
+	for _,i in pairs(arr)do
+		if i==v then	return true	end
+	end
 end
 
 function charge()
-  self.state = "charge"
-  self.stateTimer = self.chargeTime
-  self.available = false
-  status.setPersistentEffects("movementAbility", {{stat = "activeMovementAbilities", amount = 1}})
-  tech.setParentState("fly")
-  animator.playSound("charge")
-  animator.playSound("chargeLoop", -1)
+	self.state="charge"
+	self.stateTimer=self.chargeTime
+	self.available=false
+	status.setPersistentEffects("movementAbility", {{stat="activeMovementAbilities", amount=1}})
+	--tech.setParentState("Fly")
+	animator.playSound("charge")
+	animator.playSound("chargeLoop",-1)
 end
 
-function boost(direction, sound)
-  self.state = "boost"
-  self.stateTimer = self.boostTime
-  self.boostVelocity = vec2.mul(direction, self.boostSpeed)
-  tech.setParentState()
-  if sound then
-	animator.stopAllSounds("charge")
-	animator.stopAllSounds("chargeLoop")
-	animator.playSound("boost")
-  end
+function boost(direction)
+	self.state="boost"
+	self.stateTimer=self.boostTime
+	self.boostVelocity=vec2.mul(direction, self.boostSpeed)
+	--tech.setParentState("Fly")
 end
 
 function idle()
-  self.state = "idle"
-  self.mode = {"idle", "idle"}
-  self.stateTimer = 0
-  status.clearPersistentEffects("movementAbility")
-  tech.setParentState()
-  animator.stopAllSounds("charge")
-  animator.stopAllSounds("chargeLoop")
+	self.state=nil
+	self.mode={nil,nil}
+	self.stateTimer=0
+	status.clearPersistentEffects("movementAbility")
+	tech.setParentState()
+	animator.stopSounds("charge","chargeLoop")
+end
+
+if animator==nil then
+	animator={}
+end
+
+function animator.stopSounds(...)
+	for _,v in ipairs(arg)do
+		animator.stopAllSounds(v)
+	end
 end
