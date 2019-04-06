@@ -66,6 +66,9 @@ function getVector(args)
 		idle()
 		return
 	end
+	local function rand0(a)
+		return math.random(-1,a)==0
+	end
 	local direction,self={0,0},self
 	if args.moves.right or args.moves.left then
 		direction={
@@ -93,16 +96,12 @@ function getVector(args)
 	boost(direction)
 end
 
-function rand0(a)
-	return math.random(-1,a)==0
-end
-
 function canKazFly()
 	return self.available and not(
-		mcontroller.jumping() or
-		mcontroller.canJump() or
-		mcontroller.liquidMovement() or
-		status.statPositive("activeMovementAbilities") or
+		mcontroller.jumping()or
+		mcontroller.canJump()or
+		mcontroller.liquidMovement()or
+		status.statPositive("activeMovementAbilities")or
 		airLess()
 	)
 end
@@ -122,7 +121,7 @@ function charge()
 	self.state="charge"
 	self.stateTimer=self.chargeTime
 	self.available=false
-	status.setPersistentEffects("movementAbility", {{stat="activeMovementAbilities", amount=1}})
+	status.setPersistentEffects("movementAbility",{{stat="activeMovementAbilities",amount=1}})
 	--tech.setParentState("Fly")
 	animator.playSound("charge")
 	animator.playSound("chargeLoop",-1)
